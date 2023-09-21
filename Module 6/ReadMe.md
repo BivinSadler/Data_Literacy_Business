@@ -1,1 +1,1 @@
-# Files and Code for Module 6
+# Files for Module 6
