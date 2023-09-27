@@ -1,0 +1,5 @@
+Dataset,Owner,Primary Key(s),Size,RestrictedAccess,Notes
+Customer Data,HR,CCNum,204,Yes,? Is used for missing data
+Credit Data,CreditTeam,CC Number,204,Yes,"""-1"" is used for missing data"
+Transaction Data,Operations,Transaction Number,204,Yes,No Missing Data
+Research,R&D,Transaction Number,204,Yes,NA Used for Missing Data

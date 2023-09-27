@@ -1,0 +1,205 @@
+First ,Last,CCNum,MinUsualAmount,MaxUsualAmount,CustomerHomeCity,CustomerAge,CustomerGender,CustomerMaritalStatus,CustomerHasChildren,UsualTimeMin,UsualTimeMax
+  Liam       , Smith,3148-0760-1525-1580,2283,11236,Dallas,35,M,Single ,Yes,9,23
+  Olivia     , Williams,9307-8486-3106-0570,3942,10999,Frisco,32,M,Divorced,Yes,8,22
+  John ,  Smith,8977-3819-8830-4550,3286,12512,Addison,39,F,Single ,No,6,28
+  Ava        , Jones,3910-0458-4550-6040,3405,7937,Irving,42,F,Married,No,5,15
+  Isabella   , Garcia,3938-1446-7680-3900,3833,9484,Addison,47,Male,Widowed,No,4,13
+  Sophia     , Martinez,4631-4429-0257-0560,3275,9156,Farmer's Branch,43,f,Married,Yes,9,23
+  Jackson    , Rodriguez,1443-2728-7860-4220,2550,9099,Dallas,28,f,Married,Yes,8,22
+  Aiden      , Davis,1254-6321-3474-9800,3344,12528,McKinney,42,Male,Single ,No,6,28
+ Lucas      , Hernandez,5091-7271-5569-6400,3951,7203,Plano,33,f,Single ,Yes,5,15
+ Mia        , Gonzalez,2812-1851-8676-7610,3040,14205,Plano,33,F,Single ,Yes,4,13
+ Benjamin   , Wilson,6330-6256-1908-0340,2491,6390,Rockwall,55,F,Divorced,No,9,23
+ Amelia     , Perez,3559-2061-1891-5870,4394,10056,Dallas,46,Female,Single ,No,8,22
+ Elijah     , Taylor,5304-3282-2159-0160,1916,14900,Arlington,42,F,Married,No,6,28
+ Charlotte  , Thomas,2326-9867-6999-2740,3888,11122,Dallas,450,M,Widowed,Yes,5,15
+ Logan      , Anderson,8321-6911-7839-8960,2512,7448,Dallas,45,Male,Married,Yes,4,13
+ Oliver     , White,4781-2395-7064-6980,3406,11510,Dallas,35,M,Married,No,9,23
+ Harper     , Harris,7812-8473-9967-0870,2947,9970,Plano,44,M,Single ,Yes,8,22
+ Ethan      , Clark,1689-8662-1571-3940,2613,10393,Dallas,43,m,Single ,Yes,6,28
+ Alexander  , Lee,1911-9361-2841-1620,3278,7596,Frisco,36,Male,single,No,5,15
+ Michael    , Lewis,8554-9700-1451-3660,2452,10989,Addison,56,M,Divorced,No,4,13
+  John ,  Smith,4083-6432-4051-0140,2779,10159,Irving,40,M,Single ,No,9,23
+ James      , Hall,3577-1492-2456-0310,3138,9712,Addison,41,F,Married,Yes,8,22
+ William    , Allen,3299-7255-0616-7710,3046,8391,Farmer's Branch,37,F,Widowed,Yes,6,28
+ Daniel     , Young,3762-3518-6783-9760,3176,9770,Dallas,56,Male,Married,No,5,15
+ Grace      , King,3508-3905-2913-5770,2604,5824,McKinney,33,f,Married,Yes,4,13
+ Joseph     , Wright,4421-2696-6908-7110,3907,10791,Plano,62,f,Single ,Yes,9,23
+ Abigail    , Lopez,1906-3938-5292-4360,2831,7818,Plano,41,Male,Single ,No,8,22
+ Samuel     , Hill,2433-0256-5939-3520,2226,10823,Rockwall,31,f,Single ,No,6,28
+ John       , Scott,8004-6532-7900-1040,4053,9773,Dallas,42,F,Divorced,No,5,15
+ Emily      , Green,2735-0229-7750-9480,3189,9935,Arlington,38,F,Single ,Yes,4,13
+ David      , Adams,7441-5692-0142-9400,2879,7948,Dallas,35,Female,Married,Yes,9,23
+ Benjamin   , Baker,2636-1361-4030-2230,3117,10671,Dallas,43,F,Widowed,No,8,22
+ Chloe      , Nelson,9140-3674-0115-7990,3210,8712,Dallas,38,M,Married,Yes,6,28
+ Christopher, Carter,2122-3815-5938-2820,2504,8679,Plano,52,Male,Married,Yes,5,15
+ Andrew     , Mitchell,8458-8912-6157-5520,1605,10751,Dallas,33,M,Single ,No,4,13
+ Lily       , Roberts,6990-5636-6997-8040,2638,14451,Frisco,42,M,single,No,9,23
+ Gabriel    , Turner,1865-4689-0452-5340,3397,13226,Addison,62,m,Single ,No,8,22
+ Zoe        , Phillips,8908-0213-8856-8550,3143,6860,Irving,40,Male,Divorced,Yes,6,28
+ Anthony    , Campbell,1141-8005-0503-2280,1986,9746,Addison,39,M,Single ,Yes,5,15
+ Madison    , Parker,5161-9177-3866-1670,3421,12331,Farmer's Branch,44,M,Married,No,4,13
+ Matthew    , Evans,7936-5340-2704-3940,3522,9605,Dallas,51,F,Widowed,Yes,9,23
+ Angelina   , Edwards,2334-9412-3585-1140,3289,8939,McKinney,48,F,Married,Yes,8,22
+ Joshua     , Collins,9378-9787-8382-9640,3508,6926,Plano,38,Male,Married,No,6,28
+ Nicholas   , Stewart,9523-6529-3794-5380,2985,8706,Plano,53,f,Single ,No,5,15
+ Ryan       , Sanchez,2346-7593-6564-6140,2914,9415,Rockwall,41,f,Single ,No,4,13
+ Christian  , Morris,3023-9622-3258-3980,3328,11652,Dallas,35,Male,Single ,Yes,9,23
+ Aubrey     , Rogers,8076-2720-2313-9110,2594,11934,Arlington,42,f,Divorced,Yes,8,22
+ Henry      , Reed,2078-3349-0269-1350,2635,7167,Dallas,38,F,Single ,No,6,28
+ Owen       , Cook,8380-0804-7756-7790,1855,9437,Dallas,31,F,Married,Yes,5,15
+ Landon     , Morgan,6398-6839-5215-4170,2687,8122,Dallas,48,Female,Widowed,Yes,4,13
+ Aria       , Bell,6736-8176-7031-3890,2129,12945,Plano,38,F,Married,No,9,23
+ Jonathan   , Murphy,7494-9007-2811-6660,2086,9745,Dallas,41,M,Single ,Yes,8,22
+ Isabella   , Bailey,5896-0608-5936-8360,2254,9264,Frisco,44,M,Divorced,Yes,6,28
+ Isaac      , Rivera,7057-7762-7092-8520,2739,14118,Addison,43,F,Single ,No,5,15
+ Mary       , Cooper,6907-1697-6885-5070,3266,8805,Irving,39,F,Married,No,4,13
+ Sofia      , Richardson,4037-8988-2351-0350,3296,6595,Addison,42,Male,Widowed,No,9,23
+ Adam       , Cox,6872-3429-6845-7370,3433,11446,Farmer's Branch,45,f,Married,Yes,8,22
+ Nathan     , Howard,7771-5281-3803-5520,2776,6968,Dallas,39,f,Married,Yes,6,28
+ Victoria   , Ward,5296-8805-5321-0040,3344,13624,McKinney,31,Male,Single ,No,5,15
+ Jeremiah   , Torres,3130-6537-0023-3090,3341,11275,Plano,36,f,single,Yes,4,13
+ Julian     , Peterson,8607-9093-3800-5290,1699,11681,Plano,32,F,Single ,Yes,9,23
+ Luke       , Gray,7381-9457-9461-3490,3747,6637,Rockwall,55,F,Divorced,No,8,22
+ Jack       , Ramirez,9724-3314-8908-0390,3098,7094,Dallas,39,Female,Single ,No,6,28
+ Lily       , James,9885-5886-9726-6260,2940,11340,Arlington,38,F,Married,No,5,15
+ Dylan      , Watson,2130-3970-3796-0640,2341,13224,Dallas,43,M,Widowed,Yes,4,13
+ Caleb      , Brooks,9228-8829-0272-2630,2038,11506,Dallas,59,Male,Married,Yes,9,23
+ Elizabeth  , Kelly,5455-2520-6947-9350,2901,10673,Dallas,38,M,Married,No,8,22
+ Leo        , Sanders,6659-9710-3513-1970,2111,11715,Plano,37,M,Single ,Yes,6,28
+ Jaxon      , Price,2777-9908-3371-7320,3314,8758,Dallas,25,m,Single ,Yes,5,15
+ Levi       , Bennett,3188-5293-2150-5920,3530,9268,Frisco,44,Male,Single ,No,4,13
+ Audrey     , Wood,1539-4594-3990-3740,1732,14033,Addison,45,M,Divorced,No,9,23
+ Evelyn     , Barnes,7072-8988-0715-9240,3910,10370,Irving,39,M,Single ,No,8,22
+ Aaron      , Ross,9262-6445-5336-4390,3645,9201,Addison,42,F,Married,Yes,6,28
+ Adrian     , Henderson,6276-3858-6744-4840,3631,8715,Farmer's Branch,50,F,Widowed,Yes,5,15
+ Stella     , Coleman,1727-9293-7427-5230,3048,9682,Dallas,41,Male,Married,No,4,13
+ Brandon    , Jenkins,7590-7629-1461-2100,3320,10010,McKinney,37,f,Married,Yes,9,23
+ Kaylee     , Perry,8058-9734-5380-2390,3745,9671,Plano,62,f,Single ,Yes,8,22
+ Zoe        , Powell,8309-5201-7721-5040,3574,9237,Plano,39,Male,Single ,No,6,28
+ Jose       , Long,8741-8927-0372-5720,3448,12586,Rockwall,33,f,Single ,No,5,15
+ Penelope   , Patterson,2053-1254-2981-8320,3643,12416,Dallas,32,F,Divorced,No,4,13
+ Elijah     , Hughes,6397-5198-5820-6790,3069,11625,Arlington,44,F,Single ,Yes,9,23
+ Cameron    , Flores,4275-1116-5201-9450,3346,10957,Dallas,45,Female,Married,Yes,8,22
+ Alexa      , Washington,5436-3586-3420-3340,3053,9933,Dallas,47,F,Widowed,No,6,28
+ Angel      , Butler,6384-6076-1532-1050,3741,12699,Dallas,39,M,Married,Yes,5,15
+ Isaiah     , Simmons,4465-0325-0584-5190,3223,9950,Plano,48,Male,Married,Yes,4,13
+ Charlie    , Foster,6039-1667-4550-2050,3562,10141,Dallas,54,M,Single ,No,9,23
+ Hunter     , Gonzales,4525-0142-1402-3670,2494,12483,Frisco,38,M,Single ,No,8,22
+ Thomas     , Bryant,6468-4324-0746-2280,3147,11500,Addison,33,m,Single ,No,6,28
+ Ariana     , Alexander,6801-5698-9125-4180,3598,11033,Irving,52,Male,Divorced,Yes,5,15
+ Faith      , Russell,7115-0499-8405-4710,3074,8267,Addison,45,M,Single ,Yes,4,13
+ Lucas      , Griffin,9112-9018-4199-1230,3269,9371,Farmer's Branch,41,M,Married,No,9,23
+ Chloe      , Diaz,1652-3370-1779-9630,2080,8926,Dallas,57,F,Widowed,Yes,8,22
+ Carson     , Hayes,1824-5836-3406-0200,1952,10805,McKinney,47,F,Married,Yes,6,28
+ Skylar     , Myers,3701-2235-4278-0890,2425,8505,Plano,43,Male,Married,No,5,15
+ Tristan    , Ford,6426-0304-6773-4080,4253,8869,Plano,45,f,Single ,No,4,13
+ Nora       , Hamilton,1575-9056-1128-8570,3707,12138,Rockwall,36,f,Single ,No,9,23
+ Jace       , Graham,4477-3656-3524-6600,3811,9675,Dallas,37,Male,Single ,Yes,8,22
+ Harper     , Sullivan,3246-8649-3181-3820,4533,14600,Arlington,40,f,Divorced,Yes,6,28
+ Xavier    , Wallace,3713-5495-6108-5810,2763,11195,Dallas,42,F,Single ,No,5,15
+ Evan      , Woods,6904-9990-1876-5460,2793,10215,Dallas,49,F,Married,Yes,4,13
+ Mia       , Cole,4720-3701-1737-1250,1209,10697,Dallas,29,Female,Widowed,Yes,9,23
+ Aiden     , West,5284-5086-0768-0850,3111,8101,Plano,28,F,Married,No,8,22
+ Leah      , Jordan,4487-5702-6081-6360,3283,9053,Dallas,38,M,Single ,Yes,6,28
+ Benjamin  , Owens,8328-8068-9711-7380,3270,10309,Frisco,44,M,Divorced,Yes,5,15
+ Emma      , Reynolds,4710-2690-4985-9610,2402,8715,Addison,34,F,Single ,No,4,13
+ Caden     , Fisher,6628-8034-7795-3730,2168,11167,Irving,33,F,Married,No,9,23
+ Avery     , Ellis,9460-8014-4356-2110,3227,7380,Addison,37,Male,Widowed,No,8,22
+ Logan     , Harrison,4103-1871-6683-4920,2930,12407,Farmer's Branch,35,f,Married,Yes,6,28
+ Sophia    , Gibson,2187-5013-2016-1920,2557,10223,Dallas,32,f,Married,Yes,5,15
+ Jackson   , Mcdonald,5157-0504-8268-5170,3223,9200,McKinney,51,Male,Single ,No,4,13
+ Olivia    , Cruz,9005-0922-5850-9000,3531,9010,Plano,27,f,Single ,Yes,9,23
+ Isaiah    , Marshall,3235-6232-2278-6350,1717,10216,Plano,33,F,Single ,Yes,8,22
+ Liam      , Ortiz,2499-6475-8414-5670,1925,9511,Rockwall,55,F,Divorced,No,6,28
+ Madison   , Gomez,5620-8023-3277-0060,2822,8529,Dallas,44,Female,Single ,No,5,15
+ Mason     , Murray,6132-3000-0117-1510,3275,7791,Arlington,32,F,Married,No,4,13
+ Ava       , Freeman,2303-5680-0872-1010,3323,11030,Dallas,40,M,Widowed,Yes,9,23
+ Anthony   , Wells,3767-3980-9270-4430,1903,8941,Dallas,37,Male,Married,Yes,8,22
+ Mia       , Webb,1661-5394-8445-5560,4789,9423,Dallas,24,M,Married,No,6,28
+ Sebastian , Simpson,6582-5716-4539-1560,2254,10722,Plano,49,M,Single ,Yes,5,15
+ Elijah    , Stevens,2029-1141-0477-2880,3119,9215,Dallas,36,m,Single ,Yes,4,13
+ Amelia    , Tucker,1170-0171-1478-5980,3027,11014,Frisco,27,Male,Single ,No,9,23
+ Luke      , Porter,9520-5757-7972-9560,2270,9723,Addison,36,M,Divorced,No,8,22
+ Benjamin  , Hunter,4493-8151-3225-7700,2279,8007,Irving,30,M,Single ,No,6,28
+ Matthew   , Hicks,6568-3993-1519-0660,3185,9792,Addison,35,F,Married,Yes,5,15
+ Alexander , Crawford,4699-6247-2725-4900,3053,11970,Farmer's Branch,40,F,Widowed,Yes,4,13
+ Jacob     , Henry,4241-0220-3264-9590,2073,8374,Dallas,35,Male,Married,No,9,23
+ William   , Boyd,6130-8624-1934-3670,2487,12248,McKinney,41,f,Married,Yes,8,22
+ Michael   , Fox,5940-8854-1910-4680,4221,10997,Plano,62,f,Single ,Yes,6,28
+ Elizabeth , Mason,9444-7130-4798-2920,3333,9386,Plano,36,Male,Single ,No,5,15
+ Emily     , Morales,3769-6187-2792-9810,3430,9111,Rockwall,51,f,Single ,No,4,13
+ Daniel    , Kennedy,4266-6666-1326-4540,1624,11424,Dallas,31,F,Divorced,No,9,23
+ Aiden     , Warren,2408-5106-9703-4060,2660,15081,Arlington,31,F,Single ,Yes,8,22
+ James     , Dixon,6061-7742-6934-0880,2968,9375,Dallas,26,Female,Married,Yes,6,28
+ Emma      , Ramos,8748-9914-1186-4620,3485,5192,Dallas,49,F,Widowed,No,5,15
+ Christopher, Reyes,9873-0777-1002-3480,2046,8484,Dallas,41,M,Married,Yes,4,13
+ Andrew    , Burns,8376-1580-2091-5400,3739,12080,Plano,33,Male,Married,Yes,9,23
+ Joseph    , Gordon,8432-6430-7394-4200,2361,12375,Dallas,26,M,Single ,No,8,22
+ Joshua    , Shaw,3720-7441-6388-6110,2513,11391,Frisco,42,M,Single ,No,6,28
+ Sophia    , Holmes,4111-8717-3034-9610,2842,8437,Addison,38,m,Single ,No,5,15
+ Anthony   , Rice,3673-5726-3481-3950,3380,10952,Irving,38,Male,Divorced,Yes,4,13
+ Charlotte , Robertson,1123-9961-2853-9250,2016,7709,Addison,38,M,Single ,Yes,9,23
+ Jackson   , Hunt,8057-2315-7637-4820,2720,9577,Farmer's Branch,46,M,Married,No,8,22
+ Olivia    , Black,6789-7988-2542-4850,3271,7890,Dallas,34,F,Widowed,Yes,6,28
+ Isabella  , Daniels,5679-1059-8901-2590,3572,6608,McKinney,47,F,Married,Yes,5,15
+ Liam      , Palmer,4863-7428-5942-8420,3782,9519,Plano,41,Male,Married,No,4,13
+ Lucas     , Mills,4269-7324-4252-9400,2506,9769,Plano,53,f,Single ,No,9,23
+ Mason     , Nichols,9344-1859-4944-7380,2085,9959,Rockwall,39,f,Single ,No,8,22
+ Ava       , Grant,4176-1661-5287-4530,3119,13206,Dallas,51,Male,Single ,Yes,6,28
+ Mia       , Knight,9899-2492-8527-4810,3201,8914,Arlington,38,f,Divorced,Yes,5,15
+ Noah      , Ferguson,2714-4678-5487-2220,2877,8328,Dallas,43,F,Single ,No,4,13
+ Ethan     , Rose,2938-5874-1917-1450,1799,8472,Dallas,42,F,Married,Yes,9,23
+ Harper    , Stone,9346-6120-2105-1470,3028,9856,Dallas,51,Female,Widowed,Yes,8,22
+ Michael   , Hawkins,1751-2759-6909-7130,2830,14743,Plano,45,F,Married,No,6,28
+ Benjamin  , Dunn,2742-0658-5087-7730,2711,11575,Dallas,48,M,Single ,Yes,5,15
+ Elijah    , Perkins,6587-4843-5557-7300,1517,9579,Frisco,43,M,Divorced,Yes,4,13
+ Daniel    , Hudson,4255-2471-2443-4460,4165,8628,Addison,30,F,Single ,No,9,23
+ Aiden     , Spencer,1905-4967-7428-5620,2616,12305,Irving,56,F,Married,No,8,22
+ James     , Gardner,5856-4661-6625-9230,3007,12290,Addison,39,Male,Widowed,No,6,28
+ William   , Stephens,2943-8547-8097-9750,1304,7712,Farmer's Branch,41,f,Married,Yes,5,15
+ Alexander , Payne,4211-4291-8540-2150,1974,9433,Dallas,50,f,Married,Yes,4,13
+ Matthew   , Pierce,6687-8164-7485-0540,1936,10098,McKinney,33,Male,Single ,No,9,23
+ Joseph    , Berry,6570-8645-8830-9270,4992,11345,Plano,22,f,Single ,Yes,8,22
+ Emily     , Matthews,4214-8822-5724-7870,2481,10565,Plano,25,F,Single ,Yes,6,28
+ Jacob     , Arnold,6188-9835-5562-6420,3362,8145,Rockwall,55,F,Divorced,No,5,15
+ Logan     , Wagner,8297-6427-0483-4260,3629,9824,Dallas,40,Female,Single ,No,4,13
+ David     , Willis,2905-8513-9293-0260,3838,11098,Arlington,38,F,Married,No,9,23
+ Christopher, Ray,7809-0959-1120-8530,3643,8660,Dallas,39,M,Widowed,Yes,8,22
+ Andrew    , Watkins,6509-4280-6211-8370,3416,7921,Dallas,44,Male,Married,Yes,6,28
+ Jack      , Olson,6688-7925-2674-5350,4236,8401,Dallas,45,M,Married,No,5,15
+ Joshua    , Carroll,4167-4901-6159-4950,4130,9214,Plano,28,M,Single ,Yes,4,13
+ Madison   , Duncan,1226-9424-4467-1420,3236,6742,Dallas,45,m,Single ,Yes,9,23
+ Emma      , Snyder,4280-7337-2571-6780,3609,12299,Frisco,29,Male,Single ,No,8,22
+ Charlotte , Hart,4792-5329-7718-0050,3850,9802,Addison,35,M,Divorced,No,6,28
+ Olivia    , Cunningham,1550-9658-7980-2100,2555,12575,Irving,48,M,Single ,No,5,15
+ Sophia    , Bradley,7149-2565-1137-8400,1989,10529,Addison,35,F,Married,Yes,4,13
+ Ava       , Lane,1843-2127-3388-3350,2914,10922,Farmer's Branch,43,F,Widowed,Yes,9,23
+ Isabella  , Andrews,5090-2677-4615-5760,2893,11436,Dallas,57,Male,Married,No,8,22
+ Mia       , Ruiz,2498-8734-1451-8240,2185,11355,McKinney,41,f,Married,Yes,6,28
+ Aiden     , Harper,9668-3704-6438-0890,2236,6201,Plano,62,f,Single ,Yes,5,15
+ Jackson   , Fox,4389-3784-3174-3140,2811,7691,Plano,39,Male,Single ,No,4,13
+ Lucas     , Riley,1075-0884-6225-7710,3688,6020,Rockwall,36,f,Single ,No,9,23
+ Benjamin  , Armstrong,9663-3787-8410-1520,3202,8389,Dallas,37,F,Divorced,No,8,22
+ Elijah    , Carpenter,2095-6295-0051-2470,4125,10662,Arlington,46,F,Single ,Yes,6,28
+ Daniel    , Weaver,8538-4648-2285-8040,2308,10186,Dallas,33,Female,Married,Yes,5,15
+ Michael   , Greene,6816-7730-9819-7550,2482,10911,Dallas,34,F,Widowed,No,4,13
+ Matthew   , Lawrence,3421-0572-2882-4570,2694,13437,Dallas,52,M,Married,Yes,9,23
+ Alexander , Elliott,1336-3924-8920-6110,3075,8251,Plano,48,Male,Married,Yes,8,22
+ James     , Chavez,9174-3154-3576-2500,4868,10369,Dallas,35,M,Single ,No,6,28
+ William   , Sims,1065-2485-1183-0930,1767,11740,Frisco,28,M,Single ,No,5,15
+ Joseph    , Austin,3186-8642-8604-0760,3572,13220,Addison,37,m,Single ,No,4,13
+ Christopher, Peters,9327-2310-3555-0770,4134,9461,Irving,43,Male,Divorced,Yes,9,23
+ Andrew    , Kelley,5966-9142-4267-7090,2292,13215,Addison,53,M,Single ,Yes,8,22
+ David     , Franklin,1015-9613-5590-5730,3409,8023,Farmer's Branch,42,M,Married,No,6,28
+ Joshua    , Lawson,5081-6418-9551-8860,2128,10469,Dallas,43,F,Widowed,Yes,5,15
+ Emily     , Fields,4166-9499-7941-7530,2969,7553,McKinney,32,F,Married,Yes,4,13
+ Jack      , Gutierrez,3829-2901-7620-2140,3208,10311,Plano,38,Male,Married,No,9,23
+ Madison   , Ryan,3456-6207-4349-0100,2715,11720,Plano,52,f,Single ,No,8,22
+ Emma      , Schmidt,4626-3684-8511-7690,2817,10381,Rockwall,43,f,Single ,No,6,28
+ Charlotte , Carr,7623-8110-1675-9660,3476,10478,Dallas,38,Male,Single ,Yes,5,15
+ Sophia    , Vasquez,4353-6874-0827-6750,3731,9762,Arlington,52,f,Divorced,Yes,4,13
+ Olivia    , Castillo,3819-0730-7644-8690,3766,10361,Dallas,49,F,Single ,No,9,23
+ Ava       , Wheeler,9037-6212-8895-1430,3232,9040,Dallas,41,F,Married,Yes,8,22
+ Isabella  , Chapman,3531-7614-1888-9420,2654,8571,Dallas,33,Female,Widowed,Yes,6,28
+Emma,Johnson,6676-0953-9718-0600,3434,13493,Plano,44,F,Married,No,5,15
