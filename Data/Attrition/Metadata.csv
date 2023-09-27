@@ -1,0 +1,7 @@
+Dataset,Owner,Primary Key(s),Size,RestrictedAccess
+Payroll,Payroll,ID,,Yes
+HR1Personal,HR,Employee Number or Employee ID,,Yes
+HR2 ,HR,Employee Number or Employee ID,,Yes
+EmployeeSurvey,Sam Rogers,EN,,Yes
+Performance,HR,Employee Number or Employee ID,,Yes
+Lookup,HR,Employee Number or Employee ID,,No
