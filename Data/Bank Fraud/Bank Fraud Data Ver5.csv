@@ -209,9 +209,9 @@ ID,First ,Last,Amount,MinUsualAmount,MaxUsualAmount,OutsideMinMax,CC Number,Cred
 2041,Benjamin,Smith,$635.42 ,9,657,Inside,4104820000000000,20000,0.75376667,Yes,Netflix,Farmers Branch,20,Low,Female,Married,No,0,54663617,8/7/23,15:30:46,Yes
 773,Mia,Lee,$21.90 ,5,428,Inside,4353470000000000,20000,0.370631427,Yes,Uber,Addison,27,Low,Male,Single,Yes,1,17709799,5/8/23,22:28:39,Yes
 974,Michael,Anderson,$220.30 ,8,615,Inside,4850780000000000,15000,0.669666071,Yes,SMU,McKinney,28,Low,Female,Single,Yes,0,98952425,5/31/23,7:51:19,Yes
-1079,Oliver,Williams,$562.53 ,10,726,Inside,4264990000000000,15000,0.117724986,Yes,Apple,Irving,21,Low,Female,Single,No,0,40641659,7/22/23,15:01:33,YES
+1079,Oliver,Williams,$562.53 ,10,726,Inside,4264990000000000,15000,0.117724986,Yes,Apple,Irving,21,Low,Female,Single,No,1,40641659,7/22/23,15:01:33,YES
 1081,Oliver,Harris,$239.61 ,10,738,Inside,4629880000000000,5000,0.666443943,Yes,McDonald's,Irving,28,Low,Female,Single,No,0,41568539,9/26/23,23:41:07,YES
-1097,Oliver,White,$631.74 ,10,706,Inside,4387070000000000,10000,0.765697456,Yes,Walmart,Arlington,26,Low,Male,Single,Yes,0,30122002,5/27/23,16:31:27,YES
+1097,Oliver,White,$631.74 ,10,706,Inside,4387070000000000,10000,0.765697456,Yes,Walmart,Arlington,26,Low,Male,Single,Yes,1,30122002,5/27/23,16:31:27,YES
 1263,Logan,Lewis,$118.56 ,5,377,Inside,4994030000000000,40000,0.098102149,Yes,Home Depot,Dallas,26,Low,Male,Single,No,0,19319280,9/8/23,9:47:45,Yes
 1279,Amelia,Rodriguez,$541.78 ,11,809,Inside,4490490000000000,10000,0.587427866,Yes,Honda,Dallas,24,Low,Male,Single,Yes,0,47122366,9/9/23,23:14:53,Yes
 1468,Olivia,White,$86.60 ,3,275,Inside,4062560000000000,15000,0.455417986,Yes,Starbucks,Irving,19,Low,Male,Single,No,1,10680965,12/21/23,20:55:20,Yes
@@ -300,15 +300,15 @@ ID,First ,Last,Amount,MinUsualAmount,MaxUsualAmount,OutsideMinMax,CC Number,Cred
 1231,John,Clark,$259.27 ,10,782,Inside,4298790000000000,15000,0.701880287,No,Lift,Rockwall,75,High,Female,Married,No,0,96403552,4/11/23,5:16:48,Yes
 1249,Benjamin,Clark,$61.03 ,5,422,Inside,4829670000000000,10000,0.135445849,No,McDonald's,Frisco,71,High,Female,Married,Yes,0,39426859,4/7/23,14:22:01,Yes
 1594,Elijah,Lee,$39.55 ,3,219,Inside,4915040000000000,20000,0.591684372,No,Uber,Irving,80,High,Female,Married,No,0,10064806,9/4/23,21:20:21,Yes
-1602,Olivia,Williams,$250.56 ,10,796,Inside,4588510000000000,10000,0.106776812,No,Starbucks,McKinney,79,High,Male,Married,Yes,0,1527905,4/27/23,19:40:53,Yes
+1602,Olivia,Williams,$250.56 ,10,796,Inside,4588510000000000,10000,0.106776812,No,Starbucks,McKinney,79,High,Male,Married,Yes,1,1527905,4/27/23,19:40:53,Yes
 1056,Aiden,Martinez,$423.66 ,7,536,Inside,4777070000000000,15000,0.650782783,No,Amazon,Irving,75,High,Male,Single,No,0,32163359,11/27/23,11:23:05,YES
 1082,Lucas,Hernandez,$278.28 ,5,442,Inside,4261750000000000,10000,0.836891276,No,Uber,Dallas,72,High,Male,Single,Yes,0,1040842,8/15/23,21:51:04,YES
 1085,Amelia,Perez,$469.76 ,10,782,Inside,4503580000000000,5000,0.519441966,No,Starbucks,Addison,80,High,Female,Single,No,0,33489974,4/12/23,17:59:53,YES
-1145,Oliver,Jones,$640.77 ,9,722,Inside,4692130000000000,1000,0.936398213,No,Subaru,McKinney,67,High,Male,Single,Yes,0,42211874,9/22/23,7:41:38,YES
+1145,Oliver,Jones,$640.77 ,9,722,Inside,4692130000000000,1000,0.936398213,No,Subaru,McKinney,67,High,Male,Single,Yes,1,42211874,9/22/23,7:41:38,YES
 1153,Alexander,Perez,$225.86 ,9,666,Inside,4531710000000000,10000,0.98213605,No,Subaru,Arlington,69,High,Male,Single,Yes,0,4841038,7/12/23,0:51:29,YES
 1241,Sophia,Garcia,$524.29 ,9,706,Inside,4799020000000000,20000,0.44054233,No,Starbucks,McKinney,75,High,Male,Single,No,0,62174357,6/1/23,4:51:09,Yes
 1268,Liam,Williams,$404.50 ,9,702,Inside,4548020000000000,1000,0.47551015,No,InternationalHolding,Addison,77,High,Male,Single,Yes,0,68368541,6/10/23,20:55:48,Yes
-1491,Harper,Thomas,$576.76 ,10,728,Inside,4910880000000000,15000,0.221993739,No,Smoothy King,Plano,75,High,Female,Single,Yes,0,72676866,3/6/23,14:52:53,Yes
+1491,Harper,Thomas,$576.76 ,10,728,Inside,4910880000000000,15000,0.221993739,No,Smoothy King,Plano,75,High,Female,Single,Yes,1,72676866,3/6/23,14:52:53,Yes
 1507,Isabella,Williams,$139.58 ,7,553,Inside,4648810000000000,5000,0.225177899,No,IBM,Farmers Branch,73,High,Male,Single,Yes,0,9171173,1/31/23,16:20:25,Yes
 1651,Oliver,Thomas,$603.23 ,9,729,Inside,4633850000000000,40000,0.249081945,No,IBM,Frisco,78,High,Female,Single,No,0,57836189,4/8/23,11:48:28,Yes
 1762,Oliver,Jones,$392.16 ,5,435,Inside,4868280000000000,5000,0.86955177,No,Netflix,Addison,80,High,Male,Single,No,0,39025755,11/21/23,2:19:48,Yes
@@ -658,33 +658,33 @@ ID,First ,Last,Amount,MinUsualAmount,MaxUsualAmount,OutsideMinMax,CC Number,Cred
 1876,John,Hernandez,$368.45 ,4,286,Outside,4872730000000000,10000,0.501052569,Yes,InternationalHolding,Arlington,34,Middle,Male,Married,No,0,17505945,1/17/23,22:56:37,No
 2035,Logan,Martinez,$433.21 ,2,220,Outside,4545680000000000,10000,0.8641464,Yes,Apple,Farmers Branch,52,Middle,Male,Married,Yes,0,87762533,4/2/23,4:45:06,No
 2061,John,Martinez,$535.59 ,1,108,Outside,4172160000000000,15000,0.430574362,Yes,Amazon,Addison,55,Middle,Male,Married,No,0,13640059,1/24/23,15:58:15,No
-2189,Isabella,Lewis,$471.89 ,2,143,Outside,4647580000000000,10000,0.704038007,Yes,Uber,McKinney,41,Middle,Male,Married,Yes,0,53855376,6/9/23,6:24:36,No
+2189,Isabella,Lewis,$471.89 ,2,143,Outside,4647580000000000,10000,0.704038007,Yes,Uber,McKinney,41,Middle,Male,Married,Yes,1,53855376,6/9/23,6:24:36,No
 290,Charlotte,Garcia,$254.98 ,3,244,Outside,4707620000000000,15000,0.861141013,Yes,Smoothy King,Rockwall,52,Middle,Female,Single,No,0,91912580,2/18/23,13:26:57,No
 311,Alexander,Lewis,$386.38 ,4,361,Outside,4289620000000000,20000,0.190841521,Yes,Uber,Dallas,42,Middle,Female,Single,Yes,0,13985778,9/19/23,1:24:03,No
 319,Michael,Rodriguez,$3.58 ,4,285,Outside,4536480000000000,10000,0.715679463,Yes,SMU,Dallas,31,Middle,Male,Single,Yes,0,78575673,6/30/23,12:49:12,No
-339,Aiden,Gonzalez,$464.05 ,4,325,Outside,4071160000000000,1000,0.137957864,Yes,Amazon,Irving,60,Middle,Male,Single,Yes,0,6140298,3/31/23,3:35:23,No
+339,Aiden,Gonzalez,$464.05 ,4,325,Outside,4071160000000000,1000,0.137957864,Yes,Amazon,Irving,60,Middle,Male,Single,Yes,1,6140298,3/31/23,3:35:23,No
 350,Elijah,Garcia,$493.27 ,3,234,Outside,4434260000000000,5000,0.410337307,Yes,InternationalHolding,Irving,57,Middle,Male,Single,No,0,59014689,9/5/23,2:29:08,No
 410,Jackson,Perez,$594.87 ,6,480,Outside,4498320000000000,40000,0.063853314,Yes,Apple,Frisco,40,Middle,Female,Single,No,0,72998231,6/22/23,4:46:47,No
 429,Mia,Williams,$463.51 ,3,243,Outside,4198740000000000,15000,0.773971613,Yes,Netflix,Farmers Branch,44,Middle,Female,Single,No,0,41583305,12/29/23,17:50:17,No
 445,Olivia,Taylor,$574.73 ,7,554,Outside,4035600000000000,5000,0.056158914,Yes,Lift,Dallas,52,Middle,Male,Single,Yes,0,87431306,6/16/23,20:25:16,No
 481,Ethan,Harris,$334.74 ,4,290,Outside,4481400000000000,40000,0.945059106,Yes,Starbucks,Dallas,55,Middle,Male,Single,Yes,0,50835230,6/5/23,22:07:09,No
-519,Elijah,Perez,$512.66 ,1,71,Outside,4816440000000000,1000,0.676207363,Yes,Lift,Rockwall,36,Middle,Male,Single,No,0,3810159,4/22/23,6:45:55,No
+519,Elijah,Perez,$512.66 ,1,71,Outside,4816440000000000,1000,0.676207363,Yes,Lift,Rockwall,36,Middle,Male,Single,No,1,3810159,4/22/23,6:45:55,No
 594,Sophia,Gonzalez,$698.42 ,6,473,Outside,4985410000000000,15000,0.398192163,Yes,Uber,McKinney,36,Middle,Male,Single,Yes,0,20019273,1/16/23,19:09:25,No
 621,Benjamin,Taylor,$685.09 ,1,136,Outside,4390650000000000,1000,0.234096558,Yes,Netflix,McKinney,38,Middle,Female,Single,No,0,90120627,8/14/23,3:05:21,No
-743,Logan,Lee,$670.84 ,1,133,Outside,4387730000000000,10000,0.944634317,Yes,Smoothy King,Arlington,54,Middle,Male,Single,No,0,38890979,11/9/23,1:35:27,No
+743,Logan,Lee,$670.84 ,1,133,Outside,4387730000000000,10000,0.944634317,Yes,Smoothy King,Arlington,54,Middle,Male,Single,No,1,38890979,11/9/23,1:35:27,No
 805,Lucas,Wilson,$512.22 ,6,429,Outside,4300510000000000,5000,0.045072445,Yes,Home Depot,Addison,53,Middle,Male,Single,No,0,24503168,12/20/23,9:10:39,No
 848,Ethan,Garcia,$280.56 ,3,239,Outside,4753850000000000,20000,0.106239316,Yes,IBM,Farmers Branch,59,Middle,Female,Single,Yes,0,9693945,1/6/23,9:01:22,No
 858,Amelia,Wilson,$598.94 ,3,229,Outside,4731660000000000,1000,0.264572214,Yes,Netflix,Dallas,32,Middle,Female,Single,Yes,0,80127137,6/30/23,11:42:48,No
 927,Benjamin,White,$438.34 ,2,189,Outside,4851440000000000,10000,0.351243724,Yes,Walmart,Irving,43,Middle,Male,Single,No,0,75478250,9/25/23,14:19:53,No
-979,Olivia,Davis,$506.97 ,3,219,Outside,4839100000000000,5000,0.222780198,Yes,IBM,Rockwall,54,Middle,Male,Single,No,0,94949148,12/15/23,11:33:29,No
+979,Olivia,Davis,$506.97 ,3,219,Outside,4839100000000000,5000,0.222780198,Yes,IBM,Rockwall,54,Middle,Male,Single,No,1,94949148,12/15/23,11:33:29,No
 1191,Alexander,Williams,$649.53 ,2,223,Outside,4336110000000000,40000,0.333697346,Yes,SMU,McKinney,58,Middle,Male,Single,Yes,0,10174240,1/31/23,3:15:23,No
 1302,Isabella,Lewis,$590.50 ,1,77,Outside,4170120000000000,1000,0.121389608,Yes,SMU,Arlington,36,Middle,Male,Single,Yes,0,78144400,11/26/23,20:31:49,No
 1393,Ava,Lee,$480.82 ,5,383,Outside,4452040000000000,15000,0.935156885,Yes,Honda,McKinney,60,Middle,Male,Single,Yes,0,28115539,9/15/23,6:00:29,No
-1404,Lucas,Lee,$159.85 ,1,75,Outside,4708570000000000,1000,0.070541564,Yes,Apple,Farmers Branch,43,Middle,Male,Single,No,0,44766416,4/30/23,15:15:54,No
+1404,Lucas,Lee,$159.85 ,1,75,Outside,4708570000000000,1000,0.070541564,Yes,Apple,Farmers Branch,43,Middle,Male,Single,No,1,44766416,4/30/23,15:15:54,No
 1425,Mia,White,$567.31 ,5,405,Outside,4751490000000000,5000,0.231174418,Yes,Subaru,Rockwall,33,Middle,Male,Single,Yes,0,43164678,12/13/23,3:52:54,No
 1430,Sophia,Hernandez,$579.01 ,1,159,Outside,4213800000000000,10000,0.62723663,Yes,SMU,Rockwall,41,Middle,Female,Single,No,0,62715816,8/25/23,20:15:07,No
 1436,Sophia,Clark,$660.51 ,6,518,Outside,4157730000000000,5000,0.231973734,Yes,Honda,Arlington,36,Middle,Female,Single,No,0,37524279,12/24/23,6:43:58,No
-1446,John,Thomas,$564.09 ,6,462,Outside,4399100000000000,15000,0.8926835,Yes,SMU,McKinney,54,Middle,Male,Single,Yes,0,57679750,1/17/23,11:36:37,No
+1446,John,Thomas,$564.09 ,6,462,Outside,4399100000000000,15000,0.8926835,Yes,SMU,McKinney,54,Middle,Male,Single,Yes,1,57679750,1/17/23,11:36:37,No
 1512,Olivia,Harris,$124.39 ,1,70,Outside,4121970000000000,1000,0.176412723,Yes,Subaru,Dallas,57,Middle,Female,Single,No,0,95909470,12/6/23,11:47:42,No
 1990,Benjamin,Lewis,$550.70 ,4,336,Outside,4461240000000000,10000,0.49504739,Yes,SMU,McKinney,48,Middle,Male,Single,Yes,0,92248272,4/21/23,10:52:41,No
 2060,Olivia,Anderson,$360.09 ,1,95,Outside,4969060000000000,5000,0.28645356,Yes,Home Depot,Dallas,58,Middle,Female,Single,No,0,48303033,7/13/23,14:48:40,No
@@ -909,20 +909,20 @@ ID,First ,Last,Amount,MinUsualAmount,MaxUsualAmount,OutsideMinMax,CC Number,Cred
 1868,Elijah,Thomas,$257.40 ,1,128,Outside,4381060000000000,10000,0.91751401,No,IBM,Irving,25,Low,Female,Widowed,No,0,13436366,9/30/23,21:18:30,No
 1920,Aiden,Garcia,$649.98 ,8,573,Outside,4626640000000000,5000,0.132421131,No,Walmart,Addison,20,Low,Female,Widowed,No,0,42927394,2/18/23,6:21:04,No
 2021,Logan,Hernandez,$604.33 ,5,417,Outside,4439000000000000,15000,0.015872934,No,IBM,Farmers Branch,19,Low,Female,Widowed,No,0,72433534,5/9/23,19:34:36,No
-131, Daniel    , Kennedy,$697.69 ,6,424,Outside,4266666613264540,20000,0.084001694,No,Starbucks,Dallas,37,Middle,F,Divorced,No,0,89730213,3/19/25,16:19:00,No
+131, Daniel    , Kennedy,$697.69 ,6,424,Outside,4266666613264540,20000,0.084001694,No,Starbucks,Dallas,37,Middle,F,Divorced,No,1,89730213,3/19/25,16:19:00,No
 288,Charlotte,Lewis,$403.93 ,4,297,Outside,4018640000000000,15000,0.231227096,No,Apple,Arlington,33,Middle,Male,Divorced,No,0,28674080,4/17/23,4:24:06,No
 341,Elijah,Harris,$633.02 ,2,188,Outside,4895720000000000,5000,0.422984484,No,InternationalHolding,Arlington,39,Middle,Female,Divorced,Yes,0,66069752,7/18/23,20:16:55,No
 377,Charlotte,Garcia,$606.36 ,3,258,Outside,4961810000000000,40000,0.599662017,No,IBM,Frisco,42,Middle,Male,Divorced,No,0,18275524,3/11/23,10:31:02,No
-431,Oliver,Thomas,$553.51 ,2,180,Outside,4183750000000000,20000,0.978136383,No,McDonald's,Plano,37,Middle,Male,Divorced,Yes,0,27808007,8/8/23,14:12:28,No
+431,Oliver,Thomas,$553.51 ,2,180,Outside,4183750000000000,20000,0.978136383,No,McDonald's,Plano,37,Middle,Male,Divorced,Yes,1,27808007,8/8/23,14:12:28,No
 446,Amelia,Smith,$621.35 ,7,495,Outside,4449500000000000,5000,0.224164985,No,Home Depot,Plano,40,Middle,Male,Divorced,Yes,0,9278491,11/1/23,19:44:36,No
-492,Alexander,Lewis,$398.86 ,5,357,Outside,4451900000000000,10000,0.946466331,No,Amazon,Frisco,31,Middle,Female,Divorced,Yes,0,21790991,3/14/23,6:14:46,No
+492,Alexander,Lewis,$398.86 ,5,357,Outside,4451900000000000,10000,0.946466331,No,Amazon,Frisco,31,Middle,Female,Divorced,Yes,1,21790991,3/14/23,6:14:46,No
 493,Mia,Martinez,$477.04 ,3,270,Outside,4847200000000000,10000,0.760234352,No,Subaru,Plano,34,Middle,Female,Divorced,Yes,0,52571980,5/11/23,9:12:19,No
 556,Logan,Gonzalez,$342.17 ,2,170,Outside,4317830000000000,10000,0.170824191,No,Lift,Frisco,59,Middle,Female,Divorced,No,0,33862746,7/21/23,3:39:22,No
-636,John,Jones,$346.68 ,4,315,Outside,4578480000000000,40000,0.822231403,No,InternationalHolding,Frisco,32,Middle,Female,Divorced,No,0,82854554,2/10/23,6:34:12,No
+636,John,Jones,$346.68 ,4,315,Outside,4578480000000000,40000,0.822231403,No,InternationalHolding,Frisco,32,Middle,Female,Divorced,No,1,82854554,2/10/23,6:34:12,No
 721,Alexander,Lewis,$634.43 ,6,517,Outside,4966150000000000,10000,0.370305051,No,McDonald's,Arlington,49,Middle,Female,Divorced,Yes,0,70935844,1/14/23,20:59:57,No
 771,Logan,Lewis,$582.41 ,5,353,Outside,4768590000000000,20000,0.786028966,No,Home Depot,McKinney,40,Middle,Male,Divorced,No,0,88861099,1/9/23,21:24:58,No
-780,Mia,Hernandez,$168.94 ,1,84,Outside,4799210000000000,20000,0.240546278,No,Netflix,Irving,36,Middle,Female,Divorced,No,0,39022572,1/8/23,10:15:44,No
-799,Logan,Anderson,$590.56 ,6,434,Outside,4126670000000000,1000,0.138327267,No,Apple,Plano,43,Middle,Female,Divorced,No,0,33712396,2/13/23,0:17:05,No
+780,Mia,Hernandez,$168.94 ,1,84,Outside,4799210000000000,20000,0.240546278,No,Netflix,Irving,36,Middle,Female,Divorced,No,1,39022572,1/8/23,10:15:44,No
+799,Logan,Anderson,$590.56 ,6,434,Outside,4126670000000000,1000,0.138327267,No,Apple,Plano,43,Middle,Female,Divorced,No,1,33712396,2/13/23,0:17:05,No
 811,Benjamin,White,$574.66 ,2,181,Outside,4758490000000000,5000,0.625387541,No,Amazon,Addison,46,Middle,Male,Divorced,Yes,0,96329725,12/25/23,7:09:21,No
 824,Aiden,Jones,$267.16 ,2,161,Outside,4514650000000000,10000,0.738250497,No,IBM,Frisco,54,Middle,Female,Divorced,Yes,0,4603882,4/15/23,16:19:04,No
 890,Ethan,Lee,$649.01 ,9,649,Outside,4975000000000000,40000,0.200795345,No,Lift,Frisco,49,Middle,Female,Divorced,Yes,0,25179886,12/27/23,2:44:22,No
@@ -994,9 +994,9 @@ ID,First ,Last,Amount,MinUsualAmount,MaxUsualAmount,OutsideMinMax,CC Number,Cred
 1326,Jackson,Perez,$458.28 ,2,180,Outside,4996520000000000,15000,0.772813749,No,Lift,Arlington,37,Middle,Female,Single,No,0,65209460,1/15/23,20:22:25,Yes
 1370,Elijah,Anderson,$619.93 ,7,557,Outside,4303280000000000,40000,0.338430647,No,InternationalHolding,Frisco,33,Middle,Male,Single,Yes,0,48331888,1/17/23,5:20:05,Yes
 1387,Amelia,White,$654.60 ,6,464,Outside,4349410000000000,40000,0.094303313,No,Subaru,Farmers Branch,48,Middle,Female,Single,No,0,16566046,10/12/23,8:53:48,Yes
-1415,Liam,White,$579.58 ,5,364,Outside,4547610000000000,40000,0.933337396,No,Apple,Irving,34,Middle,Male,Single,Yes,0,28365884,11/19/23,23:44:09,Yes
+1415,Liam,White,$579.58 ,5,364,Outside,4547610000000000,40000,0.933337396,No,Apple,Irving,34,Middle,Male,Single,Yes,1,28365884,11/19/23,23:44:09,Yes
 1455,Isabella,Lewis,$578.91 ,7,566,Outside,4490920000000000,5000,0.842333072,No,Starbucks,Plano,52,Middle,Female,Single,No,0,66636183,12/17/23,10:20:56,Yes
-1498,Aiden,Smith,$510.67 ,4,336,Outside,4236980000000000,1000,0.621001714,No,Smoothy King,Frisco,48,Middle,Male,Single,No,0,1724104,12/5/23,21:15:39,Yes
+1498,Aiden,Smith,$510.67 ,4,336,Outside,4236980000000000,1000,0.621001714,No,Smoothy King,Frisco,48,Middle,Male,Single,No,1,1724104,12/5/23,21:15:39,Yes
 1560,Logan,Hernandez,$260.91 ,1,147,Outside,4966100000000000,1000,0.729020097,No,IBM,Farmers Branch,33,Middle,Male,Single,No,0,16404907,5/6/23,0:35:36,Yes
 1565,Sophia,White,$268.58 ,3,265,Outside,4028600000000000,20000,0.700043895,No,Apple,Addison,60,Middle,Female,Single,No,0,99307415,2/2/23,17:59:14,Yes
 1695,Jackson,Lewis,$677.02 ,7,499,Outside,4515510000000000,5000,0.190462769,No,McDonald's,Addison,40,Middle,Male,Single,Yes,0,48592795,7/6/23,18:35:31,Yes
@@ -1082,22 +1082,22 @@ ID,First ,Last,Amount,MinUsualAmount,MaxUsualAmount,OutsideMinMax,CC Number,Cred
 423,Isabella,White,$127.89 ,10,798,Inside,4681400000000000,15000,0.248141997,Yes,McDonald's,Frisco,65,High,Female,Married,Yes,0,20225207,4/2/23,21:19:43,No
 526,Lucas,Garcia,$148.15 ,5,427,Inside,4669150000000000,20000,0.441442232,Yes,Netflix,Plano,66,High,Male,Married,No,0,49367868,3/31/23,20:07:14,No
 613,Harper,Gonzalez,$75.70 ,2,228,Inside,4846960000000000,1000,0.904435189,Yes,Uber,Frisco,63,High,Male,Married,No,0,25860225,7/23/23,12:34:22,No
-719,Michael,Smith,$146.45 ,4,360,Inside,4309060000000000,5000,0.812023519,Yes,McDonald's,Rockwall,68,High,Female,Married,Yes,0,69151000,2/26/23,10:01:06,No
+719,Michael,Smith,$146.45 ,4,360,Inside,4309060000000000,5000,0.812023519,Yes,McDonald's,Rockwall,68,High,Female,Married,Yes,1,69151000,2/26/23,10:01:06,No
 766,Benjamin,Taylor,$129.00 ,6,514,Inside,4328890000000000,10000,0.084147825,Yes,Netflix,Arlington,63,High,Female,Married,No,0,86695032,2/8/23,17:33:13,No
-801,Lucas,Lee,$235.89 ,7,527,Inside,4987400000000000,15000,0.940818373,Yes,IBM,Addison,61,High,Female,Married,Yes,0,81577653,11/24/23,21:08:51,No
+801,Lucas,Lee,$235.89 ,7,527,Inside,4987400000000000,15000,0.940818373,Yes,IBM,Addison,61,High,Female,Married,Yes,1,81577653,11/24/23,21:08:51,No
 906,Michael,Williams,$398.05 ,10,776,Inside,4195300000000000,15000,0.668351313,Yes,SMU,McKinney,64,High,Male,Married,No,0,70310322,7/14/23,19:07:21,No
 923,Oliver,Martinez,$573.24 ,11,782,Inside,4290850000000000,20000,0.900481649,Yes,Smoothy King,Arlington,69,High,Female,Married,No,0,67008518,11/6/23,1:01:25,No
-950,Alexander,Rodriguez,$560.43 ,10,741,Inside,4821670000000000,1000,0.957372088,Yes,Home Depot,Dallas,65,High,Female,Married,Yes,0,41230289,12/17/23,14:21:22,No
+950,Alexander,Rodriguez,$560.43 ,10,741,Inside,4821670000000000,1000,0.957372088,Yes,Home Depot,Dallas,65,High,Female,Married,Yes,1,41230289,12/17/23,14:21:22,No
 959,Elijah,Jones,$42.51 ,5,378,Inside,4789360000000000,15000,0.570567506,Yes,Lift,McKinney,80,High,Female,Married,Yes,0,93396035,4/22/23,10:29:12,No
 961,Aiden,Harris,$556.09 ,8,572,Inside,4958550000000000,15000,0.683819319,Yes,Honda,Plano,66,High,Female,Married,No,0,78592257,2/8/23,23:52:54,No
-1294,Elijah,Wilson,$474.05 ,10,798,Inside,4010650000000000,15000,0.934009535,Yes,InternationalHolding,McKinney,71,High,Female,Married,No,0,31062402,8/29/23,5:16:40,No
+1294,Elijah,Wilson,$474.05 ,10,798,Inside,4010650000000000,15000,0.934009535,Yes,InternationalHolding,McKinney,71,High,Female,Married,No,1,31062402,8/29/23,5:16:40,No
 1335,Olivia,Perez,$400.59 ,8,588,Inside,4824310000000000,40000,0.289802023,Yes,McDonald's,Frisco,62,High,Female,Married,No,0,82731023,2/24/23,22:12:33,No
 1342,Aiden,Lewis,$118.20 ,5,395,Inside,4297000000000000,5000,0.389504627,Yes,IBM,McKinney,77,High,Male,Married,No,0,76402880,8/4/23,18:51:08,No
 1448,Logan,Jones,$131.06 ,8,602,Inside,4147100000000000,1000,0.212152172,Yes,Honda,McKinney,72,High,Female,Married,No,0,20677804,5/8/23,15:11:57,No
 1517,John,Lee,$282.56 ,6,467,Inside,4500530000000000,1000,0.161259447,Yes,Honda,Rockwall,80,High,Female,Married,Yes,0,18381845,4/22/23,9:47:06,No
 1587,Jackson,Hernandez,$157.48 ,5,445,Inside,4319450000000000,40000,0.030485993,Yes,Smoothy King,McKinney,64,High,Female,Married,No,0,28466632,1/31/23,18:18:35,No
 1600,Alexander,Rodriguez,$61.72 ,9,720,Inside,4806230000000000,5000,0.714774718,Yes,Apple,Addison,69,High,Male,Married,Yes,0,86869588,5/16/23,3:38:10,No
-1648,Logan,Williams,$298.94 ,4,308,Inside,4471690000000000,10000,0.704282667,Yes,IBM,Rockwall,74,High,Female,Married,No,0,22071818,11/3/23,9:45:12,No
+1648,Logan,Williams,$298.94 ,4,308,Inside,4471690000000000,10000,0.704282667,Yes,IBM,Rockwall,74,High,Female,Married,No,1,22071818,11/3/23,9:45:12,No
 1653,John,Smith,$474.42 ,8,574,Inside,4899860000000000,20000,0.236772033,Yes,Uber,Plano,67,High,Male,Married,Yes,0,25459248,1/25/23,11:40:20,No
 1660,Aiden,Thomas,$29.93 ,6,443,Inside,4739330000000000,10000,0.683005976,Yes,InternationalHolding,Irving,74,High,Male,Married,No,0,34814853,5/7/23,6:29:58,No
 1720,Logan,Williams,$79.11 ,4,316,Inside,4113370000000000,15000,0.761753704,Yes,Honda,Dallas,67,High,Female,Married,No,0,29079795,9/20/23,15:51:55,No
