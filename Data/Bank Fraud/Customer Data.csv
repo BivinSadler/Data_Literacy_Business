@@ -1,205 +1,2205 @@
-First ,Last,CCNum,MinUsualAmount,MaxUsualAmount,CustomerHomeCity,CustomerAge,CustomerGender,CustomerMaritalStatus,CustomerHasChildren,UsualTimeMin,UsualTimeMax
-  Liam       , Smith,3148-0760-1525-1580,2283,11236,Dallas,35,M,Single ,Yes,9,23
-  Olivia     , Williams,9307-8486-3106-0570,3942,10999,Frisco,32,M,Divorced,Yes,8,22
-  John ,  Smith,8977-3819-8830-4550,3286,12512,Addison,39,F,Single ,No,6,28
-  Ava        , Jones,3910-0458-4550-6040,3405,7937,Irving,42,F,Married,No,5,15
-  Isabella   , Garcia,3938-1446-7680-3900,3833,9484,Addison,47,Male,Widowed,No,4,13
-  Sophia     , Martinez,4631-4429-0257-0560,3275,9156,Farmer's Branch,43,f,Married,Yes,9,23
-  Jackson    , Rodriguez,1443-2728-7860-4220,2550,9099,Dallas,28,f,Married,Yes,8,22
-  Aiden      , Davis,1254-6321-3474-9800,3344,12528,McKinney,42,Male,Single ,No,6,28
- Lucas      , Hernandez,5091-7271-5569-6400,3951,7203,Plano,33,f,Single ,Yes,5,15
- Mia        , Gonzalez,2812-1851-8676-7610,3040,14205,Plano,33,F,Single ,Yes,4,13
- Benjamin   , Wilson,6330-6256-1908-0340,2491,6390,Rockwall,55,F,Divorced,No,9,23
- Amelia     , Perez,3559-2061-1891-5870,4394,10056,Dallas,46,Female,Single ,No,8,22
- Elijah     , Taylor,5304-3282-2159-0160,1916,14900,Arlington,42,F,Married,No,6,28
- Charlotte  , Thomas,2326-9867-6999-2740,3888,11122,Dallas,450,M,Widowed,Yes,5,15
- Logan      , Anderson,8321-6911-7839-8960,2512,7448,Dallas,45,Male,Married,Yes,4,13
- Oliver     , White,4781-2395-7064-6980,3406,11510,Dallas,35,M,Married,No,9,23
- Harper     , Harris,7812-8473-9967-0870,2947,9970,Plano,44,M,Single ,Yes,8,22
- Ethan      , Clark,1689-8662-1571-3940,2613,10393,Dallas,43,m,Single ,Yes,6,28
- Alexander  , Lee,1911-9361-2841-1620,3278,7596,Frisco,36,Male,single,No,5,15
- Michael    , Lewis,8554-9700-1451-3660,2452,10989,Addison,56,M,Divorced,No,4,13
-  John ,  Smith,4083-6432-4051-0140,2779,10159,Irving,40,M,Single ,No,9,23
- James      , Hall,3577-1492-2456-0310,3138,9712,Addison,41,F,Married,Yes,8,22
- William    , Allen,3299-7255-0616-7710,3046,8391,Farmer's Branch,37,F,Widowed,Yes,6,28
- Daniel     , Young,3762-3518-6783-9760,3176,9770,Dallas,56,Male,Married,No,5,15
- Grace      , King,3508-3905-2913-5770,2604,5824,McKinney,33,f,Married,Yes,4,13
- Joseph     , Wright,4421-2696-6908-7110,3907,10791,Plano,62,f,Single ,Yes,9,23
- Abigail    , Lopez,1906-3938-5292-4360,2831,7818,Plano,41,Male,Single ,No,8,22
- Samuel     , Hill,2433-0256-5939-3520,2226,10823,Rockwall,31,f,Single ,No,6,28
- John       , Scott,8004-6532-7900-1040,4053,9773,Dallas,42,F,Divorced,No,5,15
- Emily      , Green,2735-0229-7750-9480,3189,9935,Arlington,38,F,Single ,Yes,4,13
- David      , Adams,7441-5692-0142-9400,2879,7948,Dallas,35,Female,Married,Yes,9,23
- Benjamin   , Baker,2636-1361-4030-2230,3117,10671,Dallas,43,F,Widowed,No,8,22
- Chloe      , Nelson,9140-3674-0115-7990,3210,8712,Dallas,38,M,Married,Yes,6,28
- Christopher, Carter,2122-3815-5938-2820,2504,8679,Plano,52,Male,Married,Yes,5,15
- Andrew     , Mitchell,8458-8912-6157-5520,1605,10751,Dallas,33,M,Single ,No,4,13
- Lily       , Roberts,6990-5636-6997-8040,2638,14451,Frisco,42,M,single,No,9,23
- Gabriel    , Turner,1865-4689-0452-5340,3397,13226,Addison,62,m,Single ,No,8,22
- Zoe        , Phillips,8908-0213-8856-8550,3143,6860,Irving,40,Male,Divorced,Yes,6,28
- Anthony    , Campbell,1141-8005-0503-2280,1986,9746,Addison,39,M,Single ,Yes,5,15
- Madison    , Parker,5161-9177-3866-1670,3421,12331,Farmer's Branch,44,M,Married,No,4,13
- Matthew    , Evans,7936-5340-2704-3940,3522,9605,Dallas,51,F,Widowed,Yes,9,23
- Angelina   , Edwards,2334-9412-3585-1140,3289,8939,McKinney,48,F,Married,Yes,8,22
- Joshua     , Collins,9378-9787-8382-9640,3508,6926,Plano,38,Male,Married,No,6,28
- Nicholas   , Stewart,9523-6529-3794-5380,2985,8706,Plano,53,f,Single ,No,5,15
- Ryan       , Sanchez,2346-7593-6564-6140,2914,9415,Rockwall,41,f,Single ,No,4,13
- Christian  , Morris,3023-9622-3258-3980,3328,11652,Dallas,35,Male,Single ,Yes,9,23
- Aubrey     , Rogers,8076-2720-2313-9110,2594,11934,Arlington,42,f,Divorced,Yes,8,22
- Henry      , Reed,2078-3349-0269-1350,2635,7167,Dallas,38,F,Single ,No,6,28
- Owen       , Cook,8380-0804-7756-7790,1855,9437,Dallas,31,F,Married,Yes,5,15
- Landon     , Morgan,6398-6839-5215-4170,2687,8122,Dallas,48,Female,Widowed,Yes,4,13
- Aria       , Bell,6736-8176-7031-3890,2129,12945,Plano,38,F,Married,No,9,23
- Jonathan   , Murphy,7494-9007-2811-6660,2086,9745,Dallas,41,M,Single ,Yes,8,22
- Isabella   , Bailey,5896-0608-5936-8360,2254,9264,Frisco,44,M,Divorced,Yes,6,28
- Isaac      , Rivera,7057-7762-7092-8520,2739,14118,Addison,43,F,Single ,No,5,15
- Mary       , Cooper,6907-1697-6885-5070,3266,8805,Irving,39,F,Married,No,4,13
- Sofia      , Richardson,4037-8988-2351-0350,3296,6595,Addison,42,Male,Widowed,No,9,23
- Adam       , Cox,6872-3429-6845-7370,3433,11446,Farmer's Branch,45,f,Married,Yes,8,22
- Nathan     , Howard,7771-5281-3803-5520,2776,6968,Dallas,39,f,Married,Yes,6,28
- Victoria   , Ward,5296-8805-5321-0040,3344,13624,McKinney,31,Male,Single ,No,5,15
- Jeremiah   , Torres,3130-6537-0023-3090,3341,11275,Plano,36,f,single,Yes,4,13
- Julian     , Peterson,8607-9093-3800-5290,1699,11681,Plano,32,F,Single ,Yes,9,23
- Luke       , Gray,7381-9457-9461-3490,3747,6637,Rockwall,55,F,Divorced,No,8,22
- Jack       , Ramirez,9724-3314-8908-0390,3098,7094,Dallas,39,Female,Single ,No,6,28
- Lily       , James,9885-5886-9726-6260,2940,11340,Arlington,38,F,Married,No,5,15
- Dylan      , Watson,2130-3970-3796-0640,2341,13224,Dallas,43,M,Widowed,Yes,4,13
- Caleb      , Brooks,9228-8829-0272-2630,2038,11506,Dallas,59,Male,Married,Yes,9,23
- Elizabeth  , Kelly,5455-2520-6947-9350,2901,10673,Dallas,38,M,Married,No,8,22
- Leo        , Sanders,6659-9710-3513-1970,2111,11715,Plano,37,M,Single ,Yes,6,28
- Jaxon      , Price,2777-9908-3371-7320,3314,8758,Dallas,25,m,Single ,Yes,5,15
- Levi       , Bennett,3188-5293-2150-5920,3530,9268,Frisco,44,Male,Single ,No,4,13
- Audrey     , Wood,1539-4594-3990-3740,1732,14033,Addison,45,M,Divorced,No,9,23
- Evelyn     , Barnes,7072-8988-0715-9240,3910,10370,Irving,39,M,Single ,No,8,22
- Aaron      , Ross,9262-6445-5336-4390,3645,9201,Addison,42,F,Married,Yes,6,28
- Adrian     , Henderson,6276-3858-6744-4840,3631,8715,Farmer's Branch,50,F,Widowed,Yes,5,15
- Stella     , Coleman,1727-9293-7427-5230,3048,9682,Dallas,41,Male,Married,No,4,13
- Brandon    , Jenkins,7590-7629-1461-2100,3320,10010,McKinney,37,f,Married,Yes,9,23
- Kaylee     , Perry,8058-9734-5380-2390,3745,9671,Plano,62,f,Single ,Yes,8,22
- Zoe        , Powell,8309-5201-7721-5040,3574,9237,Plano,39,Male,Single ,No,6,28
- Jose       , Long,8741-8927-0372-5720,3448,12586,Rockwall,33,f,Single ,No,5,15
- Penelope   , Patterson,2053-1254-2981-8320,3643,12416,Dallas,32,F,Divorced,No,4,13
- Elijah     , Hughes,6397-5198-5820-6790,3069,11625,Arlington,44,F,Single ,Yes,9,23
- Cameron    , Flores,4275-1116-5201-9450,3346,10957,Dallas,45,Female,Married,Yes,8,22
- Alexa      , Washington,5436-3586-3420-3340,3053,9933,Dallas,47,F,Widowed,No,6,28
- Angel      , Butler,6384-6076-1532-1050,3741,12699,Dallas,39,M,Married,Yes,5,15
- Isaiah     , Simmons,4465-0325-0584-5190,3223,9950,Plano,48,Male,Married,Yes,4,13
- Charlie    , Foster,6039-1667-4550-2050,3562,10141,Dallas,54,M,Single ,No,9,23
- Hunter     , Gonzales,4525-0142-1402-3670,2494,12483,Frisco,38,M,Single ,No,8,22
- Thomas     , Bryant,6468-4324-0746-2280,3147,11500,Addison,33,m,Single ,No,6,28
- Ariana     , Alexander,6801-5698-9125-4180,3598,11033,Irving,52,Male,Divorced,Yes,5,15
- Faith      , Russell,7115-0499-8405-4710,3074,8267,Addison,45,M,Single ,Yes,4,13
- Lucas      , Griffin,9112-9018-4199-1230,3269,9371,Farmer's Branch,41,M,Married,No,9,23
- Chloe      , Diaz,1652-3370-1779-9630,2080,8926,Dallas,57,F,Widowed,Yes,8,22
- Carson     , Hayes,1824-5836-3406-0200,1952,10805,McKinney,47,F,Married,Yes,6,28
- Skylar     , Myers,3701-2235-4278-0890,2425,8505,Plano,43,Male,Married,No,5,15
- Tristan    , Ford,6426-0304-6773-4080,4253,8869,Plano,45,f,Single ,No,4,13
- Nora       , Hamilton,1575-9056-1128-8570,3707,12138,Rockwall,36,f,Single ,No,9,23
- Jace       , Graham,4477-3656-3524-6600,3811,9675,Dallas,37,Male,Single ,Yes,8,22
- Harper     , Sullivan,3246-8649-3181-3820,4533,14600,Arlington,40,f,Divorced,Yes,6,28
- Xavier    , Wallace,3713-5495-6108-5810,2763,11195,Dallas,42,F,Single ,No,5,15
- Evan      , Woods,6904-9990-1876-5460,2793,10215,Dallas,49,F,Married,Yes,4,13
- Mia       , Cole,4720-3701-1737-1250,1209,10697,Dallas,29,Female,Widowed,Yes,9,23
- Aiden     , West,5284-5086-0768-0850,3111,8101,Plano,28,F,Married,No,8,22
- Leah      , Jordan,4487-5702-6081-6360,3283,9053,Dallas,38,M,Single ,Yes,6,28
- Benjamin  , Owens,8328-8068-9711-7380,3270,10309,Frisco,44,M,Divorced,Yes,5,15
- Emma      , Reynolds,4710-2690-4985-9610,2402,8715,Addison,34,F,Single ,No,4,13
- Caden     , Fisher,6628-8034-7795-3730,2168,11167,Irving,33,F,Married,No,9,23
- Avery     , Ellis,9460-8014-4356-2110,3227,7380,Addison,37,Male,Widowed,No,8,22
- Logan     , Harrison,4103-1871-6683-4920,2930,12407,Farmer's Branch,35,f,Married,Yes,6,28
- Sophia    , Gibson,2187-5013-2016-1920,2557,10223,Dallas,32,f,Married,Yes,5,15
- Jackson   , Mcdonald,5157-0504-8268-5170,3223,9200,McKinney,51,Male,Single ,No,4,13
- Olivia    , Cruz,9005-0922-5850-9000,3531,9010,Plano,27,f,Single ,Yes,9,23
- Isaiah    , Marshall,3235-6232-2278-6350,1717,10216,Plano,33,F,Single ,Yes,8,22
- Liam      , Ortiz,2499-6475-8414-5670,1925,9511,Rockwall,55,F,Divorced,No,6,28
- Madison   , Gomez,5620-8023-3277-0060,2822,8529,Dallas,44,Female,Single ,No,5,15
- Mason     , Murray,6132-3000-0117-1510,3275,7791,Arlington,32,F,Married,No,4,13
- Ava       , Freeman,2303-5680-0872-1010,3323,11030,Dallas,40,M,Widowed,Yes,9,23
- Anthony   , Wells,3767-3980-9270-4430,1903,8941,Dallas,37,Male,Married,Yes,8,22
- Mia       , Webb,1661-5394-8445-5560,4789,9423,Dallas,24,M,Married,No,6,28
- Sebastian , Simpson,6582-5716-4539-1560,2254,10722,Plano,49,M,Single ,Yes,5,15
- Elijah    , Stevens,2029-1141-0477-2880,3119,9215,Dallas,36,m,Single ,Yes,4,13
- Amelia    , Tucker,1170-0171-1478-5980,3027,11014,Frisco,27,Male,Single ,No,9,23
- Luke      , Porter,9520-5757-7972-9560,2270,9723,Addison,36,M,Divorced,No,8,22
- Benjamin  , Hunter,4493-8151-3225-7700,2279,8007,Irving,30,M,Single ,No,6,28
- Matthew   , Hicks,6568-3993-1519-0660,3185,9792,Addison,35,F,Married,Yes,5,15
- Alexander , Crawford,4699-6247-2725-4900,3053,11970,Farmer's Branch,40,F,Widowed,Yes,4,13
- Jacob     , Henry,4241-0220-3264-9590,2073,8374,Dallas,35,Male,Married,No,9,23
- William   , Boyd,6130-8624-1934-3670,2487,12248,McKinney,41,f,Married,Yes,8,22
- Michael   , Fox,5940-8854-1910-4680,4221,10997,Plano,62,f,Single ,Yes,6,28
- Elizabeth , Mason,9444-7130-4798-2920,3333,9386,Plano,36,Male,Single ,No,5,15
- Emily     , Morales,3769-6187-2792-9810,3430,9111,Rockwall,51,f,Single ,No,4,13
- Daniel    , Kennedy,4266-6666-1326-4540,1624,11424,Dallas,31,F,Divorced,No,9,23
- Aiden     , Warren,2408-5106-9703-4060,2660,15081,Arlington,31,F,Single ,Yes,8,22
- James     , Dixon,6061-7742-6934-0880,2968,9375,Dallas,26,Female,Married,Yes,6,28
- Emma      , Ramos,8748-9914-1186-4620,3485,5192,Dallas,49,F,Widowed,No,5,15
- Christopher, Reyes,9873-0777-1002-3480,2046,8484,Dallas,41,M,Married,Yes,4,13
- Andrew    , Burns,8376-1580-2091-5400,3739,12080,Plano,33,Male,Married,Yes,9,23
- Joseph    , Gordon,8432-6430-7394-4200,2361,12375,Dallas,26,M,Single ,No,8,22
- Joshua    , Shaw,3720-7441-6388-6110,2513,11391,Frisco,42,M,Single ,No,6,28
- Sophia    , Holmes,4111-8717-3034-9610,2842,8437,Addison,38,m,Single ,No,5,15
- Anthony   , Rice,3673-5726-3481-3950,3380,10952,Irving,38,Male,Divorced,Yes,4,13
- Charlotte , Robertson,1123-9961-2853-9250,2016,7709,Addison,38,M,Single ,Yes,9,23
- Jackson   , Hunt,8057-2315-7637-4820,2720,9577,Farmer's Branch,46,M,Married,No,8,22
- Olivia    , Black,6789-7988-2542-4850,3271,7890,Dallas,34,F,Widowed,Yes,6,28
- Isabella  , Daniels,5679-1059-8901-2590,3572,6608,McKinney,47,F,Married,Yes,5,15
- Liam      , Palmer,4863-7428-5942-8420,3782,9519,Plano,41,Male,Married,No,4,13
- Lucas     , Mills,4269-7324-4252-9400,2506,9769,Plano,53,f,Single ,No,9,23
- Mason     , Nichols,9344-1859-4944-7380,2085,9959,Rockwall,39,f,Single ,No,8,22
- Ava       , Grant,4176-1661-5287-4530,3119,13206,Dallas,51,Male,Single ,Yes,6,28
- Mia       , Knight,9899-2492-8527-4810,3201,8914,Arlington,38,f,Divorced,Yes,5,15
- Noah      , Ferguson,2714-4678-5487-2220,2877,8328,Dallas,43,F,Single ,No,4,13
- Ethan     , Rose,2938-5874-1917-1450,1799,8472,Dallas,42,F,Married,Yes,9,23
- Harper    , Stone,9346-6120-2105-1470,3028,9856,Dallas,51,Female,Widowed,Yes,8,22
- Michael   , Hawkins,1751-2759-6909-7130,2830,14743,Plano,45,F,Married,No,6,28
- Benjamin  , Dunn,2742-0658-5087-7730,2711,11575,Dallas,48,M,Single ,Yes,5,15
- Elijah    , Perkins,6587-4843-5557-7300,1517,9579,Frisco,43,M,Divorced,Yes,4,13
- Daniel    , Hudson,4255-2471-2443-4460,4165,8628,Addison,30,F,Single ,No,9,23
- Aiden     , Spencer,1905-4967-7428-5620,2616,12305,Irving,56,F,Married,No,8,22
- James     , Gardner,5856-4661-6625-9230,3007,12290,Addison,39,Male,Widowed,No,6,28
- William   , Stephens,2943-8547-8097-9750,1304,7712,Farmer's Branch,41,f,Married,Yes,5,15
- Alexander , Payne,4211-4291-8540-2150,1974,9433,Dallas,50,f,Married,Yes,4,13
- Matthew   , Pierce,6687-8164-7485-0540,1936,10098,McKinney,33,Male,Single ,No,9,23
- Joseph    , Berry,6570-8645-8830-9270,4992,11345,Plano,22,f,Single ,Yes,8,22
- Emily     , Matthews,4214-8822-5724-7870,2481,10565,Plano,25,F,Single ,Yes,6,28
- Jacob     , Arnold,6188-9835-5562-6420,3362,8145,Rockwall,55,F,Divorced,No,5,15
- Logan     , Wagner,8297-6427-0483-4260,3629,9824,Dallas,40,Female,Single ,No,4,13
- David     , Willis,2905-8513-9293-0260,3838,11098,Arlington,38,F,Married,No,9,23
- Christopher, Ray,7809-0959-1120-8530,3643,8660,Dallas,39,M,Widowed,Yes,8,22
- Andrew    , Watkins,6509-4280-6211-8370,3416,7921,Dallas,44,Male,Married,Yes,6,28
- Jack      , Olson,6688-7925-2674-5350,4236,8401,Dallas,45,M,Married,No,5,15
- Joshua    , Carroll,4167-4901-6159-4950,4130,9214,Plano,28,M,Single ,Yes,4,13
- Madison   , Duncan,1226-9424-4467-1420,3236,6742,Dallas,45,m,Single ,Yes,9,23
- Emma      , Snyder,4280-7337-2571-6780,3609,12299,Frisco,29,Male,Single ,No,8,22
- Charlotte , Hart,4792-5329-7718-0050,3850,9802,Addison,35,M,Divorced,No,6,28
- Olivia    , Cunningham,1550-9658-7980-2100,2555,12575,Irving,48,M,Single ,No,5,15
- Sophia    , Bradley,7149-2565-1137-8400,1989,10529,Addison,35,F,Married,Yes,4,13
- Ava       , Lane,1843-2127-3388-3350,2914,10922,Farmer's Branch,43,F,Widowed,Yes,9,23
- Isabella  , Andrews,5090-2677-4615-5760,2893,11436,Dallas,57,Male,Married,No,8,22
- Mia       , Ruiz,2498-8734-1451-8240,2185,11355,McKinney,41,f,Married,Yes,6,28
- Aiden     , Harper,9668-3704-6438-0890,2236,6201,Plano,62,f,Single ,Yes,5,15
- Jackson   , Fox,4389-3784-3174-3140,2811,7691,Plano,39,Male,Single ,No,4,13
- Lucas     , Riley,1075-0884-6225-7710,3688,6020,Rockwall,36,f,Single ,No,9,23
- Benjamin  , Armstrong,9663-3787-8410-1520,3202,8389,Dallas,37,F,Divorced,No,8,22
- Elijah    , Carpenter,2095-6295-0051-2470,4125,10662,Arlington,46,F,Single ,Yes,6,28
- Daniel    , Weaver,8538-4648-2285-8040,2308,10186,Dallas,33,Female,Married,Yes,5,15
- Michael   , Greene,6816-7730-9819-7550,2482,10911,Dallas,34,F,Widowed,No,4,13
- Matthew   , Lawrence,3421-0572-2882-4570,2694,13437,Dallas,52,M,Married,Yes,9,23
- Alexander , Elliott,1336-3924-8920-6110,3075,8251,Plano,48,Male,Married,Yes,8,22
- James     , Chavez,9174-3154-3576-2500,4868,10369,Dallas,35,M,Single ,No,6,28
- William   , Sims,1065-2485-1183-0930,1767,11740,Frisco,28,M,Single ,No,5,15
- Joseph    , Austin,3186-8642-8604-0760,3572,13220,Addison,37,m,Single ,No,4,13
- Christopher, Peters,9327-2310-3555-0770,4134,9461,Irving,43,Male,Divorced,Yes,9,23
- Andrew    , Kelley,5966-9142-4267-7090,2292,13215,Addison,53,M,Single ,Yes,8,22
- David     , Franklin,1015-9613-5590-5730,3409,8023,Farmer's Branch,42,M,Married,No,6,28
- Joshua    , Lawson,5081-6418-9551-8860,2128,10469,Dallas,43,F,Widowed,Yes,5,15
- Emily     , Fields,4166-9499-7941-7530,2969,7553,McKinney,32,F,Married,Yes,4,13
- Jack      , Gutierrez,3829-2901-7620-2140,3208,10311,Plano,38,Male,Married,No,9,23
- Madison   , Ryan,3456-6207-4349-0100,2715,11720,Plano,52,f,Single ,No,8,22
- Emma      , Schmidt,4626-3684-8511-7690,2817,10381,Rockwall,43,f,Single ,No,6,28
- Charlotte , Carr,7623-8110-1675-9660,3476,10478,Dallas,38,Male,Single ,Yes,5,15
- Sophia    , Vasquez,4353-6874-0827-6750,3731,9762,Arlington,52,f,Divorced,Yes,4,13
- Olivia    , Castillo,3819-0730-7644-8690,3766,10361,Dallas,49,F,Single ,No,9,23
- Ava       , Wheeler,9037-6212-8895-1430,3232,9040,Dallas,41,F,Married,Yes,8,22
- Isabella  , Chapman,3531-7614-1888-9420,2654,8571,Dallas,33,Female,Widowed,Yes,6,28
-Emma,Johnson,6676-0953-9718-0600,3434,13493,Plano,44,F,Married,No,5,15
+CCNum,First ,Last,Amount,MinUsualAmount,MaxUsualAmount,CustomerHomeCity,CustomerAge,CustomerGender,CustomerMaritalStatus,CustomerHasChildren
+4829-0100-0000-0000,Charlotte,Martinez,$331.90 ,3,273,Rockwall,77,Female,Divorced,Yes
+4050-4900-0000-0000,Alexander,White,$565.82 ,7,546,Frisco,74,Male,Married,Yes
+4340-5200-0000-0000,Charlotte,Garcia,$5.77 ,6,519,Plano,72,Male,Married,Yes
+4589-6200-0000-0000,Aiden,Williams,$661.07 ,4,349,Plano,76,Male,Married,Yes
+4185-3400-0000-0000,Charlotte,Anderson,$670.59 ,2,233,Arlington,62,Male,Married,No
+4392-0400-0000-0000,Aiden,Clark,$646.88 ,6,499,Irving,76,Male,Married,Yes
+4946-0900-0000-0000,Alexander,Lewis,$511.25 ,3,271,Farmers Branch,67,Female,Single,No
+4604-2400-0000-0000,Charlotte,Anderson,$510.70 ,5,431,Arlington,79,Female,Single,No
+4748-7400-0000-0000,Ethan,Garcia,$618.80 ,2,226,Frisco,61,Male,Widowed,Yes
+4163-2300-0000-0000,Isabella,Gonzalez,$600.26 ,6,457,Dallas,63,Female,Widowed,No
+4139-8600-0000-0000,Isabella,Wilson,$586.76 ,6,502,Frisco,91,Female,Divorced,No
+4961-9000-0000-0000,Elijah,Wilson,$497.64 ,5,399,Dallas,81,Female,Divorced,Yes
+4768-6400-0000-0000,Isabella,Williams,$420.14 ,4,316,Farmers Branch,95,Male,Divorced,No
+4998-9300-0000-0000,Amelia,Harris,$548.48 ,6,515,Addison,81,Male,Divorced,Yes
+4195-4100-0000-0000,Jackson,Davis,$344.45 ,1,133,Dallas,94,Female,Divorced,Yes
+4345-2400-0000-0000,Amelia,Thomas,$643.98 ,5,417,Rockwall,84,Male,Divorced,Yes
+4040-7300-0000-0000,Alexander,Williams,$672.77 ,3,261,Irving,92,Female,Divorced,No
+4028-8000-0000-0000,Ava,Clark,$434.65 ,4,370,Arlington,81,Male,Married,Yes
+4780-1500-0000-0000,Amelia,Hernandez,$604.72 ,4,337,Plano,94,Female,Married,Yes
+4066-9400-0000-0000,Ava,Wilson,$479.81 ,6,424,McKinney,86,Male,Married,No
+4122-7700-0000-0000,Lucas,Smith,$507.42 ,5,364,Arlington,91,Male,Married,Yes
+4899-9800-0000-0000,Charlotte,Perez,$687.20 ,4,302,Frisco,86,Male,Single,Yes
+4030-0700-0000-0000,Mia,Jones,$499.12 ,5,398,Rockwall,82,Male,Single,No
+4613-9500-0000-0000,Alexander,Taylor,$533.77 ,4,328,Irving,84,Female,Widowed,Yes
+4905-4400-0000-0000,John,Harris,$547.99 ,5,441,Frisco,91,Male,Widowed,No
+4263-3800-0000-0000,Logan,Smith,$371.88 ,2,167,Arlington,82,Female,Widowed,No
+4530-6800-0000-0000,Amelia,Anderson,$620.43 ,5,406,Farmers Branch,22,Male,Divorced,No
+4004-7000-0000-0000,John,Taylor,$575.63 ,7,575,Frisco,19,Male,Married,Yes
+4603-0500-0000-0000,Harper,Gonzalez,$659.52 ,4,306,Plano,24,Male,Widowed,No
+4323-4700-0000-0000,John,Hernandez,$545.59 ,4,283,Plano,26,Female,Widowed,Yes
+4265-1000-0000-0000,Charlotte,Smith,$626.78 ,1,105,Arlington,58,Male,Divorced,No
+4415-7200-0000-0000,Aiden,Lee,$272.16 ,1,114,Addison,42,Female,Divorced,Yes
+4028-0900-0000-0000,Oliver,Martinez,$620.17 ,3,301,Rockwall,52,Male,Divorced,No
+4004-8900-0000-0000,Mia,White,$433.93 ,3,307,Farmers Branch,56,Male,Divorced,Yes
+4380-4700-0000-0000,Amelia,Thomas,$245.88 ,3,243,Rockwall,38,Male,Divorced,Yes
+4358-3700-0000-0000,Oliver,Garcia,$80.64 ,1,72,Arlington,36,Male,Divorced,Yes
+5304-3282-2159-0160, Elijah     , Taylor,$699.28 ,3,287,Arlington,41,F,Married,No
+4227-8400-0000-0000,Isabella,Harris,$592.76 ,2,179,Addison,55,Male,Married,Yes
+4471-5400-0000-0000,Elijah,Clark,$427.53 ,4,379,Irving,44,Female,Married,No
+4354-6900-0000-0000,Michael,Anderson,$570.86 ,5,413,Frisco,60,Male,Married,Yes
+4001-1200-0000-0000,Olivia,Harris,$509.94 ,6,500,Dallas,32,Female,Married,Yes
+4082-9800-0000-0000,Aiden,Williams,$696.51 ,7,507,Plano,33,Female,Married,Yes
+4953-1700-0000-0000,Lucas,Harris,$430.89 ,5,381,Plano,57,Female,Married,Yes
+4853-7600-0000-0000,Harper,Lee,$411.26 ,4,305,Rockwall,43,Male,Married,Yes
+4102-7100-0000-0000,Sophia,Lee,$646.35 ,7,544,Arlington,47,Female,Married,Yes
+4696-1700-0000-0000,Michael,Lee,$525.04 ,4,313,Addison,48,Male,Married,Yes
+4328-9600-0000-0000,Benjamin,Perez,$240.95 ,2,217,Dallas,42,Female,Single,No
+4601-3700-0000-0000,Amelia,Hernandez,$395.56 ,3,226,McKinney,46,Female,Single,Yes
+4985-1400-0000-0000,Logan,Clark,$528.74 ,3,258,Dallas,53,Female,Single,No
+4017-2200-0000-0000,Oliver,Anderson,$599.67 ,2,181,Irving,39,Male,Single,No
+4199-3300-0000-0000,Aiden,Anderson,$494.72 ,4,303,Frisco,31,Male,Single,Yes
+2346-7593-6564-6140, Ryan       , Sanchez,$3.67 ,9,721,Rockwall,39,f,Single ,No
+1065-2485-1183-0930, William   , Sims,$435.30 ,4,347,Frisco,53,M,Single ,No
+3456-6207-4349-0100, Madison   , Ryan,$366.20 ,3,291,Plano,34,f,Single ,No
+4308-2800-0000-0000,Oliver,Lewis,$327.11 ,3,234,McKinney,56,Female,Widowed,No
+4203-5600-0000-0000,Lucas,Harris,$483.13 ,3,257,Dallas,60,Male,Widowed,No
+4519-3700-0000-0000,Isabella,Jones,$2.58 ,11,807,Plano,52,Male,Widowed,No
+4511-8700-0000-0000,Aiden,Garcia,$592.45 ,4,302,McKinney,33,Male,Widowed,Yes
+4338-1200-0000-0000,Lucas,Clark,$333.57 ,3,308,Farmers Branch,74,Male,Divorced,No
+4047-9200-0000-0000,John,Williams,$667.46 ,4,337,Plano,62,Male,Divorced,No
+4962-4300-0000-0000,Isabella,Thomas,$650.48 ,4,344,Arlington,76,Female,Divorced,Yes
+4945-2500-0000-0000,Benjamin,Perez,$681.11 ,4,315,Plano,62,Male,Divorced,Yes
+4636-5100-0000-0000,Lucas,Smith,$451.67 ,2,141,Irving,69,Female,Divorced,No
+4314-7400-0000-0000,Harper,Taylor,$499.69 ,5,422,Farmers Branch,68,Male,Divorced,No
+4571-8300-0000-0000,Lucas,Lee,$629.65 ,8,626,Farmers Branch,72,Male,Married,Yes
+4992-0900-0000-0000,Jackson,Davis,$437.94 ,3,247,Dallas,71,Female,Married,No
+4403-4400-0000-0000,Isabella,Anderson,$209.77 ,2,154,Plano,69,Female,Married,Yes
+4276-4300-0000-0000,Alexander,Hernandez,$348.07 ,4,337,Rockwall,80,Female,Married,No
+4280-2300-0000-0000,Isabella,Smith,$666.82 ,7,521,Farmers Branch,72,Male,Married,No
+4568-5100-0000-0000,Isabella,Perez,$555.15 ,2,172,Plano,65,Male,Married,No
+4180-3000-0000-0000,Liam,Harris,$9.39 ,10,791,Irving,65,Female,Married,Yes
+4047-2000-0000-0000,Elijah,Lee,$464.82 ,5,440,Addison,69,Female,Single,Yes
+4555-0600-0000-0000,Elijah,Perez,$490.36 ,5,364,Rockwall,67,Female,Single,No
+4262-4900-0000-0000,Jackson,Smith,$416.80 ,2,141,Plano,79,Male,Single,No
+4315-8200-0000-0000,Sophia,Jones,$245.90 ,2,239,Rockwall,79,Female,Widowed,No
+4244-4100-0000-0000,Michael,Wilson,$568.94 ,7,529,McKinney,86,Male,Divorced,Yes
+4524-7100-0000-0000,Logan,Davis,$387.10 ,4,364,Dallas,97,Female,Divorced,No
+4523-5800-0000-0000,Logan,Williams,$492.95 ,5,415,Arlington,82,Female,Divorced,No
+4660-4900-0000-0000,Charlotte,Gonzalez,$237.59 ,2,215,McKinney,92,Female,Married,Yes
+4549-6100-0000-0000,Isabella,Davis,$483.44 ,5,424,Rockwall,87,Male,Married,Yes
+4565-0600-0000-0000,Ethan,Clark,$495.75 ,3,267,Plano,96,Male,Married,Yes
+4536-4000-0000-0000,Jackson,Harris,$442.88 ,3,226,Addison,97,Female,Married,No
+4249-6900-0000-0000,Olivia,Williams,$623.90 ,4,292,Dallas,86,Female,Married,Yes
+4739-2200-0000-0000,Lucas,Gonzalez,$346.58 ,3,217,Frisco,88,Male,Single,No
+4712-5800-0000-0000,Oliver,Smith,$693.84 ,2,210,McKinney,89,Male,Single,Yes
+4118-5600-0000-0000,Isabella,Jones,$196.88 ,2,193,McKinney,89,Female,Single,Yes
+4689-5000-0000-0000,Isabella,Wilson,$437.49 ,6,433,Frisco,96,Male,Single,No
+4047-0000-0000-0000,Harper,Martinez,$669.29 ,5,394,Irving,101,Male,Widowed,No
+4140-5300-0000-0000,Liam,Smith,$599.88 ,7,520,Rockwall,99,Male,Widowed,No
+4680-1200-0000-0000,John,Lee,$461.57 ,4,330,Irving,88,Female,Widowed,No
+4367-9600-0000-0000,Jackson,Hernandez,$591.83 ,5,372,McKinney,27,Male,Divorced,Yes
+4052-6400-0000-0000,Aiden,Lewis,$406.79 ,2,211,McKinney,30,Female,Divorced,Yes
+4081-9500-0000-0000,Isabella,Harris,$479.69 ,5,405,Addison,27,Female,Divorced,No
+4367-3600-0000-0000,Lucas,Clark,$541.01 ,2,159,Addison,24,Male,Married,Yes
+4958-9300-0000-0000,Aiden,Rodriguez,$286.42 ,4,281,Addison,22,Male,Married,No
+4967-5700-0000-0000,Ava,Anderson,$8.85 ,9,652,Arlington,21,Male,Married,No
+4441-1600-0000-0000,Harper,Wilson,$590.58 ,2,186,McKinney,19,Female,Single,No
+4194-4500-0000-0000,Liam,Martinez,$366.30 ,2,185,Irving,30,Male,Widowed,No
+5896-0608-5936-8360, Isabella   , Bailey,$596.22 ,2,180,Frisco,47,M,Divorced,Yes
+4475-0100-0000-0000,Liam,Perez,$464.19 ,4,335,Irving,54,Female,Divorced,Yes
+4256-6700-0000-0000,Michael,Smith,$411.26 ,3,273,Addison,57,Male,Divorced,No
+4903-0000-0000-0000,Jackson,Smith,$616.82 ,4,366,Frisco,40,Female,Divorced,No
+4672-0800-0000-0000,Oliver,Clark,$694.99 ,5,353,Plano,60,Female,Divorced,Yes
+4616-7800-0000-0000,Charlotte,Clark,$327.94 ,4,289,Rockwall,49,Male,Divorced,No
+4375-4200-0000-0000,Ethan,Gonzalez,$594.61 ,3,286,Irving,40,Female,Divorced,Yes
+4284-4300-0000-0000,Aiden,Gonzalez,$604.42 ,3,272,Plano,37,Female,Divorced,No
+4543-6300-0000-0000,John,Garcia,$450.69 ,3,230,McKinney,40,Male,Divorced,No
+4360-3800-0000-0000,Benjamin,Davis,$534.23 ,2,180,Irving,43,Female,Divorced,Yes
+4496-1800-0000-0000,John,Smith,$383.62 ,4,284,Rockwall,55,Female,Divorced,Yes
+4689-1900-0000-0000,Benjamin,Lewis,$201.83 ,1,84,Arlington,37,Female,Divorced,No
+4475-5600-0000-0000,John,Clark,$692.71 ,2,157,Farmers Branch,32,Female,Divorced,Yes
+4021-5800-0000-0000,Benjamin,Lewis,$522.20 ,5,436,Irving,46,Female,Divorced,Yes
+4465-0325-0584-5190, Isaiah     , Simmons,$3.62 ,11,822,Plano,39,Male,Married,Yes
+4151-6600-0000-0000,Mia,Garcia,$651.29 ,4,357,Irving,43,Male,Married,No
+4871-4300-0000-0000,Oliver,Wilson,$603.26 ,5,412,Frisco,42,Female,Married,Yes
+4764-5500-0000-0000,John,Lewis,$355.86 ,2,176,Addison,57,Male,Married,No
+4309-0600-0000-0000,Ava,Hernandez,$3.35 ,10,731,Farmers Branch,56,Male,Married,Yes
+4052-2500-0000-0000,Lucas,Perez,$661.87 ,7,552,Frisco,51,Male,Single,No
+4610-1100-0000-0000,Sophia,Rodriguez,$278.63 ,3,220,Farmers Branch,48,Male,Single,No
+4812-4500-0000-0000,Ava,Garcia,$615.42 ,3,296,McKinney,32,Male,Single,No
+4675-7100-0000-0000,Michael,Anderson,$666.51 ,7,550,Addison,45,Male,Single,No
+4737-9800-0000-0000,Oliver,White,$607.23 ,4,375,Plano,46,Male,Single,Yes
+2777-9908-3371-7320, Jaxon      , Price,$534.13 ,1,140,Dallas,56,m,Single ,Yes
+8297-6427-0483-4260, Logan     , Wagner,$678.19 ,4,343,Dallas,39,Female,Single ,No
+4411-4200-0000-0000,Alexander,Williams,$695.05 ,7,560,Arlington,57,Female,Widowed,Yes
+4066-7200-0000-0000,Isabella,Rodriguez,$569.49 ,2,230,Arlington,53,Male,Widowed,Yes
+4385-6700-0000-0000,Elijah,Smith,$447.32 ,3,255,Irving,43,Female,Widowed,Yes
+4528-7800-0000-0000,Harper,Garcia,$313.02 ,2,157,Addison,55,Female,Widowed,No
+4843-2700-0000-0000,Sophia,Gonzalez,$536.74 ,5,417,Arlington,39,Female,Widowed,No
+4022-4600-0000-0000,Alexander,Davis,$443.36 ,3,298,Farmers Branch,45,Female,Widowed,No
+4463-7800-0000-0000,Elijah,Harris,$453.21 ,4,331,McKinney,34,Male,Widowed,No
+4645-2200-0000-0000,Alexander,Lee,$373.37 ,3,286,Rockwall,32,Female,Widowed,Yes
+4370-6300-0000-0000,Liam,Garcia,$666.97 ,2,154,Farmers Branch,52,Female,Widowed,No
+4168-7100-0000-0000,Charlotte,Thomas,$440.45 ,1,84,Frisco,54,Male,Widowed,No
+4844-0900-0000-0000,Charlotte,Wilson,$440.30 ,9,689,McKinney,74,Male,Divorced,Yes
+4881-6400-0000-0000,Lucas,Williams,$426.93 ,10,772,McKinney,73,Female,Divorced,No
+4237-6100-0000-0000,Olivia,Harris,$209.55 ,9,702,Frisco,69,Male,Divorced,No
+4378-2300-0000-0000,Olivia,Perez,$60.74 ,2,181,Plano,79,Female,Divorced,Yes
+4402-7400-0000-0000,Alexander,Williams,$235.47 ,8,654,Dallas,63,Male,Divorced,Yes
+4727-5900-0000-0000,Ava,Garcia,$115.23 ,5,352,Dallas,76,Male,Divorced,Yes
+4297-8700-0000-0000,Ava,Rodriguez,$98.28 ,8,564,Frisco,69,Female,Divorced,No
+4147-0700-0000-0000,Harper,Jones,$381.33 ,9,730,Dallas,70,Female,Married,Yes
+4590-1100-0000-0000,Michael,Lee,$312.43 ,5,411,Irving,62,Female,Married,No
+4048-3000-0000-0000,John,Garcia,$571.04 ,9,726,Rockwall,64,Male,Married,No
+4558-9700-0000-0000,Harper,Williams,$153.85 ,5,399,Plano,65,Female,Married,No
+4578-5400-0000-0000,Amelia,Taylor,$90.66 ,7,518,Frisco,71,Female,Married,No
+4738-1900-0000-0000,John,Lee,$41.89 ,2,163,Arlington,78,Female,Married,Yes
+4608-8800-0000-0000,Ethan,White,$293.73 ,4,300,McKinney,66,Female,Married,Yes
+4837-2400-0000-0000,Elijah,Thomas,$307.95 ,9,712,Farmers Branch,62,Female,Married,Yes
+4344-1800-0000-0000,Jackson,Anderson,$51.31 ,2,143,Addison,69,Female,Married,Yes
+4910-5000-0000-0000,Amelia,Williams,$155.38 ,11,869,Rockwall,69,Female,Married,Yes
+4473-8700-0000-0000,Ethan,Harris,$121.16 ,10,782,Frisco,78,Male,Married,No
+4517-8600-0000-0000,Benjamin,Wilson,$116.23 ,7,563,Plano,76,Female,Single,Yes
+4214-2700-0000-0000,Mia,Martinez,$128.75 ,6,478,Dallas,72,Female,Single,Yes
+4194-2500-0000-0000,Isabella,Martinez,$264.36 ,9,647,Dallas,63,Female,Single,No
+4132-7400-0000-0000,Alexander,Rodriguez,$302.89 ,4,338,McKinney,74,Male,Single,Yes
+4032-6900-0000-0000,Liam,Wilson,$564.87 ,9,639,Farmers Branch,75,Female,Single,No
+4014-3400-0000-0000,Aiden,Martinez,$115.86 ,5,400,Frisco,76,Female,Single,Yes
+4206-2300-0000-0000,Jackson,Smith,$95.82 ,4,339,McKinney,80,Female,Single,Yes
+4682-0000-0000-0000,Charlotte,White,$138.48 ,4,356,Plano,62,Male,Single,No
+4615-5500-0000-0000,Oliver,Anderson,$506.89 ,9,649,Plano,62,Female,Single,Yes
+8058-9734-5380-2390, Kaylee     , Perry,$68.65 ,4,295,Plano,62,f,Single ,Yes
+4950-9800-0000-0000,Lucas,Harris,$51.05 ,9,635,Dallas,68,Female,Widowed,No
+4984-9100-0000-0000,Lucas,Wilson,$402.47 ,11,821,Frisco,74,Female,Widowed,No
+4701-7000-0000-0000,Ava,Thomas,$531.50 ,7,588,Irving,77,Male,Widowed,Yes
+4412-0900-0000-0000,Aiden,Smith,$520.45 ,8,628,Rockwall,72,Male,Widowed,Yes
+4134-2700-0000-0000,Oliver,Wilson,$419.59 ,6,477,Plano,91,Female,Divorced,No
+4423-7000-0000-0000,Alexander,Harris,$365.01 ,10,780,Addison,88,Male,Divorced,No
+4497-1500-0000-0000,Jackson,Perez,$634.40 ,11,869,Frisco,88,Female,Divorced,No
+4952-1500-0000-0000,Isabella,Smith,$167.74 ,10,721,Plano,86,Female,Divorced,Yes
+4352-2600-0000-0000,Alexander,Garcia,$453.68 ,11,803,Rockwall,92,Male,Divorced,Yes
+4116-0600-0000-0000,Ethan,Wilson,$32.68 ,3,293,Irving,96,Female,Divorced,No
+4769-6200-0000-0000,Logan,Taylor,$393.21 ,9,658,Farmers Branch,86,Female,Divorced,No
+4142-8500-0000-0000,Benjamin,Jones,$26.02 ,1,91,Arlington,88,Female,Divorced,No
+4948-0200-0000-0000,Isabella,Lewis,$123.19 ,10,795,Farmers Branch,92,Male,Married,Yes
+4370-2100-0000-0000,Oliver,Lewis,$284.24 ,5,352,Frisco,89,Female,Married,No
+4413-0500-0000-0000,Charlotte,Lee,$482.11 ,11,820,Irving,93,Female,Married,No
+4786-7000-0000-0000,Elijah,Taylor,$293.12 ,9,722,Irving,88,Male,Married,Yes
+4387-8700-0000-0000,Benjamin,Martinez,$102.66 ,9,711,Arlington,97,Female,Married,No
+4833-4000-0000-0000,Amelia,Jones,$136.35 ,10,788,Rockwall,83,Male,Married,No
+4942-0000-0000-0000,Benjamin,Wilson,$411.91 ,6,484,Rockwall,89,Male,Married,No
+4709-6300-0000-0000,Alexander,Smith,$108.44 ,5,412,Rockwall,86,Male,Married,Yes
+4385-8000-0000-0000,John,Jones,$9.12 ,7,548,Dallas,87,Male,Single,Yes
+4832-5900-0000-0000,Charlotte,Anderson,$38.71 ,8,586,Addison,89,Female,Single,No
+4032-1400-0000-0000,Mia,Taylor,$420.46 ,9,707,Frisco,98,Female,Single,No
+4127-5000-0000-0000,Benjamin,Hernandez,$414.97 ,9,708,Frisco,82,Male,Single,No
+4149-5300-0000-0000,Olivia,Jones,$115.65 ,7,493,Farmers Branch,81,Male,Single,Yes
+4565-6900-0000-0000,Logan,Wilson,$469.63 ,10,708,Frisco,82,Male,Single,No
+4737-2100-0000-0000,Olivia,Jones,$33.26 ,10,732,Rockwall,93,Female,Single,Yes
+4634-1600-0000-0000,Aiden,Jones,$106.78 ,8,642,Dallas,96,Male,Single,Yes
+4173-0800-0000-0000,John,Perez,$316.91 ,8,601,Farmers Branch,81,Male,Single,Yes
+4764-6000-0000-0000,Michael,Lee,$45.39 ,5,434,Addison,100,Female,Single,No
+4542-5400-0000-0000,Alexander,Smith,$27.82 ,2,223,Plano,101,Female,Widowed,No
+4046-5900-0000-0000,Isabella,White,$78.33 ,6,463,Irving,84,Female,Widowed,No
+4362-5500-0000-0000,Alexander,Harris,$536.16 ,9,717,Irving,81,Female,Widowed,No
+4185-6300-0000-0000,John,Wilson,$124.50 ,7,530,Arlington,95,Male,Widowed,No
+4521-1500-0000-0000,Isabella,Clark,$251.71 ,6,518,Irving,99,Female,Widowed,Yes
+4256-1200-0000-0000,Ava,Taylor,$302.98 ,11,816,Rockwall,101,Female,Widowed,Yes
+4829-6300-0000-0000,Charlotte,Taylor,$392.12 ,10,714,Rockwall,92,Female,Widowed,No
+4541-7000-0000-0000,Ava,Harris,$605.91 ,8,624,Plano,93,Female,Widowed,Yes
+4762-1900-0000-0000,Michael,Garcia,$449.37 ,9,658,Arlington,30,Male,Divorced,No
+4328-6200-0000-0000,Amelia,Hernandez,$258.27 ,6,496,Addison,29,Male,Divorced,Yes
+4812-4000-0000-0000,Jackson,Smith,$180.94 ,8,570,Plano,29,Male,Divorced,No
+4043-0700-0000-0000,Sophia,Smith,$531.53 ,9,647,Frisco,21,Male,Divorced,Yes
+4262-0600-0000-0000,Aiden,Gonzalez,$244.76 ,8,587,Dallas,28,Female,Married,No
+4973-8300-0000-0000,Jackson,Davis,$228.14 ,3,229,McKinney,28,Female,Married,Yes
+4953-4200-0000-0000,Sophia,Clark,$50.07 ,6,488,Arlington,30,Female,Married,Yes
+4104-8200-0000-0000,Benjamin,Smith,$635.42 ,9,657,Farmers Branch,20,Female,Married,No
+4353-4700-0000-0000,Mia,Lee,$21.90 ,5,428,Addison,27,Male,Single,Yes
+4850-7800-0000-0000,Michael,Anderson,$220.30 ,8,615,McKinney,28,Female,Single,Yes
+4264-9900-0000-0000,Oliver,Williams,$562.53 ,10,726,Irving,21,Female,Single,No
+4629-8800-0000-0000,Oliver,Harris,$239.61 ,10,738,Irving,28,Female,Single,No
+4387-0700-0000-0000,Oliver,White,$631.74 ,10,706,Arlington,26,Male,Single,Yes
+4994-0300-0000-0000,Logan,Lewis,$118.56 ,5,377,Dallas,26,Male,Single,No
+4490-4900-0000-0000,Amelia,Rodriguez,$541.78 ,11,809,Dallas,24,Male,Single,Yes
+4062-5600-0000-0000,Olivia,White,$86.60 ,3,275,Irving,19,Male,Single,No
+4020-5900-0000-0000,Logan,Hernandez,$286.98 ,6,507,Arlington,28,Male,Widowed,No
+4072-2800-0000-0000,Oliver,Hernandez,$266.70 ,4,326,McKinney,21,Female,Widowed,No
+4843-1600-0000-0000,Aiden,Williams,$255.57 ,10,784,McKinney,24,Female,Widowed,No
+4307-2100-0000-0000,Harper,Martinez,$193.93 ,7,538,Irving,21,Male,Widowed,Yes
+4449-1000-0000-0000,Liam,Davis,$598.18 ,10,724,Plano,26,Male,Widowed,No
+4381-5200-0000-0000,Lucas,Lee,$344.52 ,9,683,Irving,20,Male,Widowed,Yes
+4544-1100-0000-0000,Olivia,Perez,$115.48 ,11,805,Plano,25,Female,Widowed,Yes
+4516-4200-0000-0000,Ava,Wilson,$110.00 ,6,442,Rockwall,27,Male,Widowed,No
+8004-6532-7900-1040, John       , Scott,$182.72 ,6,467,Dallas,48,F,Divorced,No
+4792-5329-7718-0050, Charlotte , Hart,$278.62 ,9,718,Addison,34,M,Divorced,No
+4846-4300-0000-0000,Isabella,Rodriguez,$523.72 ,8,570,McKinney,44,Female,Divorced,Yes
+4346-6700-0000-0000,Lucas,Smith,$584.34 ,10,775,Arlington,60,Female,Divorced,No
+4766-2000-0000-0000,Aiden,Perez,$57.66 ,2,150,Farmers Branch,42,Female,Divorced,No
+4176-5100-0000-0000,Liam,Harris,$19.68 ,9,711,Arlington,48,Male,Divorced,Yes
+4366-7900-0000-0000,Isabella,Lewis,$301.69 ,10,765,Frisco,53,Female,Divorced,Yes
+4365-5000-0000-0000,Jackson,Garcia,$412.43 ,8,644,Plano,51,Female,Divorced,Yes
+4028-4900-0000-0000,Alexander,Clark,$63.45 ,9,640,Plano,32,Female,Divorced,Yes
+4453-2700-0000-0000,Oliver,Jones,$364.32 ,9,675,McKinney,39,Male,Divorced,Yes
+4694-8900-0000-0000,Sophia,Perez,$338.64 ,9,677,Plano,44,Female,Divorced,No
+4285-6100-0000-0000,Aiden,Hernandez,$46.37 ,2,232,Farmers Branch,40,Female,Divorced,Yes
+4667-6900-0000-0000,John,Davis,$393.33 ,6,488,Irving,45,Male,Divorced,No
+4423-0100-0000-0000,Benjamin,Davis,$28.18 ,10,794,Dallas,59,Male,Divorced,No
+4809-5900-0000-0000,Ava,Rodriguez,$238.18 ,7,522,Frisco,53,Female,Divorced,No
+4567-4800-0000-0000,Logan,Clark,$132.86 ,7,585,Rockwall,41,Male,Divorced,Yes
+4260-3200-0000-0000,Benjamin,Garcia,$233.76 ,3,295,Arlington,40,Male,Divorced,Yes
+4053-4300-0000-0000,Ava,Anderson,$263.97 ,10,738,Frisco,48,Female,Divorced,Yes
+4700-1100-0000-0000,Benjamin,Davis,$186.22 ,11,791,Arlington,43,Male,Divorced,Yes
+4659-4600-0000-0000,Oliver,Taylor,$194.56 ,9,649,McKinney,52,Female,Divorced,No
+4041-4200-0000-0000,Elijah,Gonzalez,$298.70 ,4,380,Frisco,43,Female,Divorced,No
+4133-4800-0000-0000,Isabella,Anderson,$334.89 ,5,420,Dallas,49,Male,Divorced,Yes
+4033-9900-0000-0000,Isabella,Taylor,$336.82 ,7,570,Arlington,31,Female,Divorced,No
+1824-5836-3406-0200, Carson     , Hayes,$289.37 ,7,535,McKinney,33,F,Married,Yes
+2187-5013-2016-1920, Sophia    , Gibson,$223.92 ,8,649,Dallas,45,f,Married,Yes
+3767-3980-9270-4430, Anthony   , Wells,$110.82 ,10,700,Dallas,37,Male,Married,Yes
+4726-5400-0000-0000,Benjamin,Thomas,$56.86 ,5,425,Frisco,45,Male,Married,No
+4363-7100-0000-0000,Ethan,Davis,$225.07 ,6,488,Addison,32,Male,Married,Yes
+4066-6800-0000-0000,John,Harris,$592.99 ,8,610,Rockwall,42,Female,Married,Yes
+4018-0900-0000-0000,Logan,Williams,$266.72 ,6,512,Irving,45,Female,Married,No
+4374-8900-0000-0000,Isabella,Williams,$401.25 ,7,532,Dallas,58,Female,Married,Yes
+4342-4600-0000-0000,Harper,White,$25.76 ,9,635,Dallas,55,Female,Married,Yes
+4248-7700-0000-0000,Logan,Davis,$215.86 ,6,462,Dallas,58,Female,Married,Yes
+4818-7300-0000-0000,Ava,Garcia,$232.12 ,9,692,McKinney,49,Female,Single,No
+4155-2000-0000-0000,Elijah,Harris,$389.71 ,6,500,Addison,39,Male,Single,No
+4453-7600-0000-0000,Michael,Williams,$294.74 ,8,658,McKinney,58,Male,Single,Yes
+4310-8500-0000-0000,Benjamin,Williams,$122.75 ,4,348,Frisco,48,Female,Single,Yes
+4725-7500-0000-0000,Olivia,Taylor,$523.23 ,7,537,Farmers Branch,34,Male,Single,Yes
+4634-8200-0000-0000,Olivia,Smith,$131.08 ,10,712,Rockwall,45,Female,Single,No
+4302-2100-0000-0000,Ethan,Rodriguez,$438.22 ,11,787,Addison,37,Female,Single,Yes
+4014-5900-0000-0000,Aiden,Smith,$245.34 ,5,427,Plano,53,Male,Single,Yes
+4083-6432-4051-0140,  John ,  Smith,$153.13 ,10,711,Irving,40,M,Single ,No
+1865-4689-0452-5340, Gabriel    , Turner,$228.21 ,10,797,Addison,38,m,Single ,No
+1123-9961-2853-9250, Charlotte , Robertson,$173.08 ,10,748,Addison,40,M,Single ,Yes
+1075-0884-6225-7710, Lucas     , Riley,$186.90 ,5,403,Rockwall,43,f,Single ,No
+3938-1446-7680-3900,  Isabella   , Garcia,$314.72 ,9,633,Addison,52,Male,Widowed,No
+4720-3701-1737-1250, Mia       , Cole,$120.34 ,10,747,Dallas,48,Female,Widowed,Yes
+4042-1600-0000-0000,Mia,Rodriguez,$125.13 ,2,234,McKinney,59,Male,Widowed,No
+4945-0000-0000-0000,Harper,White,$147.85 ,11,822,Irving,58,Male,Widowed,Yes
+4894-1500-0000-0000,Isabella,Wilson,$134.52 ,6,496,Arlington,54,Male,Widowed,Yes
+4803-1200-0000-0000,Charlotte,Clark,$132.97 ,6,457,Arlington,59,Male,Widowed,No
+4259-2000-0000-0000,Logan,Hernandez,$282.30 ,8,578,Irving,59,Female,Widowed,No
+4418-7500-0000-0000,Amelia,White,$183.09 ,10,797,Frisco,44,Female,Widowed,No
+4868-6100-0000-0000,Benjamin,Jones,$277.88 ,5,374,Arlington,57,Male,Widowed,Yes
+4124-3500-0000-0000,Liam,Smith,$48.87 ,2,190,Frisco,31,Male,Widowed,Yes
+4502-3400-0000-0000,John,Taylor,$201.32 ,10,718,Plano,53,Female,Widowed,No
+4883-5800-0000-0000,Charlotte,Taylor,$32.20 ,8,624,Farmers Branch,33,Female,Widowed,Yes
+4978-5500-0000-0000,Lucas,Harris,$410.73 ,7,581,Plano,54,Female,Widowed,Yes
+4203-0200-0000-0000,Oliver,Gonzalez,$605.19 ,8,646,Dallas,45,Male,Widowed,No
+4277-3900-0000-0000,John,Jones,$392.77 ,7,502,Rockwall,39,Female,Widowed,No
+4288-1800-0000-0000,Ava,Rodriguez,$238.37 ,4,356,Frisco,33,Male,Widowed,No
+4121-1800-0000-0000,Amelia,Jones,$65.12 ,8,590,Arlington,75,Female,Divorced,No
+4931-4000-0000-0000,John,Rodriguez,$46.99 ,8,600,Frisco,79,Female,Divorced,Yes
+4407-3100-0000-0000,Oliver,Taylor,$180.93 ,5,367,Plano,61,Male,Divorced,Yes
+4281-4400-0000-0000,Sophia,Davis,$62.00 ,7,541,Irving,73,Female,Divorced,No
+4689-5000-0000-0000,Charlotte,Garcia,$43.87 ,11,771,Frisco,67,Female,Divorced,Yes
+4267-1800-0000-0000,Lucas,Harris,$352.94 ,6,471,Rockwall,75,Male,Divorced,Yes
+4488-4800-0000-0000,Ethan,Hernandez,$340.65 ,4,365,Frisco,70,Female,Divorced,Yes
+4058-9600-0000-0000,Oliver,Martinez,$218.46 ,3,294,Irving,72,Male,Divorced,No
+4785-2400-0000-0000,John,Hernandez,$308.50 ,9,638,Farmers Branch,61,Female,Divorced,No
+4976-7800-0000-0000,Charlotte,Wilson,$535.02 ,7,583,Plano,77,Female,Divorced,Yes
+4105-8300-0000-0000,Charlotte,Rodriguez,$33.24 ,9,723,Arlington,65,Male,Married,Yes
+4102-9700-0000-0000,Lucas,Davis,$547.24 ,9,715,Addison,65,Male,Married,Yes
+4748-2200-0000-0000,Isabella,Jones,$251.00 ,3,273,Frisco,72,Female,Married,No
+4298-7900-0000-0000,John,Clark,$259.27 ,10,782,Rockwall,75,Female,Married,No
+4829-6700-0000-0000,Benjamin,Clark,$61.03 ,5,422,Frisco,71,Female,Married,Yes
+4915-0400-0000-0000,Elijah,Lee,$39.55 ,3,219,Irving,80,Female,Married,No
+4588-5100-0000-0000,Olivia,Williams,$250.56 ,10,796,McKinney,79,Male,Married,Yes
+4777-0700-0000-0000,Aiden,Martinez,$423.66 ,7,536,Irving,75,Male,Single,No
+4261-7500-0000-0000,Lucas,Hernandez,$278.28 ,5,442,Dallas,72,Male,Single,Yes
+4503-5800-0000-0000,Amelia,Perez,$469.76 ,10,782,Addison,80,Female,Single,No
+4692-1300-0000-0000,Oliver,Jones,$640.77 ,9,722,McKinney,67,Male,Single,Yes
+4531-7100-0000-0000,Alexander,Perez,$225.86 ,9,666,Arlington,69,Male,Single,Yes
+4799-0200-0000-0000,Sophia,Garcia,$524.29 ,9,706,McKinney,75,Male,Single,No
+4548-0200-0000-0000,Liam,Williams,$404.50 ,9,702,Addison,77,Male,Single,Yes
+4910-8800-0000-0000,Harper,Thomas,$576.76 ,10,728,Plano,75,Female,Single,Yes
+4648-8100-0000-0000,Isabella,Williams,$139.58 ,7,553,Farmers Branch,73,Male,Single,Yes
+4633-8500-0000-0000,Oliver,Thomas,$603.23 ,9,729,Frisco,78,Female,Single,No
+4868-2800-0000-0000,Oliver,Jones,$392.16 ,5,435,Addison,80,Male,Single,No
+4520-7400-0000-0000,Harper,Perez,$378.23 ,8,620,Dallas,77,Female,Widowed,No
+4139-8100-0000-0000,Liam,Thomas,$80.62 ,6,485,Dallas,78,Female,Widowed,Yes
+4234-7100-0000-0000,Amelia,Anderson,$165.47 ,9,669,Addison,68,Female,Widowed,Yes
+4676-8900-0000-0000,Michael,Perez,$115.26 ,11,817,Dallas,76,Male,Widowed,Yes
+4988-6500-0000-0000,Harper,Smith,$170.09 ,9,719,Arlington,80,Female,Widowed,Yes
+4542-2600-0000-0000,Lucas,Anderson,$280.49 ,10,787,Plano,78,Female,Widowed,No
+4641-3200-0000-0000,Mia,Perez,$358.25 ,11,859,Arlington,78,Male,Widowed,No
+4335-5900-0000-0000,Lucas,Smith,$603.82 ,10,755,Dallas,88,Male,Divorced,No
+4952-8200-0000-0000,John,Williams,$164.17 ,8,598,Frisco,82,Male,Divorced,No
+4671-7900-0000-0000,Aiden,Smith,$626.57 ,11,773,Rockwall,88,Female,Divorced,No
+4160-5300-0000-0000,Lucas,Gonzalez,$292.50 ,5,353,Rockwall,101,Female,Divorced,No
+4323-6600-0000-0000,Harper,Williams,$338.62 ,10,726,Plano,96,Female,Divorced,No
+4116-5700-0000-0000,Harper,Thomas,$369.64 ,9,664,Rockwall,98,Male,Divorced,Yes
+4756-5200-0000-0000,Elijah,Lewis,$96.04 ,2,142,Arlington,83,Male,Married,No
+4082-1600-0000-0000,Jackson,Garcia,$163.44 ,11,842,Frisco,100,Male,Married,Yes
+4613-8100-0000-0000,Amelia,Garcia,$85.25 ,6,438,Irving,97,Male,Married,No
+4998-1000-0000-0000,Oliver,Smith,$230.55 ,7,495,Plano,98,Female,Married,No
+4137-6800-0000-0000,Benjamin,Rodriguez,$310.14 ,10,784,Plano,84,Male,Married,No
+4122-8800-0000-0000,Sophia,Wilson,$111.75 ,9,671,Frisco,98,Male,Married,Yes
+4641-8100-0000-0000,Isabella,Lee,$404.37 ,9,655,Irving,98,Male,Married,Yes
+4234-6600-0000-0000,Aiden,Martinez,$405.24 ,7,531,Addison,98,Female,Married,Yes
+4709-7500-0000-0000,Lucas,Jones,$254.40 ,9,680,Rockwall,94,Female,Married,No
+4199-0700-0000-0000,Logan,Hernandez,$524.56 ,8,613,Dallas,88,Male,Married,Yes
+4110-5200-0000-0000,Ava,Williams,$100.73 ,7,519,Dallas,87,Female,Married,Yes
+4930-7300-0000-0000,Michael,Martinez,$219.15 ,4,285,Farmers Branch,97,Female,Married,No
+4309-6600-0000-0000,Ava,Garcia,$179.52 ,5,403,McKinney,89,Female,Single,Yes
+4861-8200-0000-0000,Alexander,Thomas,$322.48 ,5,448,Addison,96,Male,Single,Yes
+4385-9800-0000-0000,Mia,Wilson,$397.14 ,8,637,Dallas,98,Male,Single,Yes
+4677-3000-0000-0000,Amelia,Clark,$99.35 ,10,721,Rockwall,100,Male,Single,Yes
+4778-6200-0000-0000,Mia,Hernandez,$632.75 ,10,776,Plano,92,Female,Single,No
+4061-7100-0000-0000,Isabella,Thomas,$120.34 ,6,420,McKinney,85,Female,Widowed,No
+4988-0900-0000-0000,Elijah,Clark,$51.86 ,5,434,Arlington,86,Male,Widowed,No
+4513-8400-0000-0000,Harper,Jones,$415.54 ,9,696,Irving,96,Female,Widowed,Yes
+4347-5100-0000-0000,Lucas,Smith,$195.71 ,8,564,Irving,85,Male,Widowed,No
+4921-5300-0000-0000,Alexander,Williams,$155.22 ,6,446,Farmers Branch,24,Female,Divorced,Yes
+4611-8200-0000-0000,Alexander,Lee,$169.31 ,4,373,Farmers Branch,24,Female,Divorced,No
+4217-2100-0000-0000,Logan,Wilson,$494.27 ,6,496,Frisco,20,Male,Divorced,Yes
+4504-1400-0000-0000,Sophia,Williams,$209.60 ,10,730,Irving,21,Female,Divorced,No
+4942-2000-0000-0000,Lucas,Anderson,$272.23 ,4,325,Arlington,22,Male,Married,Yes
+4443-6700-0000-0000,Logan,Williams,$393.65 ,9,641,McKinney,24,Female,Married,No
+4973-8400-0000-0000,Logan,Harris,$458.85 ,7,565,Rockwall,30,Female,Married,Yes
+4811-7100-0000-0000,Sophia,Taylor,$61.66 ,5,400,Arlington,21,Female,Married,No
+4256-7200-0000-0000,Aiden,Gonzalez,$603.35 ,11,811,Plano,22,Female,Married,No
+4231-9900-0000-0000,Jackson,White,$38.55 ,5,415,Addison,22,Female,Married,Yes
+4564-4500-0000-0000,Charlotte,Davis,$129.52 ,3,258,Plano,18,Male,Married,Yes
+4752-1200-0000-0000,Lucas,Williams,$319.19 ,7,530,Farmers Branch,25,Male,Married,No
+4603-4900-0000-0000,Mia,Smith,$106.18 ,7,548,Plano,18,Male,Married,No
+4576-6800-0000-0000,Charlotte,Gonzalez,$255.61 ,8,610,Arlington,18,Male,Single,No
+4993-9700-0000-0000,Elijah,Perez,$150.17 ,4,331,Rockwall,25,Female,Single,Yes
+4657-5800-0000-0000,Charlotte,Thomas,$230.79 ,3,297,McKinney,18,Male,Single,No
+4978-7900-0000-0000,Benjamin,Lee,$50.83 ,10,726,Plano,28,Male,Single,No
+4413-5500-0000-0000,Logan,White,$420.06 ,10,765,McKinney,29,Female,Widowed,Yes
+4607-7600-0000-0000,Logan,Martinez,$476.40 ,11,791,Farmers Branch,21,Female,Widowed,Yes
+4717-0100-0000-0000,Harper,Martinez,$435.81 ,7,551,Farmers Branch,28,Female,Widowed,No
+4910-7100-0000-0000,Oliver,Wilson,$149.70 ,9,729,Irving,19,Male,Widowed,Yes
+4852-0900-0000-0000,Benjamin,Gonzalez,$311.76 ,6,482,Addison,27,Female,Widowed,Yes
+4691-0300-0000-0000,Isabella,White,$338.06 ,5,417,Rockwall,20,Male,Widowed,Yes
+9899-2492-8527-4810, Mia       , Knight,$116.69 ,6,490,Arlington,40,f,Divorced,Yes
+4610-1300-0000-0000,Mia,Gonzalez,$268.16 ,6,465,Addison,31,Male,Divorced,No
+4034-6000-0000-0000,Charlotte,Garcia,$490.19 ,9,703,Irving,44,Male,Divorced,Yes
+4908-0100-0000-0000,Oliver,Lee,$315.24 ,5,449,Frisco,48,Female,Divorced,Yes
+4888-1600-0000-0000,Olivia,Lee,$41.72 ,7,554,Arlington,57,Female,Divorced,Yes
+4218-4200-0000-0000,John,Smith,$117.86 ,9,707,Rockwall,49,Female,Divorced,Yes
+4117-0100-0000-0000,Elijah,Lee,$138.67 ,6,429,Addison,48,Female,Divorced,No
+4874-4900-0000-0000,Amelia,Wilson,$532.37 ,10,800,Addison,58,Male,Divorced,Yes
+4199-7100-0000-0000,Benjamin,Wilson,$172.57 ,9,725,Plano,33,Male,Divorced,No
+4976-8800-0000-0000,Olivia,Williams,$81.91 ,8,653,Rockwall,59,Male,Divorced,Yes
+4904-8700-0000-0000,Jackson,Garcia,$166.27 ,5,400,Farmers Branch,33,Female,Divorced,No
+4744-5900-0000-0000,Ethan,Perez,$313.18 ,10,799,Dallas,47,Male,Divorced,Yes
+6061-7742-6934-0880, James     , Dixon,$91.09 ,6,421,Dallas,38,Female,Married,Yes
+1905-4967-7428-5620, Aiden     , Spencer,$187.76 ,4,367,Irving,38,F,Married,No
+4036-8200-0000-0000,Alexander,Perez,$188.07 ,7,575,Farmers Branch,54,Female,Married,No
+4038-3500-0000-0000,Jackson,Davis,$218.02 ,10,759,Irving,35,Male,Married,No
+4988-5700-0000-0000,Charlotte,Garcia,$337.62 ,5,423,Dallas,36,Female,Married,Yes
+4421-6400-0000-0000,Isabella,Perez,$127.91 ,6,463,McKinney,58,Male,Married,Yes
+4743-9400-0000-0000,Liam,Gonzalez,$472.85 ,8,606,Irving,59,Male,Married,No
+4129-7600-0000-0000,Harper,White,$180.43 ,10,735,Farmers Branch,34,Male,Married,No
+4119-7200-0000-0000,Sophia,Martinez,$481.27 ,10,788,Dallas,58,Female,Married,No
+4263-3400-0000-0000,Logan,Thomas,$323.56 ,9,694,Arlington,37,Male,Married,No
+4254-8400-0000-0000,Alexander,Taylor,$346.04 ,10,779,Farmers Branch,53,Male,Married,Yes
+4937-2100-0000-0000,Aiden,White,$201.87 ,8,608,Addison,45,Female,Single,No
+4457-6300-0000-0000,Jackson,Wilson,$20.69 ,2,177,Arlington,50,Male,Single,Yes
+4134-6300-0000-0000,John,Rodriguez,$629.82 ,9,708,Rockwall,46,Female,Single,Yes
+4815-3600-0000-0000,Alexander,Lee,$339.28 ,9,698,Irving,34,Female,Single,Yes
+4154-4600-0000-0000,Ethan,Wilson,$457.83 ,10,755,Dallas,35,Female,Single,No
+4780-8100-0000-0000,John,Lewis,$206.16 ,9,717,Dallas,58,Female,Single,Yes
+8607-9093-3800-5290, Julian     , Peterson,$92.19 ,4,348,Plano,46,F,Single ,Yes
+4699-6247-2725-4900, Alexander , Crawford,$20.35 ,6,468,Farmer's Branch,39,F,Widowed,Yes
+4903-8100-0000-0000,John,Wilson,$417.69 ,7,537,Dallas,49,Male,Widowed,No
+4363-6300-0000-0000,John,Smith,$234.83 ,4,320,Dallas,48,Male,Widowed,Yes
+4455-4100-0000-0000,Charlotte,Gonzalez,$50.16 ,2,159,Irving,38,Male,Widowed,Yes
+4531-5500-0000-0000,Alexander,Hernandez,$263.42 ,10,772,Frisco,58,Male,Widowed,Yes
+4821-3400-0000-0000,Logan,Gonzalez,$27.95 ,2,179,Addison,56,Female,Widowed,No
+4286-5700-0000-0000,Harper,Lewis,$389.90 ,6,520,Farmers Branch,57,Female,Widowed,Yes
+4326-1700-0000-0000,Elijah,Harris,$585.69 ,11,818,Farmers Branch,41,Female,Widowed,No
+4142-8700-0000-0000,Aiden,Clark,$356.84 ,1,136,Plano,71,Male,Divorced,No
+4219-5100-0000-0000,Michael,White,$308.19 ,2,194,Addison,75,Male,Divorced,No
+4473-2600-0000-0000,Liam,Perez,$496.61 ,6,475,Irving,68,Male,Divorced,No
+4769-6200-0000-0000,Isabella,Taylor,$636.19 ,7,532,Plano,61,Female,Divorced,Yes
+4722-8500-0000-0000,Harper,Wilson,$517.05 ,2,235,Addison,71,Male,Divorced,Yes
+4157-1000-0000-0000,Jackson,Gonzalez,$629.14 ,3,299,Farmers Branch,76,Male,Divorced,No
+4835-2600-0000-0000,Ava,White,$484.23 ,4,341,Rockwall,61,Male,Divorced,No
+4772-9400-0000-0000,Harper,Taylor,$468.57 ,4,325,Farmers Branch,70,Female,Divorced,No
+4275-4700-0000-0000,Charlotte,Anderson,$573.78 ,3,298,Frisco,78,Male,Divorced,Yes
+4773-2500-0000-0000,Ethan,Rodriguez,$663.57 ,6,466,Rockwall,73,Female,Divorced,No
+4594-8300-0000-0000,Amelia,Williams,$398.07 ,4,285,Frisco,70,Male,Divorced,Yes
+4521-5900-0000-0000,Charlotte,Gonzalez,$672.88 ,5,374,Frisco,71,Male,Divorced,Yes
+4868-1500-0000-0000,Isabella,White,$311.41 ,3,215,Arlington,80,Female,Divorced,No
+4038-7600-0000-0000,Jackson,Harris,$450.30 ,4,326,Frisco,77,Male,Married,No
+4718-9400-0000-0000,Mia,Garcia,$698.10 ,5,378,Farmers Branch,66,Female,Married,No
+4781-5800-0000-0000,Liam,Gonzalez,$527.47 ,4,281,Rockwall,76,Male,Married,Yes
+4075-6200-0000-0000,Oliver,Harris,$634.29 ,4,324,Addison,62,Male,Married,Yes
+4582-2100-0000-0000,Benjamin,Jones,$671.33 ,6,433,McKinney,74,Female,Married,Yes
+4956-7000-0000-0000,Harper,Davis,$7.95 ,10,755,Plano,67,Male,Married,Yes
+4071-1000-0000-0000,Lucas,Anderson,$692.82 ,9,639,Arlington,76,Male,Married,Yes
+4427-9700-0000-0000,Amelia,Thomas,$505.48 ,2,147,Dallas,75,Male,Married,No
+4978-4700-0000-0000,Oliver,Harris,$550.94 ,4,347,Frisco,71,Male,Married,No
+4103-5200-0000-0000,Ethan,Davis,$697.76 ,5,411,Irving,61,Male,Married,No
+4126-2800-0000-0000,Benjamin,Wilson,$633.93 ,6,486,Rockwall,63,Female,Married,No
+4014-4300-0000-0000,Benjamin,Perez,$324.47 ,4,287,Irving,64,Male,Married,Yes
+4545-4800-0000-0000,Mia,Thomas,$674.24 ,3,216,McKinney,61,Male,Single,Yes
+4864-7500-0000-0000,Lucas,Smith,$651.92 ,5,405,Addison,72,Male,Single,Yes
+4486-6200-0000-0000,Oliver,Rodriguez,$141.72 ,1,137,Addison,62,Female,Single,Yes
+4027-4400-0000-0000,Liam,Taylor,$458.72 ,5,355,McKinney,74,Female,Single,No
+4083-1700-0000-0000,Alexander,Lee,$661.78 ,8,579,Irving,69,Female,Single,Yes
+4684-4000-0000-0000,John,Hernandez,$479.51 ,6,450,McKinney,63,Female,Single,Yes
+4677-9700-0000-0000,Logan,Smith,$135.43 ,1,119,McKinney,69,Female,Single,No
+4533-6400-0000-0000,Charlotte,Jones,$515.38 ,4,327,Frisco,76,Female,Single,No
+4057-7700-0000-0000,Sophia,Taylor,$364.88 ,2,146,Irving,78,Female,Single,No
+4206-4900-0000-0000,Benjamin,Wilson,$545.13 ,1,79,Plano,73,Female,Single,Yes
+4187-9600-0000-0000,Mia,Harris,$520.28 ,2,191,McKinney,64,Female,Single,No
+4103-8200-0000-0000,Lucas,Lewis,$670.95 ,1,168,Farmers Branch,80,Male,Single,Yes
+4320-7000-0000-0000,Oliver,Martinez,$632.50 ,3,219,Addison,62,Male,Single,Yes
+4744-7100-0000-0000,Jackson,Davis,$686.65 ,1,122,Plano,62,Female,Single,No
+4551-4900-0000-0000,Benjamin,Smith,$609.96 ,5,366,Arlington,63,Female,Single,Yes
+4371-9100-0000-0000,Lucas,Smith,$634.54 ,3,298,Frisco,64,Male,Single,Yes
+4296-3900-0000-0000,Aiden,Anderson,$442.13 ,4,304,Dallas,76,Male,Single,Yes
+4629-4100-0000-0000,Logan,Martinez,$648.55 ,4,281,Frisco,72,Female,Single,Yes
+4291-7300-0000-0000,Elijah,Martinez,$612.42 ,6,511,Irving,71,Female,Single,Yes
+4741-9500-0000-0000,Charlotte,White,$681.64 ,1,122,McKinney,64,Male,Single,Yes
+4186-8300-0000-0000,Isabella,Garcia,$637.88 ,8,609,Addison,71,Female,Single,No
+4553-0300-0000-0000,Ethan,Lee,$582.55 ,4,321,Irving,65,Female,Single,No
+4903-0000-0000-0000,Aiden,Lee,$533.51 ,6,498,Arlington,75,Female,Single,Yes
+4421-2696-6908-7110, Joseph     , Wright,$459.68 ,2,156,Plano,62,f,Single ,Yes
+4396-1600-0000-0000,Aiden,Hernandez,$527.18 ,3,288,McKinney,80,Female,Widowed,Yes
+4087-7400-0000-0000,Jackson,Perez,$442.09 ,3,232,Addison,64,Male,Widowed,No
+4345-5800-0000-0000,Mia,Hernandez,$607.55 ,6,487,Rockwall,62,Female,Widowed,No
+4834-4800-0000-0000,Benjamin,Jones,$524.56 ,5,387,Farmers Branch,66,Male,Widowed,Yes
+4522-8200-0000-0000,Alexander,Lee,$679.80 ,5,389,Frisco,71,Female,Widowed,Yes
+4725-7600-0000-0000,Alexander,Gonzalez,$253.90 ,2,188,Irving,78,Female,Widowed,No
+4322-2200-0000-0000,Charlotte,Taylor,$461.36 ,6,458,Dallas,80,Male,Widowed,Yes
+4526-0700-0000-0000,Amelia,Harris,$480.40 ,5,385,Addison,66,Male,Widowed,Yes
+4831-7200-0000-0000,Charlotte,Clark,$677.37 ,4,354,Farmers Branch,63,Male,Widowed,No
+4503-2900-0000-0000,Amelia,Taylor,$647.08 ,8,578,Plano,64,Female,Widowed,Yes
+4114-2500-0000-0000,Sophia,Davis,$574.75 ,1,111,Frisco,74,Female,Widowed,No
+4702-7100-0000-0000,Charlotte,Smith,$341.19 ,3,300,Frisco,64,Female,Widowed,Yes
+4554-2800-0000-0000,Michael,Rodriguez,$397.91 ,4,304,Arlington,62,Male,Widowed,No
+4489-3500-0000-0000,Mia,Harris,$636.39 ,3,298,Farmers Branch,69,Female,Widowed,No
+4182-5800-0000-0000,Ethan,Garcia,$555.26 ,3,238,Dallas,99,Male,Divorced,No
+4368-1600-0000-0000,Jackson,Anderson,$527.45 ,4,300,Farmers Branch,100,Male,Divorced,No
+4668-3100-0000-0000,Alexander,Lee,$548.25 ,4,281,Arlington,100,Male,Divorced,No
+4451-5900-0000-0000,Elijah,Harris,$225.52 ,2,208,Addison,85,Female,Divorced,Yes
+4412-6300-0000-0000,Ava,Garcia,$657.67 ,1,139,Frisco,95,Male,Divorced,No
+4887-7600-0000-0000,Olivia,Taylor,$431.53 ,1,72,Farmers Branch,85,Female,Divorced,Yes
+4552-5100-0000-0000,Michael,Wilson,$103.69 ,1,82,Addison,100,Male,Divorced,Yes
+4960-0400-0000-0000,Sophia,Davis,$275.66 ,1,142,Frisco,101,Male,Divorced,No
+4341-5600-0000-0000,Mia,Lee,$562.41 ,6,474,Addison,86,Female,Divorced,Yes
+4754-0100-0000-0000,Alexander,Hernandez,$406.06 ,3,221,Plano,96,Male,Divorced,No
+4476-2000-0000-0000,Olivia,Anderson,$211.80 ,1,100,Dallas,83,Male,Divorced,No
+4470-6500-0000-0000,Ethan,Hernandez,$523.48 ,5,431,McKinney,94,Female,Divorced,No
+4121-3800-0000-0000,Jackson,Taylor,$591.01 ,8,591,Farmers Branch,83,Male,Divorced,Yes
+4868-5200-0000-0000,Olivia,White,$647.71 ,1,80,Arlington,96,Male,Divorced,No
+4246-7100-0000-0000,Oliver,Hernandez,$313.49 ,1,88,Arlington,84,Male,Divorced,Yes
+4171-2400-0000-0000,Olivia,Martinez,$509.11 ,4,374,McKinney,89,Female,Divorced,No
+4506-1000-0000-0000,Lucas,Taylor,$365.10 ,2,207,Dallas,98,Female,Married,No
+4888-5200-0000-0000,Ethan,Taylor,$350.57 ,3,274,Arlington,88,Male,Married,No
+4986-8700-0000-0000,Alexander,White,$603.26 ,6,437,Frisco,101,Female,Married,Yes
+4335-7800-0000-0000,Alexander,Davis,$297.09 ,1,138,McKinney,101,Female,Married,No
+4674-4600-0000-0000,Sophia,Harris,$526.86 ,4,313,Irving,101,Male,Married,Yes
+4086-5300-0000-0000,Ethan,Williams,$315.58 ,2,181,Dallas,86,Female,Married,Yes
+4475-7700-0000-0000,Oliver,Jones,$515.31 ,2,223,Irving,94,Female,Married,Yes
+4782-6500-0000-0000,Olivia,Jones,$696.14 ,7,513,Frisco,81,Female,Married,No
+4767-1800-0000-0000,Aiden,Martinez,$409.75 ,3,227,Rockwall,100,Male,Married,Yes
+4296-2700-0000-0000,John,Anderson,$236.34 ,2,227,Rockwall,87,Male,Married,Yes
+4129-1800-0000-0000,Olivia,Lee,$331.71 ,3,310,Frisco,93,Female,Married,No
+4054-5300-0000-0000,Alexander,Harris,$179.98 ,1,113,McKinney,90,Female,Married,No
+4126-5600-0000-0000,Harper,Perez,$427.03 ,1,147,Frisco,86,Male,Married,No
+4177-2000-0000-0000,Lucas,Jones,$448.16 ,3,268,Rockwall,94,Male,Married,No
+4949-1700-0000-0000,Isabella,Lee,$643.68 ,4,311,Arlington,91,Female,Married,No
+4233-5800-0000-0000,Amelia,Thomas,$638.65 ,4,323,Farmers Branch,100,Male,Married,Yes
+4162-3800-0000-0000,Isabella,Lewis,$433.17 ,4,357,Frisco,97,Female,Married,Yes
+4260-3600-0000-0000,Logan,Clark,$680.40 ,4,369,Farmers Branch,88,Female,Married,Yes
+4799-1300-0000-0000,Alexander,Martinez,$534.72 ,3,218,Frisco,88,Male,Married,Yes
+4605-9200-0000-0000,Lucas,Hernandez,$554.81 ,4,315,Irving,87,Female,Married,Yes
+4533-2100-0000-0000,Logan,Williams,$647.97 ,4,331,Irving,100,Female,Married,No
+4693-7300-0000-0000,Aiden,Lee,$667.78 ,4,307,Irving,87,Male,Married,Yes
+4915-2100-0000-0000,Liam,Lewis,$453.67 ,3,217,Frisco,93,Male,Married,Yes
+4452-5500-0000-0000,Ava,Garcia,$478.30 ,3,227,Frisco,82,Male,Married,Yes
+4085-6400-0000-0000,Charlotte,Thomas,$420.44 ,3,249,Dallas,82,Female,Married,Yes
+4151-1400-0000-0000,Amelia,Gonzalez,$410.19 ,1,103,McKinney,82,Male,Single,Yes
+4002-6900-0000-0000,Aiden,Davis,$492.85 ,5,420,Rockwall,101,Female,Single,No
+4398-6300-0000-0000,Charlotte,Martinez,$672.08 ,3,304,Irving,89,Female,Single,Yes
+4392-3300-0000-0000,Jackson,Jones,$2.60 ,9,682,McKinney,98,Male,Single,Yes
+4938-6600-0000-0000,Elijah,Rodriguez,$633.72 ,2,219,Addison,85,Male,Single,Yes
+4302-9700-0000-0000,Lucas,Perez,$676.99 ,8,621,Plano,83,Male,Single,Yes
+4147-9100-0000-0000,Amelia,Gonzalez,$379.29 ,4,368,Dallas,96,Female,Single,Yes
+4382-6400-0000-0000,Ethan,Rodriguez,$437.60 ,4,332,Dallas,84,Female,Single,No
+4739-9600-0000-0000,Benjamin,Taylor,$235.82 ,2,187,McKinney,91,Female,Single,No
+4491-3300-0000-0000,Sophia,Harris,$514.51 ,3,214,Addison,97,Male,Single,Yes
+4282-8300-0000-0000,Charlotte,Davis,$522.81 ,3,245,Irving,86,Male,Single,Yes
+4207-4100-0000-0000,Benjamin,Martinez,$555.29 ,2,203,McKinney,84,Male,Single,Yes
+4254-9200-0000-0000,Oliver,Clark,$289.56 ,2,181,Rockwall,94,Female,Single,Yes
+4189-0600-0000-0000,Amelia,Taylor,$519.20 ,4,317,Arlington,85,Male,Single,Yes
+4723-0100-0000-0000,Olivia,Garcia,$543.93 ,7,513,Rockwall,96,Female,Single,Yes
+4288-1800-0000-0000,Charlotte,Garcia,$531.96 ,3,296,Arlington,91,Male,Single,Yes
+4232-2200-0000-0000,Harper,Thomas,$301.57 ,2,144,Dallas,88,Female,Single,No
+4948-7300-0000-0000,Sophia,Wilson,$543.97 ,5,422,Rockwall,88,Male,Widowed,No
+4190-2200-0000-0000,Liam,Anderson,$296.58 ,2,143,Farmers Branch,89,Female,Widowed,Yes
+4465-5200-0000-0000,Isabella,Rodriguez,$507.42 ,6,470,Frisco,95,Female,Widowed,Yes
+4786-8800-0000-0000,Aiden,Perez,$603.25 ,1,100,Arlington,94,Male,Widowed,No
+4651-9300-0000-0000,Michael,Rodriguez,$491.06 ,3,279,Irving,92,Female,Widowed,No
+4893-7900-0000-0000,Liam,Thomas,$651.38 ,2,198,Plano,87,Male,Widowed,Yes
+4467-5900-0000-0000,Jackson,Smith,$622.03 ,6,425,Frisco,94,Female,Widowed,Yes
+4588-0900-0000-0000,Mia,Williams,$689.09 ,2,209,Irving,94,Female,Widowed,Yes
+4498-3600-0000-0000,Elijah,Harris,$441.04 ,3,220,Arlington,87,Female,Widowed,Yes
+4454-6100-0000-0000,Sophia,Davis,$457.06 ,6,436,Dallas,92,Male,Widowed,Yes
+4235-2500-0000-0000,Amelia,White,$562.20 ,5,399,Rockwall,87,Male,Widowed,No
+4180-6100-0000-0000,Isabella,Rodriguez,$651.94 ,4,301,Arlington,88,Female,Widowed,Yes
+4789-6600-0000-0000,Amelia,Lewis,$165.95 ,1,144,Irving,97,Female,Widowed,No
+4252-4200-0000-0000,Logan,Wilson,$696.39 ,4,347,Frisco,19,Female,Divorced,No
+4365-6300-0000-0000,Michael,Hernandez,$569.57 ,3,253,Plano,27,Male,Divorced,No
+4687-2200-0000-0000,Ava,Clark,$568.85 ,2,166,Arlington,28,Male,Divorced,No
+4916-2300-0000-0000,Jackson,Gonzalez,$369.78 ,4,340,Frisco,30,Female,Divorced,Yes
+4530-3500-0000-0000,Oliver,Thomas,$111.77 ,1,104,McKinney,27,Female,Divorced,No
+4124-8300-0000-0000,Benjamin,Smith,$610.93 ,2,204,Frisco,29,Male,Divorced,No
+4308-3800-0000-0000,Charlotte,White,$545.43 ,4,363,Rockwall,24,Female,Divorced,Yes
+4198-4500-0000-0000,Lucas,White,$678.65 ,3,289,Addison,18,Male,Divorced,No
+4671-0200-0000-0000,Lucas,Harris,$670.43 ,3,236,Frisco,25,Male,Divorced,No
+4921-6800-0000-0000,John,Clark,$411.71 ,3,302,Frisco,26,Female,Divorced,No
+4537-4500-0000-0000,Ava,Martinez,$186.89 ,2,185,Irving,20,Male,Divorced,No
+4450-3900-0000-0000,Alexander,Garcia,$522.38 ,2,161,Arlington,22,Male,Divorced,Yes
+4096-3900-0000-0000,Isabella,Lewis,$528.95 ,2,240,Rockwall,28,Female,Divorced,No
+4352-8900-0000-0000,Charlotte,Davis,$414.43 ,5,377,Frisco,20,Male,Divorced,Yes
+4694-8300-0000-0000,Olivia,Thomas,$509.28 ,5,420,McKinney,20,Male,Divorced,No
+4792-9800-0000-0000,Mia,Garcia,$302.66 ,1,95,Arlington,23,Male,Divorced,Yes
+4991-8500-0000-0000,Amelia,Lee,$680.00 ,6,483,Rockwall,26,Female,Divorced,Yes
+4665-4900-0000-0000,Harper,Williams,$452.46 ,5,434,Farmers Branch,23,Female,Married,No
+4595-3800-0000-0000,Lucas,Perez,$242.75 ,2,179,McKinney,22,Male,Married,No
+4151-0100-0000-0000,Amelia,Thomas,$488.85 ,2,215,McKinney,23,Male,Married,Yes
+4663-9400-0000-0000,Mia,Hernandez,$617.74 ,2,216,McKinney,27,Female,Married,Yes
+4820-1100-0000-0000,Michael,Rodriguez,$626.49 ,4,377,Farmers Branch,22,Male,Married,Yes
+4826-1200-0000-0000,Amelia,Rodriguez,$439.31 ,5,369,Plano,20,Female,Married,No
+4119-8500-0000-0000,Logan,Davis,$670.59 ,9,652,Dallas,20,Female,Married,No
+4118-2300-0000-0000,Lucas,Jones,$302.94 ,3,210,McKinney,18,Female,Married,No
+4804-7500-0000-0000,Harper,Taylor,$385.28 ,2,147,Arlington,19,Female,Married,Yes
+4739-9800-0000-0000,Jackson,Garcia,$589.88 ,8,589,Dallas,23,Male,Married,Yes
+4839-7400-0000-0000,Ethan,Wilson,$266.79 ,3,243,Farmers Branch,18,Female,Married,No
+4239-3500-0000-0000,John,Smith,$362.57 ,2,190,Plano,26,Female,Married,No
+4979-2500-0000-0000,Oliver,White,$610.17 ,2,176,Frisco,18,Male,Married,Yes
+4059-4000-0000-0000,Aiden,Lee,$633.52 ,6,478,Farmers Branch,29,Male,Married,No
+4600-9900-0000-0000,Lucas,Martinez,$661.89 ,4,348,McKinney,26,Female,Married,Yes
+4989-7100-0000-0000,John,Garcia,$688.23 ,6,517,Irving,19,Male,Married,Yes
+4067-1500-0000-0000,Aiden,Rodriguez,$467.80 ,4,334,Irving,30,Male,Married,Yes
+4904-5100-0000-0000,Isabella,Anderson,$520.25 ,2,221,Frisco,26,Male,Married,No
+4373-4300-0000-0000,John,Anderson,$425.85 ,1,113,Addison,21,Male,Single,Yes
+4156-7200-0000-0000,Sophia,Gonzalez,$618.81 ,4,354,Farmers Branch,25,Female,Single,Yes
+4768-8000-0000-0000,Lucas,Smith,$655.14 ,6,445,Irving,23,Female,Single,Yes
+4105-8800-0000-0000,Harper,Garcia,$676.90 ,8,625,Farmers Branch,19,Male,Single,Yes
+4667-0900-0000-0000,Jackson,Martinez,$579.12 ,3,250,Rockwall,22,Female,Single,No
+4269-3400-0000-0000,Benjamin,Jones,$685.44 ,8,592,Plano,26,Male,Single,No
+4270-1800-0000-0000,Olivia,Smith,$364.06 ,2,148,Irving,29,Male,Single,No
+4921-7900-0000-0000,Ethan,Clark,$698.68 ,7,554,Rockwall,23,Male,Single,Yes
+4632-8700-0000-0000,Elijah,Clark,$259.48 ,1,76,Dallas,23,Female,Single,Yes
+4077-4400-0000-0000,Elijah,Harris,$680.85 ,3,297,Frisco,27,Female,Single,No
+4073-4200-0000-0000,Mia,Lewis,$550.42 ,1,108,Frisco,20,Female,Single,Yes
+7115-0499-8405-4710, Faith      , Russell,"$15,000.00 ",4,347,Addison,27,M,Single ,Yes
+2303-5680-0872-1010, Ava       , Freeman,$363.21 ,2,232,Dallas,24,M,Widowed,Yes
+4919-6700-0000-0000,Benjamin,Hernandez,$354.65 ,4,303,Irving,25,Male,Widowed,Yes
+4091-1400-0000-0000,Liam,Martinez,$300.55 ,1,161,Plano,29,Female,Widowed,No
+4703-8500-0000-0000,Alexander,Taylor,$528.10 ,2,218,Farmers Branch,27,Female,Widowed,No
+4589-3400-0000-0000,Jackson,Wilson,$378.19 ,4,293,Frisco,24,Female,Widowed,Yes
+4925-8000-0000-0000,Olivia,Smith,$432.89 ,1,158,Addison,18,Female,Widowed,Yes
+4271-9900-0000-0000,Harper,Williams,$565.15 ,4,374,McKinney,30,Male,Widowed,No
+4237-4800-0000-0000,Aiden,Smith,$399.92 ,4,292,Plano,30,Male,Widowed,Yes
+8554-9700-1451-3660, Michael    , Lewis,$765.55 ,10,705,Addison,43,M,Divorced,No
+3246-8649-3181-3820, Harper     , Sullivan,$398.71 ,3,246,Arlington,40,f,Divorced,Yes
+4115-8700-0000-0000,Ava,Taylor,$630.07 ,6,483,Irving,41,Male,Divorced,No
+4915-8600-0000-0000,Michael,Davis,$218.36 ,2,193,Farmers Branch,57,Female,Divorced,No
+4066-8700-0000-0000,Aiden,Wilson,$545.74 ,5,401,Rockwall,49,Male,Divorced,Yes
+4972-9100-0000-0000,Benjamin,Perez,$497.64 ,2,144,Farmers Branch,44,Male,Divorced,No
+4065-8600-0000-0000,Isabella,Gonzalez,$550.90 ,5,371,Farmers Branch,34,Male,Divorced,No
+4076-5800-0000-0000,Michael,Lee,$665.55 ,2,167,Arlington,43,Female,Divorced,Yes
+4344-3700-0000-0000,Mia,Williams,$650.06 ,3,251,Rockwall,51,Female,Divorced,No
+4592-6600-0000-0000,Oliver,Lee,$500.84 ,4,297,McKinney,38,Male,Divorced,No
+4799-4900-0000-0000,Jackson,Lee,$565.01 ,5,364,Rockwall,51,Female,Divorced,Yes
+4586-6800-0000-0000,Charlotte,Williams,$378.61 ,1,118,McKinney,32,Male,Divorced,No
+4243-0900-0000-0000,Lucas,Rodriguez,$449.07 ,6,424,McKinney,31,Female,Divorced,Yes
+4125-3300-0000-0000,Jackson,Wilson,$552.94 ,5,446,Arlington,49,Male,Divorced,Yes
+4905-9900-0000-0000,Harper,Thomas,$314.19 ,2,190,Dallas,46,Male,Divorced,Yes
+4078-8700-0000-0000,John,Harris,$515.59 ,5,432,Farmers Branch,38,Female,Divorced,No
+4544-5900-0000-0000,Lucas,Hernandez,$504.97 ,3,254,McKinney,34,Female,Divorced,No
+4241-3800-0000-0000,Oliver,Perez,$421.99 ,4,285,Addison,32,Female,Divorced,No
+4752-5300-0000-0000,Michael,Thomas,$337.11 ,3,232,Farmers Branch,47,Male,Divorced,Yes
+4746-9800-0000-0000,Amelia,Williams,$592.98 ,5,442,Irving,58,Male,Divorced,Yes
+4892-0900-0000-0000,Michael,Harris,$584.03 ,4,332,Arlington,51,Female,Divorced,Yes
+4580-6900-0000-0000,Olivia,Thomas,$401.05 ,2,188,Farmers Branch,47,Male,Divorced,No
+4627-1700-0000-0000,Lucas,Rodriguez,$648.61 ,8,593,Dallas,59,Male,Divorced,Yes
+4640-1500-0000-0000,Jackson,Perez,$670.16 ,3,300,Irving,44,Female,Divorced,No
+4110-5000-0000-0000,Elijah,Smith,$626.66 ,1,124,Frisco,57,Male,Divorced,Yes
+4056-6900-0000-0000,Amelia,Anderson,$621.63 ,2,213,Frisco,39,Male,Divorced,No
+4330-8000-0000-0000,Jackson,Wilson,$304.08 ,3,244,Plano,37,Male,Divorced,No
+4249-9200-0000-0000,Oliver,Jones,$535.48 ,7,519,Dallas,36,Female,Divorced,No
+4880-2700-0000-0000,John,Clark,$499.61 ,4,299,Plano,39,Female,Divorced,No
+4081-3200-0000-0000,Elijah,Lewis,$425.85 ,2,205,Rockwall,47,Female,Divorced,Yes
+4586-3500-0000-0000,Isabella,Martinez,$281.22 ,3,272,Arlington,46,Male,Divorced,No
+4836-7200-0000-0000,Lucas,Garcia,$397.37 ,2,148,Addison,52,Female,Divorced,Yes
+6568-3993-1519-0660, Matthew   , Hicks,$593.69 ,3,219,Addison,38,F,Married,Yes
+2905-8513-9293-0260, David     , Willis,$215.46 ,1,166,Arlington,32,F,Married,No
+4376-6500-0000-0000,Olivia,Williams,$481.03 ,3,241,McKinney,40,Male,Married,No
+4865-3700-0000-0000,Michael,Jones,$587.63 ,5,429,Irving,38,Male,Married,No
+4861-4900-0000-0000,Charlotte,Clark,$596.70 ,6,514,Dallas,45,Female,Married,No
+4865-5500-0000-0000,Isabella,Hernandez,$269.09 ,2,219,Arlington,43,Female,Married,Yes
+4470-9000-0000-0000,Alexander,Lee,$472.60 ,3,255,Frisco,32,Female,Married,No
+4372-6500-0000-0000,Aiden,Lee,$396.74 ,2,206,McKinney,44,Female,Married,Yes
+4759-6700-0000-0000,Olivia,Hernandez,$591.82 ,2,207,Dallas,57,Female,Married,No
+4630-6300-0000-0000,Elijah,Martinez,$690.36 ,7,507,Dallas,49,Male,Married,No
+4236-9600-0000-0000,Aiden,Wilson,$248.89 ,3,241,Rockwall,37,Female,Married,No
+4794-4700-0000-0000,John,Perez,$512.86 ,5,382,Plano,37,Male,Married,Yes
+4625-1100-0000-0000,Jackson,Wilson,$663.17 ,1,154,Arlington,43,Male,Married,No
+4775-0200-0000-0000,Aiden,Lewis,$391.20 ,4,364,Arlington,34,Male,Married,Yes
+4102-5200-0000-0000,Liam,Lewis,$379.31 ,5,353,Farmers Branch,31,Female,Married,Yes
+4321-5200-0000-0000,Charlotte,Wilson,$230.23 ,3,212,Arlington,49,Female,Married,No
+4445-5900-0000-0000,Liam,White,$545.64 ,3,216,Dallas,44,Male,Married,No
+4864-7100-0000-0000,John,Lee,$642.70 ,3,260,Farmers Branch,49,Female,Married,Yes
+4660-7300-0000-0000,Ava,Hernandez,$309.09 ,1,122,Dallas,43,Male,Married,Yes
+4586-8400-0000-0000,Charlotte,Garcia,$644.07 ,3,245,Addison,34,Male,Married,Yes
+4034-5400-0000-0000,Harper,Lee,$208.88 ,2,198,Arlington,47,Female,Married,Yes
+4447-8100-0000-0000,Lucas,Smith,$330.85 ,2,232,Frisco,31,Female,Married,No
+4848-5300-0000-0000,Sophia,Rodriguez,$410.25 ,3,304,Plano,40,Male,Married,Yes
+4852-5400-0000-0000,Aiden,Rodriguez,$611.31 ,5,430,Plano,60,Female,Married,Yes
+4740-4600-0000-0000,Harper,Martinez,$381.18 ,2,239,McKinney,59,Male,Married,Yes
+4918-5800-0000-0000,Mia,Hernandez,$545.19 ,3,261,Addison,36,Male,Married,No
+4614-7600-0000-0000,Benjamin,Taylor,$698.97 ,9,689,Irving,51,Male,Married,Yes
+4872-7300-0000-0000,John,Hernandez,$368.45 ,4,286,Arlington,34,Male,Married,No
+4545-6800-0000-0000,Logan,Martinez,$433.21 ,2,220,Farmers Branch,52,Male,Married,Yes
+4172-1600-0000-0000,John,Martinez,$535.59 ,1,108,Addison,55,Male,Married,No
+4647-5800-0000-0000,Isabella,Lewis,$471.89 ,2,143,McKinney,41,Male,Married,Yes
+4707-6200-0000-0000,Charlotte,Garcia,$254.98 ,3,244,Rockwall,52,Female,Single,No
+4289-6200-0000-0000,Alexander,Lewis,$386.38 ,4,361,Dallas,42,Female,Single,Yes
+4536-4800-0000-0000,Michael,Rodriguez,$3.58 ,4,285,Dallas,31,Male,Single,Yes
+4071-1600-0000-0000,Aiden,Gonzalez,$464.05 ,4,325,Irving,60,Male,Single,Yes
+4434-2600-0000-0000,Elijah,Garcia,$493.27 ,3,234,Irving,57,Male,Single,No
+4498-3200-0000-0000,Jackson,Perez,$594.87 ,6,480,Frisco,40,Female,Single,No
+4198-7400-0000-0000,Mia,Williams,$463.51 ,3,243,Farmers Branch,44,Female,Single,No
+4035-6000-0000-0000,Olivia,Taylor,$574.73 ,7,554,Dallas,52,Male,Single,Yes
+4481-4000-0000-0000,Ethan,Harris,$334.74 ,4,290,Dallas,55,Male,Single,Yes
+4816-4400-0000-0000,Elijah,Perez,$512.66 ,1,71,Rockwall,36,Male,Single,No
+4985-4100-0000-0000,Sophia,Gonzalez,$698.42 ,6,473,McKinney,36,Male,Single,Yes
+4390-6500-0000-0000,Benjamin,Taylor,$685.09 ,1,136,McKinney,38,Female,Single,No
+4387-7300-0000-0000,Logan,Lee,$670.84 ,1,133,Arlington,54,Male,Single,No
+4300-5100-0000-0000,Lucas,Wilson,$512.22 ,6,429,Addison,53,Male,Single,No
+4753-8500-0000-0000,Ethan,Garcia,$280.56 ,3,239,Farmers Branch,59,Female,Single,Yes
+4731-6600-0000-0000,Amelia,Wilson,$598.94 ,3,229,Dallas,32,Female,Single,Yes
+4851-4400-0000-0000,Benjamin,White,$438.34 ,2,189,Irving,43,Male,Single,No
+4839-1000-0000-0000,Olivia,Davis,$506.97 ,3,219,Rockwall,54,Male,Single,No
+4336-1100-0000-0000,Alexander,Williams,$649.53 ,2,223,McKinney,58,Male,Single,Yes
+4170-1200-0000-0000,Isabella,Lewis,$590.50 ,1,77,Arlington,36,Male,Single,Yes
+4452-0400-0000-0000,Ava,Lee,$480.82 ,5,383,McKinney,60,Male,Single,Yes
+4708-5700-0000-0000,Lucas,Lee,$159.85 ,1,75,Farmers Branch,43,Male,Single,No
+4751-4900-0000-0000,Mia,White,$567.31 ,5,405,Rockwall,33,Male,Single,Yes
+4213-8000-0000-0000,Sophia,Hernandez,$579.01 ,1,159,Rockwall,41,Female,Single,No
+4157-7300-0000-0000,Sophia,Clark,$660.51 ,6,518,Arlington,36,Female,Single,No
+4399-1000-0000-0000,John,Thomas,$564.09 ,6,462,McKinney,54,Male,Single,Yes
+4121-9700-0000-0000,Olivia,Harris,$124.39 ,1,70,Dallas,57,Female,Single,No
+4461-2400-0000-0000,Benjamin,Lewis,$550.70 ,4,336,McKinney,48,Male,Single,Yes
+4969-0600-0000-0000,Olivia,Anderson,$360.09 ,1,95,Dallas,58,Female,Single,No
+4986-0700-0000-0000,Olivia,Anderson,$5.92 ,10,724,Irving,32,Female,Single,Yes
+3148-0760-1525-1580,  Liam       , Smith,$377.75 ,3,304,Dallas,37,M,Single ,Yes
+3559-2061-1891-5870, Amelia     , Perez,$2.70 ,6,474,Dallas,33,Female,Single ,No
+2433-0256-5939-3520, Samuel     , Hill,$2.01 ,6,516,Rockwall,44,f,Single ,No
+9523-6529-3794-5380, Nicholas   , Stewart,$631.16 ,6,438,Plano,53,f,Single ,No
+5296-8805-5321-0040, Victoria   , Ward,$720.75 ,7,534,McKinney,45,Male,Single ,No
+8309-5201-7721-5040, Zoe        , Powell,$206.27 ,2,173,Plano,44,Male,Single ,No
+6397-5198-5820-6790, Elijah     , Hughes,$6.74 ,8,609,Arlington,37,F,Single ,Yes
+5436-3586-3420-3340, Alexa      , Washington,$313.87 ,3,278,Dallas,39,F,Widowed,No
+9346-6120-2105-1470, Harper    , Stone,$2.71 ,7,546,Dallas,54,Female,Widowed,Yes
+6816-7730-9819-7550, Michael   , Greene,$776.09 ,2,219,Dallas,40,F,Widowed,No
+4674-2500-0000-0000,Sophia,Harris,$489.26 ,5,387,Addison,59,Male,Widowed,Yes
+4217-9500-0000-0000,Aiden,Williams,$438.02 ,1,104,Dallas,41,Female,Widowed,Yes
+4788-1900-0000-0000,Alexander,Harris,$447.17 ,1,116,Irving,32,Male,Widowed,No
+4288-3200-0000-0000,Sophia,White,$657.05 ,4,320,Frisco,55,Female,Widowed,No
+4823-8400-0000-0000,Oliver,Taylor,$321.71 ,1,142,Farmers Branch,56,Female,Widowed,Yes
+4056-9900-0000-0000,John,Perez,$648.88 ,4,336,Addison,31,Female,Widowed,No
+4587-9100-0000-0000,Benjamin,Lewis,$660.35 ,2,149,Addison,42,Male,Widowed,No
+4194-7800-0000-0000,Harper,Thomas,$397.74 ,4,351,McKinney,55,Female,Widowed,No
+4670-6700-0000-0000,Ethan,Gonzalez,$201.89 ,2,157,Irving,33,Male,Widowed,Yes
+4937-2500-0000-0000,Charlotte,Jones,$628.09 ,7,569,McKinney,43,Male,Widowed,Yes
+4964-4400-0000-0000,Ava,Taylor,$190.33 ,2,158,Frisco,31,Female,Widowed,No
+4338-7200-0000-0000,John,Perez,$638.74 ,3,290,Frisco,31,Male,Widowed,No
+4259-2300-0000-0000,Mia,Lee,$575.24 ,2,204,Frisco,40,Female,Widowed,No
+4869-2600-0000-0000,Isabella,Gonzalez,$437.52 ,4,306,Farmers Branch,58,Male,Widowed,Yes
+4786-7000-0000-0000,Sophia,Anderson,$364.67 ,3,307,Arlington,43,Male,Widowed,Yes
+4565-7400-0000-0000,Benjamin,Lewis,$600.12 ,2,192,Frisco,59,Male,Widowed,No
+4240-0400-0000-0000,Oliver,Lee,$387.71 ,4,284,Rockwall,60,Male,Widowed,No
+4745-5400-0000-0000,Michael,Davis,$312.59 ,4,312,Plano,48,Female,Widowed,Yes
+4139-8800-0000-0000,Logan,Martinez,$523.27 ,4,334,Dallas,33,Female,Widowed,No
+4223-2400-0000-0000,Isabella,Clark,$533.20 ,6,464,Rockwall,38,Female,Widowed,Yes
+4034-6000-0000-0000,Elijah,Williams,$517.20 ,3,231,McKinney,51,Male,Widowed,No
+4450-6700-0000-0000,Logan,Lewis,$358.50 ,3,253,Irving,32,Male,Widowed,No
+4001-6000-0000-0000,Mia,Lewis,$350.39 ,4,288,Arlington,55,Male,Widowed,No
+4408-1500-0000-0000,Olivia,Smith,$520.98 ,2,219,Plano,44,Female,Widowed,No
+4916-5700-0000-0000,Benjamin,Garcia,$376.37 ,4,350,Plano,65,Female,Divorced,No
+4101-9200-0000-0000,Jackson,Clark,$574.40 ,8,570,Rockwall,73,Male,Divorced,No
+4601-7800-0000-0000,Harper,Garcia,$677.35 ,5,391,Plano,66,Female,Divorced,Yes
+4647-8700-0000-0000,Olivia,Rodriguez,$501.65 ,5,449,Plano,72,Male,Divorced,Yes
+4045-8000-0000-0000,Benjamin,Martinez,$300.51 ,2,173,Arlington,64,Female,Divorced,Yes
+4240-0500-0000-0000,Olivia,Smith,$393.86 ,4,344,McKinney,80,Male,Divorced,Yes
+4287-1100-0000-0000,John,Rodriguez,$493.17 ,5,383,Arlington,63,Male,Divorced,Yes
+4723-7300-0000-0000,Amelia,Lee,$657.44 ,1,109,Farmers Branch,62,Female,Divorced,No
+4962-5000-0000-0000,Liam,Gonzalez,$619.39 ,7,498,Plano,79,Female,Divorced,No
+4291-6000-0000-0000,Charlotte,Harris,$498.99 ,2,218,Frisco,77,Male,Divorced,Yes
+4363-0600-0000-0000,Mia,Garcia,$367.10 ,2,172,Dallas,76,Male,Divorced,Yes
+4667-4200-0000-0000,Logan,Jones,$365.61 ,3,271,Plano,64,Male,Divorced,Yes
+4477-8900-0000-0000,Olivia,Harris,$554.56 ,3,272,McKinney,78,Male,Divorced,No
+4166-4100-0000-0000,Ethan,White,$485.57 ,5,407,Farmers Branch,77,Male,Divorced,Yes
+4535-0000-0000-0000,Liam,Garcia,$517.24 ,2,229,McKinney,66,Male,Divorced,No
+4242-4000-0000-0000,Elijah,Martinez,$462.53 ,3,212,McKinney,75,Male,Married,No
+4405-5200-0000-0000,Aiden,White,$585.54 ,4,343,Plano,66,Female,Married,No
+4485-1400-0000-0000,Jackson,Williams,$540.98 ,5,355,Frisco,69,Female,Married,No
+4476-6700-0000-0000,Mia,Clark,$652.99 ,3,283,Farmers Branch,71,Male,Married,No
+4651-4700-0000-0000,Amelia,Garcia,$642.63 ,5,405,Plano,77,Male,Married,No
+4439-0800-0000-0000,Alexander,Smith,$262.03 ,1,152,McKinney,77,Female,Married,Yes
+4232-6500-0000-0000,Isabella,Harris,$674.35 ,6,507,Plano,63,Female,Married,No
+4180-4600-0000-0000,Ethan,Clark,$483.91 ,3,276,Plano,62,Female,Married,Yes
+4705-8500-0000-0000,Michael,Thomas,$695.45 ,4,373,Frisco,69,Male,Married,Yes
+4137-0600-0000-0000,Jackson,Lewis,$559.93 ,7,510,Arlington,79,Female,Married,No
+4242-4300-0000-0000,Charlotte,White,$689.17 ,3,259,Addison,69,Male,Married,No
+4835-6100-0000-0000,Ethan,Garcia,$652.18 ,3,216,Addison,77,Female,Married,No
+4098-2000-0000-0000,Mia,Rodriguez,$550.38 ,1,156,Frisco,78,Female,Married,Yes
+4420-2600-0000-0000,Harper,Rodriguez,$518.01 ,3,248,Plano,78,Female,Single,Yes
+4762-3400-0000-0000,Benjamin,White,$306.29 ,2,224,McKinney,80,Female,Single,Yes
+4833-1200-0000-0000,Michael,Lee,$460.15 ,4,289,Frisco,72,Male,Single,Yes
+4938-8000-0000-0000,Harper,Jones,$344.87 ,3,304,Dallas,77,Female,Single,No
+4720-6000-0000-0000,Elijah,Anderson,$563.23 ,3,285,Dallas,73,Female,Single,Yes
+4536-0200-0000-0000,Liam,Taylor,$522.60 ,3,243,Addison,64,Male,Single,No
+4930-1900-0000-0000,Elijah,Jones,$582.71 ,1,87,Frisco,63,Female,Single,No
+4629-4400-0000-0000,Harper,Thomas,$464.31 ,2,189,Dallas,78,Male,Single,Yes
+4430-3600-0000-0000,Harper,Anderson,$608.58 ,2,189,Irving,62,Female,Single,No
+4375-5300-0000-0000,Mia,Gonzalez,$265.57 ,3,234,Dallas,74,Female,Single,Yes
+4931-3000-0000-0000,Benjamin,Wilson,$186.41 ,1,135,Arlington,61,Female,Single,Yes
+4505-6700-0000-0000,Benjamin,Hernandez,$249.17 ,2,147,Addison,76,Male,Single,Yes
+4812-4400-0000-0000,Jackson,Anderson,$618.75 ,4,371,Arlington,70,Male,Widowed,No
+4025-3100-0000-0000,Mia,Clark,$620.08 ,2,233,Farmers Branch,79,Male,Widowed,No
+4961-7400-0000-0000,Oliver,Taylor,$577.48 ,5,391,Dallas,63,Male,Widowed,No
+4266-6100-0000-0000,Benjamin,Williams,$379.29 ,3,305,Farmers Branch,73,Female,Widowed,Yes
+4063-6800-0000-0000,Olivia,Lewis,$456.29 ,3,250,Addison,76,Female,Widowed,No
+4171-1200-0000-0000,Amelia,Smith,$248.87 ,1,105,McKinney,76,Female,Widowed,Yes
+4995-7100-0000-0000,Logan,Rodriguez,$366.12 ,2,168,Arlington,63,Male,Widowed,No
+4187-0800-0000-0000,Aiden,Martinez,$510.82 ,5,381,McKinney,77,Male,Widowed,Yes
+4498-8800-0000-0000,Isabella,Garcia,$643.83 ,6,465,Frisco,68,Female,Widowed,Yes
+4018-8700-0000-0000,Elijah,Perez,$247.79 ,2,225,Rockwall,76,Male,Widowed,No
+4877-2600-0000-0000,Ava,White,$317.29 ,1,113,Arlington,77,Male,Widowed,No
+4843-7600-0000-0000,John,Smith,$609.07 ,6,432,Rockwall,78,Male,Widowed,No
+4345-3400-0000-0000,Elijah,Martinez,$670.15 ,7,541,Dallas,70,Female,Widowed,Yes
+4707-4200-0000-0000,John,Lewis,$664.47 ,7,518,Farmers Branch,76,Male,Widowed,No
+4712-6800-0000-0000,Harper,Jones,$550.82 ,2,167,Arlington,62,Male,Widowed,Yes
+4169-2100-0000-0000,Michael,Davis,$527.21 ,1,131,Irving,79,Female,Widowed,Yes
+4772-1600-0000-0000,Oliver,Thomas,$238.05 ,3,220,McKinney,73,Female,Widowed,Yes
+4304-1900-0000-0000,Harper,Jones,$658.44 ,5,415,Arlington,69,Female,Widowed,Yes
+4913-6900-0000-0000,Aiden,Davis,$347.64 ,2,169,Plano,63,Male,Widowed,No
+4089-1500-0000-0000,Ethan,White,$638.97 ,2,197,Farmers Branch,79,Male,Widowed,No
+4638-0000-0000-0000,Harper,Perez,$286.60 ,1,95,Irving,70,Female,Widowed,No
+4940-7800-0000-0000,Ava,Garcia,$631.59 ,6,496,Farmers Branch,72,Female,Widowed,Yes
+4010-8600-0000-0000,Benjamin,Williams,$524.25 ,1,113,McKinney,69,Male,Widowed,Yes
+4270-8700-0000-0000,Oliver,White,$554.69 ,3,214,Rockwall,81,Female,Divorced,No
+4135-1300-0000-0000,Aiden,Jones,$410.25 ,3,302,Addison,82,Male,Divorced,Yes
+4882-7100-0000-0000,Ava,Martinez,$452.74 ,3,292,Irving,83,Male,Divorced,No
+4864-3500-0000-0000,Jackson,Rodriguez,$630.60 ,8,573,Addison,87,Male,Divorced,Yes
+4666-1300-0000-0000,Michael,Garcia,$676.91 ,3,300,McKinney,88,Male,Divorced,No
+4422-0600-0000-0000,Michael,Jones,$351.31 ,2,178,McKinney,97,Female,Divorced,Yes
+4109-1400-0000-0000,Mia,Rodriguez,$365.25 ,3,252,Dallas,100,Male,Divorced,No
+4781-2300-0000-0000,Mia,Harris,$542.53 ,4,347,Addison,83,Male,Divorced,No
+4426-0100-0000-0000,Harper,Garcia,$344.01 ,3,302,McKinney,85,Male,Divorced,No
+4440-2000-0000-0000,Michael,Lee,$438.63 ,1,140,McKinney,97,Male,Divorced,No
+4418-4600-0000-0000,Isabella,Hernandez,$545.37 ,5,381,Dallas,100,Female,Divorced,Yes
+4804-2400-0000-0000,Jackson,Lee,$491.53 ,3,269,Frisco,88,Male,Divorced,No
+4616-3100-0000-0000,Ethan,Hernandez,$581.35 ,2,162,Arlington,83,Male,Divorced,Yes
+4859-4000-0000-0000,Harper,Lee,$429.14 ,5,368,Plano,100,Male,Divorced,Yes
+4183-7900-0000-0000,Liam,Smith,$578.70 ,4,288,Rockwall,91,Male,Divorced,Yes
+4632-4200-0000-0000,Ava,Jones,$157.65 ,2,143,Irving,81,Female,Divorced,Yes
+4085-1100-0000-0000,Elijah,Williams,$685.18 ,2,145,McKinney,89,Female,Divorced,No
+4060-5600-0000-0000,Logan,Clark,$271.74 ,3,238,Farmers Branch,86,Female,Divorced,No
+4312-2900-0000-0000,Olivia,Smith,$592.07 ,5,413,Plano,94,Male,Divorced,Yes
+4980-6400-0000-0000,Aiden,Thomas,$230.83 ,1,92,Rockwall,96,Female,Divorced,Yes
+4217-9400-0000-0000,Sophia,Harris,$393.41 ,3,214,Irving,100,Female,Divorced,Yes
+4666-0100-0000-0000,Aiden,Thomas,$687.27 ,8,575,Irving,93,Female,Married,Yes
+4738-6200-0000-0000,Sophia,Thomas,$386.78 ,3,265,Rockwall,81,Female,Married,No
+4228-7300-0000-0000,Lucas,Wilson,$591.41 ,7,526,Plano,91,Male,Married,No
+4447-9100-0000-0000,Olivia,Thomas,$203.25 ,1,164,Dallas,81,Female,Married,Yes
+4990-5200-0000-0000,Olivia,Davis,$435.79 ,5,401,Frisco,88,Male,Married,No
+4982-4300-0000-0000,Olivia,Rodriguez,$691.04 ,3,264,Addison,84,Male,Married,No
+4483-3300-0000-0000,Mia,Hernandez,$581.89 ,2,197,Dallas,87,Male,Married,Yes
+4638-4800-0000-0000,Michael,Garcia,$460.93 ,2,145,Dallas,96,Male,Married,No
+4871-6600-0000-0000,Logan,Lee,$321.46 ,3,292,Plano,82,Male,Married,No
+4671-1600-0000-0000,Charlotte,Gonzalez,$685.11 ,4,291,Farmers Branch,94,Male,Married,No
+4977-2000-0000-0000,Aiden,Wilson,$497.48 ,6,433,Arlington,92,Female,Married,Yes
+4955-1000-0000-0000,Amelia,Thomas,$572.93 ,5,360,Addison,93,Male,Married,No
+4160-3500-0000-0000,Olivia,Garcia,$676.67 ,8,579,Plano,88,Female,Married,Yes
+4269-6800-0000-0000,Harper,Harris,$622.68 ,3,300,Farmers Branch,92,Male,Married,Yes
+4824-8800-0000-0000,Charlotte,Lewis,$655.84 ,7,539,Dallas,89,Male,Married,No
+4146-7200-0000-0000,Olivia,Perez,$170.69 ,1,114,Dallas,98,Male,Married,No
+4363-8200-0000-0000,Lucas,Anderson,$180.97 ,2,148,Farmers Branch,81,Female,Married,Yes
+4776-6800-0000-0000,Mia,Thomas,$549.88 ,2,186,Dallas,90,Female,Married,No
+4574-8700-0000-0000,Liam,Williams,$683.71 ,7,524,Irving,81,Male,Single,No
+4240-6500-0000-0000,Logan,Wilson,$512.30 ,6,504,Plano,100,Male,Single,No
+4246-2100-0000-0000,John,Harris,$389.09 ,4,370,Farmers Branch,95,Female,Single,Yes
+4448-2800-0000-0000,Harper,Thomas,$505.24 ,6,428,Plano,88,Female,Single,No
+4993-9100-0000-0000,Aiden,Lee,$352.83 ,3,293,Arlington,98,Male,Single,No
+4810-3100-0000-0000,Mia,Gonzalez,$528.44 ,5,434,Arlington,92,Female,Single,Yes
+4817-4300-0000-0000,Charlotte,Perez,$653.96 ,2,195,Addison,85,Male,Single,Yes
+4635-7900-0000-0000,Liam,Williams,$683.10 ,2,153,Plano,95,Female,Single,No
+4002-7200-0000-0000,Michael,Garcia,$628.46 ,3,309,Irving,101,Male,Single,Yes
+4428-4100-0000-0000,Jackson,Williams,$660.82 ,6,459,Farmers Branch,96,Female,Single,No
+4457-1900-0000-0000,Logan,Perez,$335.69 ,3,244,Plano,99,Male,Single,No
+4024-2900-0000-0000,Charlotte,Lewis,$380.50 ,2,235,Plano,88,Male,Single,No
+4935-0500-0000-0000,Ava,Hernandez,$565.81 ,2,189,Arlington,98,Female,Widowed,No
+4515-1900-0000-0000,John,Taylor,$299.20 ,2,236,McKinney,81,Male,Widowed,No
+4368-2700-0000-0000,Jackson,Clark,$268.11 ,2,168,Frisco,91,Male,Widowed,No
+4020-0900-0000-0000,Lucas,Harris,$570.63 ,1,146,Farmers Branch,92,Female,Widowed,No
+4651-8000-0000-0000,Liam,Garcia,$528.77 ,6,478,Dallas,95,Male,Widowed,No
+4847-3600-0000-0000,John,Rodriguez,$580.13 ,8,570,Arlington,93,Male,Widowed,No
+4332-4400-0000-0000,Mia,Rodriguez,$360.78 ,1,74,Addison,97,Male,Widowed,Yes
+4715-0300-0000-0000,Olivia,Anderson,$569.40 ,4,369,Addison,85,Male,Widowed,No
+4964-1200-0000-0000,Oliver,Hernandez,$633.43 ,2,199,Irving,81,Female,Widowed,Yes
+4301-7500-0000-0000,Charlotte,Lee,$472.33 ,3,292,McKinney,81,Female,Widowed,No
+4860-6800-0000-0000,Charlotte,Davis,$571.67 ,6,472,Frisco,86,Female,Widowed,Yes
+4326-3800-0000-0000,Aiden,Martinez,$451.65 ,4,368,Dallas,100,Male,Widowed,Yes
+4290-9900-0000-0000,Oliver,Thomas,$676.95 ,2,203,Irving,82,Female,Widowed,Yes
+4632-5800-0000-0000,Elijah,Jones,$514.13 ,2,205,Farmers Branch,99,Female,Widowed,Yes
+4071-4200-0000-0000,Amelia,Gonzalez,$486.80 ,4,300,Farmers Branch,82,Female,Widowed,Yes
+4845-6200-0000-0000,Ava,Martinez,$218.76 ,2,198,Plano,100,Female,Widowed,Yes
+4671-6900-0000-0000,Amelia,Lee,$628.32 ,7,589,Plano,85,Female,Widowed,Yes
+4792-9500-0000-0000,Alexander,Hernandez,$515.58 ,6,491,Farmers Branch,97,Male,Widowed,Yes
+4207-1800-0000-0000,Isabella,Martinez,$440.42 ,4,369,Dallas,83,Female,Widowed,No
+4188-4500-0000-0000,Lucas,Clark,$326.02 ,1,107,McKinney,90,Male,Widowed,No
+4116-2300-0000-0000,Michael,Davis,$632.39 ,8,611,Arlington,88,Male,Widowed,No
+4216-9600-0000-0000,John,Anderson,$519.09 ,7,506,Rockwall,88,Male,Widowed,Yes
+4556-1600-0000-0000,Amelia,Rodriguez,$415.59 ,3,225,McKinney,98,Male,Widowed,No
+4096-4100-0000-0000,Logan,Harris,$640.66 ,8,581,Arlington,93,Female,Widowed,Yes
+4599-7200-0000-0000,Charlotte,Jones,$668.95 ,4,379,Frisco,29,Female,Divorced,No
+4162-4600-0000-0000,Mia,Clark,$504.01 ,4,298,Irving,18,Male,Divorced,No
+4676-8800-0000-0000,Benjamin,Lewis,$476.67 ,3,217,Plano,28,Female,Divorced,No
+4968-4200-0000-0000,Liam,Anderson,$458.99 ,3,297,McKinney,24,Male,Divorced,No
+4309-7900-0000-0000,Sophia,Hernandez,$479.27 ,5,379,Farmers Branch,21,Female,Divorced,Yes
+4591-2600-0000-0000,Amelia,White,$549.49 ,4,378,Rockwall,19,Male,Divorced,Yes
+4976-7300-0000-0000,Isabella,Garcia,$2.61 ,9,646,Rockwall,30,Female,Married,No
+4295-5200-0000-0000,Logan,Lee,$291.98 ,2,148,Farmers Branch,27,Female,Married,No
+4663-9700-0000-0000,Alexander,Hernandez,$669.83 ,9,635,McKinney,27,Male,Married,Yes
+4206-7900-0000-0000,Sophia,Davis,$678.06 ,1,131,Plano,30,Male,Married,Yes
+4424-5000-0000-0000,Mia,Taylor,$3.33 ,4,292,Farmers Branch,22,Male,Married,No
+4141-2500-0000-0000,Charlotte,Perez,$683.10 ,8,584,Frisco,30,Female,Married,No
+4003-5300-0000-0000,Ethan,Harris,$356.98 ,1,84,Addison,19,Female,Married,No
+4196-1900-0000-0000,Benjamin,Lewis,$630.03 ,6,471,Addison,20,Female,Married,No
+4229-2100-0000-0000,Amelia,Clark,$548.86 ,4,296,Addison,28,Male,Married,Yes
+4869-7400-0000-0000,Harper,Clark,$481.44 ,4,289,Arlington,23,Female,Married,Yes
+4408-9900-0000-0000,Isabella,Smith,$465.70 ,3,237,Dallas,29,Male,Married,No
+4099-3700-0000-0000,Charlotte,Smith,$648.10 ,3,240,McKinney,19,Male,Single,Yes
+4654-4700-0000-0000,Mia,Gonzalez,$693.45 ,7,526,Rockwall,27,Female,Single,No
+4680-7000-0000-0000,Ava,Anderson,$381.31 ,3,245,Farmers Branch,27,Female,Single,Yes
+4558-5300-0000-0000,Benjamin,Smith,$411.70 ,1,110,McKinney,27,Male,Single,Yes
+4619-7200-0000-0000,Alexander,Clark,$485.18 ,5,421,Addison,20,Male,Single,Yes
+4321-2200-0000-0000,John,Jones,$323.34 ,3,288,Addison,25,Female,Single,Yes
+4557-2700-0000-0000,Lucas,Wilson,$598.02 ,4,348,Arlington,28,Female,Single,Yes
+4898-6600-0000-0000,Ava,Taylor,$564.80 ,6,517,Arlington,25,Female,Single,Yes
+4171-5700-0000-0000,John,Wilson,$232.49 ,2,196,Arlington,28,Female,Single,No
+4422-2800-0000-0000,Liam,Anderson,$519.46 ,4,292,Dallas,30,Female,Single,Yes
+4815-1700-0000-0000,Benjamin,Jones,$610.38 ,8,595,Frisco,19,Female,Widowed,No
+4736-6900-0000-0000,Olivia,Smith,$245.41 ,1,152,Arlington,26,Female,Widowed,Yes
+4132-6100-0000-0000,Ava,Taylor,$609.25 ,7,578,Dallas,22,Female,Widowed,Yes
+4460-2100-0000-0000,Michael,Lee,$659.36 ,3,289,Farmers Branch,28,Female,Widowed,No
+4139-1200-0000-0000,Jackson,Martinez,$389.03 ,4,310,Rockwall,24,Female,Widowed,No
+4037-7200-0000-0000,Jackson,Martinez,$366.59 ,4,294,Addison,29,Female,Widowed,Yes
+4628-9300-0000-0000,Ethan,Gonzalez,$615.18 ,3,239,McKinney,28,Female,Widowed,No
+4882-6000-0000-0000,Michael,Garcia,$626.38 ,1,165,Rockwall,24,Female,Widowed,No
+4917-4300-0000-0000,Michael,Garcia,$354.39 ,2,141,Rockwall,30,Male,Widowed,No
+4101-2000-0000-0000,Olivia,Martinez,$284.45 ,2,180,Arlington,23,Female,Widowed,Yes
+4105-2100-0000-0000,Jackson,Taylor,$531.93 ,7,501,Plano,18,Female,Widowed,No
+4991-7800-0000-0000,Alexander,Harris,$606.75 ,7,574,Dallas,20,Male,Widowed,Yes
+4433-1500-0000-0000,Elijah,Taylor,$631.65 ,8,571,Irving,20,Male,Widowed,Yes
+4090-9700-0000-0000,Amelia,Lewis,$540.20 ,5,364,Plano,29,Male,Widowed,No
+4983-9700-0000-0000,Sophia,Rodriguez,$689.41 ,8,613,Irving,23,Female,Widowed,No
+4338-8000-0000-0000,Aiden,Hernandez,$414.86 ,2,227,Rockwall,27,Male,Widowed,No
+4341-6000-0000-0000,Logan,Williams,$667.43 ,4,289,Plano,27,Male,Widowed,No
+4494-2500-0000-0000,Benjamin,Rodriguez,$638.77 ,3,226,Plano,29,Male,Widowed,No
+4381-0600-0000-0000,Elijah,Thomas,$257.40 ,1,128,Irving,25,Female,Widowed,No
+4626-6400-0000-0000,Aiden,Garcia,$649.98 ,8,573,Addison,20,Female,Widowed,No
+4439-0000-0000-0000,Logan,Hernandez,$604.33 ,5,417,Farmers Branch,19,Female,Widowed,No
+4266-6666-1326-4540, Daniel    , Kennedy,$697.69 ,6,424,Dallas,37,F,Divorced,No
+4018-6400-0000-0000,Charlotte,Lewis,$403.93 ,4,297,Arlington,33,Male,Divorced,No
+4895-7200-0000-0000,Elijah,Harris,$633.02 ,2,188,Arlington,39,Female,Divorced,Yes
+4961-8100-0000-0000,Charlotte,Garcia,$606.36 ,3,258,Frisco,42,Male,Divorced,No
+4183-7500-0000-0000,Oliver,Thomas,$553.51 ,2,180,Plano,37,Male,Divorced,Yes
+4449-5000-0000-0000,Amelia,Smith,$621.35 ,7,495,Plano,40,Male,Divorced,Yes
+4451-9000-0000-0000,Alexander,Lewis,$398.86 ,5,357,Frisco,31,Female,Divorced,Yes
+4847-2000-0000-0000,Mia,Martinez,$477.04 ,3,270,Plano,34,Female,Divorced,Yes
+4317-8300-0000-0000,Logan,Gonzalez,$342.17 ,2,170,Frisco,59,Female,Divorced,No
+4578-4800-0000-0000,John,Jones,$346.68 ,4,315,Frisco,32,Female,Divorced,No
+4966-1500-0000-0000,Alexander,Lewis,$634.43 ,6,517,Arlington,49,Female,Divorced,Yes
+4768-5900-0000-0000,Logan,Lewis,$582.41 ,5,353,McKinney,40,Male,Divorced,No
+4799-2100-0000-0000,Mia,Hernandez,$168.94 ,1,84,Irving,36,Female,Divorced,No
+4126-6700-0000-0000,Logan,Anderson,$590.56 ,6,434,Plano,43,Female,Divorced,No
+4758-4900-0000-0000,Benjamin,White,$574.66 ,2,181,Addison,46,Male,Divorced,Yes
+4514-6500-0000-0000,Aiden,Jones,$267.16 ,2,161,Frisco,54,Female,Divorced,Yes
+4975-0000-0000-0000,Ethan,Lee,$649.01 ,9,649,Frisco,49,Female,Divorced,Yes
+4481-8900-0000-0000,Ethan,Smith,$439.90 ,1,134,Addison,44,Male,Divorced,Yes
+4662-2700-0000-0000,Ethan,Hernandez,$587.07 ,4,352,Farmers Branch,49,Male,Divorced,No
+4495-6600-0000-0000,Mia,Anderson,$535.82 ,5,376,Arlington,46,Female,Divorced,Yes
+4652-2400-0000-0000,Sophia,Smith,$190.89 ,2,173,Arlington,49,Male,Divorced,Yes
+4289-7200-0000-0000,Logan,Thomas,$447.03 ,4,319,McKinney,44,Male,Divorced,No
+4276-8000-0000-0000,Isabella,Taylor,$527.48 ,7,519,Farmers Branch,46,Female,Divorced,Yes
+4225-1100-0000-0000,Isabella,Gonzalez,$258.76 ,1,103,Rockwall,48,Female,Divorced,No
+4067-3800-0000-0000,Sophia,White,$506.52 ,3,292,Addison,48,Male,Divorced,No
+4435-0300-0000-0000,Jackson,Lee,$393.60 ,3,272,Rockwall,31,Male,Divorced,Yes
+4863-1900-0000-0000,Elijah,Taylor,$261.07 ,1,113,Farmers Branch,41,Female,Divorced,No
+4491-9100-0000-0000,Olivia,Anderson,$606.35 ,8,604,Rockwall,45,Female,Divorced,No
+4842-1800-0000-0000,Sophia,White,$340.47 ,3,288,Rockwall,60,Female,Divorced,Yes
+4318-1800-0000-0000,Benjamin,Jones,$641.58 ,8,571,Dallas,45,Female,Divorced,Yes
+4749-5800-0000-0000,Charlotte,Martinez,$672.57 ,6,450,Arlington,41,Female,Divorced,No
+4503-2700-0000-0000,Amelia,Taylor,$598.08 ,8,583,Plano,50,Male,Divorced,No
+4713-4100-0000-0000,Aiden,Garcia,$377.77 ,4,354,Rockwall,51,Female,Divorced,No
+4388-2700-0000-0000,John,Hernandez,$533.35 ,2,218,Frisco,48,Male,Divorced,No
+4273-3100-0000-0000,Alexander,Harris,$491.07 ,5,426,Rockwall,52,Female,Divorced,No
+3910-0458-4550-6040,  Ava        , Jones,$475.99 ,4,345,Irving,38,F,Married,No
+8321-6911-7839-8960, Logan      , Anderson,$452.22 ,3,296,Dallas,41,Male,Married,Yes
+4781-2395-7064-6980, Oliver     , White,$564.35 ,3,211,Dallas,49,M,Married,No
+2334-9412-3585-1140, Angelina   , Edwards,$706.11 ,6,480,McKinney,44,F,Married,Yes
+9262-6445-5336-4390, Aaron      , Ross,$328.02 ,4,281,Addison,42,F,Married,Yes
+6384-6076-1532-1050, Angel      , Butler,$390.81 ,5,385,Dallas,36,M,Married,Yes
+4103-1871-6683-4920, Logan     , Harrison,$659.67 ,8,614,Farmer's Branch,34,f,Married,Yes
+4241-0220-3264-9590, Jacob     , Henry,$886.69 ,8,606,Dallas,45,Male,Married,No
+1751-2759-6909-7130, Michael   , Hawkins,$552.62 ,2,180,Plano,42,F,Married,No
+6509-4280-6211-8370, Andrew    , Watkins,$202.33 ,1,123,Dallas,37,Male,Married,Yes
+4724-4800-0000-0000,Logan,Thomas,$281.03 ,3,242,Dallas,41,Male,Married,Yes
+4349-4400-0000-0000,Mia,Lewis,$260.27 ,2,141,McKinney,59,Female,Married,Yes
+4632-2600-0000-0000,Elijah,Garcia,$204.08 ,2,187,Frisco,57,Female,Married,No
+4321-4700-0000-0000,Sophia,Gonzalez,$661.35 ,8,569,McKinney,41,Male,Married,Yes
+4970-7900-0000-0000,Liam,Taylor,$616.78 ,3,287,Plano,54,Female,Married,No
+4162-0300-0000-0000,Ava,Gonzalez,$466.43 ,3,296,Frisco,44,Male,Married,No
+4102-4900-0000-0000,Isabella,Anderson,$615.49 ,5,419,McKinney,57,Female,Married,Yes
+4825-9100-0000-0000,Logan,Perez,$519.52 ,4,361,Rockwall,49,Female,Married,No
+4640-7900-0000-0000,Lucas,Smith,$445.62 ,1,96,Irving,56,Male,Married,No
+4591-0900-0000-0000,Mia,Perez,$481.78 ,4,307,Arlington,50,Male,Married,No
+4388-5500-0000-0000,Amelia,Lee,$401.65 ,3,294,Arlington,54,Male,Married,Yes
+4985-3000-0000-0000,Liam,Davis,$430.25 ,4,314,Rockwall,31,Male,Married,Yes
+4438-3900-0000-0000,Benjamin,Taylor,$435.04 ,3,218,Plano,51,Male,Married,Yes
+4905-2200-0000-0000,Alexander,Perez,$562.71 ,2,183,Dallas,35,Female,Married,No
+4403-2000-0000-0000,Sophia,Anderson,$457.07 ,6,429,Arlington,50,Female,Married,Yes
+4083-7900-0000-0000,Jackson,Martinez,$696.74 ,5,411,Frisco,36,Female,Married,Yes
+4438-1400-0000-0000,Ava,Clark,$623.26 ,2,229,Addison,56,Male,Married,No
+4655-0600-0000-0000,Ethan,Hernandez,$370.63 ,1,101,Frisco,58,Female,Married,Yes
+4435-5400-0000-0000,Olivia,Harris,$664.40 ,3,246,McKinney,55,Female,Married,Yes
+4044-9400-0000-0000,Harper,Rodriguez,$599.93 ,3,309,McKinney,59,Male,Married,No
+4690-0800-0000-0000,John,Davis,$235.17 ,1,89,Irving,38,Female,Married,No
+4938-0900-0000-0000,Elijah,Davis,$696.34 ,7,514,Dallas,44,Male,Married,Yes
+4252-5300-0000-0000,Aiden,Smith,$362.44 ,1,105,Irving,56,Male,Married,Yes
+4833-3100-0000-0000,Ethan,Taylor,$485.08 ,3,302,Rockwall,58,Female,Single,Yes
+4235-9900-0000-0000,Lucas,Hernandez,$543.99 ,3,253,Plano,59,Male,Single,No
+4846-7400-0000-0000,Oliver,Wilson,$543.32 ,3,246,Irving,43,Female,Single,No
+4881-9800-0000-0000,Michael,Anderson,$308.69 ,2,142,McKinney,60,Female,Single,Yes
+4146-7700-0000-0000,Benjamin,Garcia,$674.74 ,2,144,Addison,47,Male,Single,No
+4487-5600-0000-0000,Lucas,Williams,$533.26 ,4,376,Plano,39,Female,Single,Yes
+4707-9800-0000-0000,Elijah,Rodriguez,$325.37 ,2,143,Dallas,47,Female,Single,No
+4231-3100-0000-0000,Michael,Thomas,$467.95 ,2,230,Plano,43,Female,Single,Yes
+4610-7500-0000-0000,Mia,Hernandez,$534.81 ,5,400,Rockwall,47,Male,Single,No
+4582-4700-0000-0000,Mia,Davis,$679.75 ,9,649,Farmers Branch,41,Female,Single,No
+4477-4200-0000-0000,Aiden,Wilson,$683.86 ,6,485,Rockwall,44,Female,Single,No
+4579-9400-0000-0000,Sophia,Williams,$329.66 ,4,297,Arlington,42,Male,Single,No
+4040-4900-0000-0000,Ethan,Smith,$651.88 ,4,366,Farmers Branch,57,Male,Single,No
+4736-4200-0000-0000,Alexander,Gonzalez,$144.19 ,1,110,Farmers Branch,32,Female,Single,Yes
+4996-5200-0000-0000,Jackson,Perez,$458.28 ,2,180,Arlington,37,Female,Single,No
+4303-2800-0000-0000,Elijah,Anderson,$619.93 ,7,557,Frisco,33,Male,Single,Yes
+4349-4100-0000-0000,Amelia,White,$654.60 ,6,464,Farmers Branch,48,Female,Single,No
+4547-6100-0000-0000,Liam,White,$579.58 ,5,364,Irving,34,Male,Single,Yes
+4490-9200-0000-0000,Isabella,Lewis,$578.91 ,7,566,Plano,52,Female,Single,No
+4236-9800-0000-0000,Aiden,Smith,$510.67 ,4,336,Frisco,48,Male,Single,No
+4966-1000-0000-0000,Logan,Hernandez,$260.91 ,1,147,Farmers Branch,33,Male,Single,No
+4028-6000-0000-0000,Sophia,White,$268.58 ,3,265,Addison,60,Female,Single,No
+4515-5100-0000-0000,Jackson,Lewis,$677.02 ,7,499,Addison,40,Male,Single,Yes
+4100-8500-0000-0000,Logan,Garcia,$685.69 ,8,572,Addison,48,Female,Single,No
+4249-6100-0000-0000,Lucas,White,$637.81 ,4,368,Irving,42,Male,Single,No
+4584-1800-0000-0000,Charlotte,Clark,$603.92 ,2,231,Rockwall,53,Male,Single,No
+4886-9800-0000-0000,Michael,Jones,$337.82 ,2,154,Rockwall,55,Female,Single,No
+4534-6000-0000-0000,Charlotte,Thomas,$418.67 ,4,336,Frisco,58,Male,Single,No
+4309-1900-0000-0000,Ethan,Wilson,$489.21 ,5,421,Rockwall,58,Female,Single,Yes
+4077-0100-0000-0000,Harper,Jones,$606.72 ,5,363,Arlington,31,Female,Single,Yes
+4893-6600-0000-0000,Benjamin,Harris,$469.61 ,3,247,Arlington,45,Male,Single,No
+4064-3900-0000-0000,Harper,Clark,$593.13 ,7,551,McKinney,35,Male,Single,Yes
+4606-0900-0000-0000,Benjamin,Williams,$437.30 ,3,211,Farmers Branch,59,Female,Single,No
+4535-3500-0000-0000,Lucas,Perez,$433.67 ,2,143,Rockwall,34,Female,Single,No
+1689-8662-1571-3940, Ethan      , Clark,$980.74 ,10,776,Dallas,39,m,Single ,Yes
+1226-9424-4467-1420, Madison   , Duncan,$10.06 ,11,861,Dallas,48,m,Single ,Yes
+4280-7337-2571-6780, Emma      , Snyder,$688.14 ,6,480,Frisco,36,Male,Single ,No
+3299-7255-0616-7710, William    , Allen,$374.69 ,2,239,Farmer's Branch,35,F,Widowed,Yes
+8748-9914-1186-4620, Emma      , Ramos,$186.00 ,1,71,Dallas,33,F,Widowed,No
+1843-2127-3388-3350, Ava       , Lane,$455.65 ,6,446,Farmer's Branch,35,F,Widowed,Yes
+4793-8600-0000-0000,Sophia,Smith,$316.86 ,2,207,Rockwall,50,Male,Widowed,Yes
+4750-4200-0000-0000,Michael,Lee,$523.60 ,5,416,Farmers Branch,34,Female,Widowed,Yes
+4291-8400-0000-0000,Ethan,Rodriguez,$418.35 ,2,219,Farmers Branch,53,Male,Widowed,No
+4532-3500-0000-0000,Logan,Gonzalez,$313.21 ,3,232,Irving,50,Female,Widowed,Yes
+4854-9000-0000-0000,Elijah,Lewis,$681.86 ,5,419,Dallas,54,Male,Widowed,No
+4837-7400-0000-0000,Mia,Anderson,$534.06 ,4,349,Arlington,54,Female,Widowed,No
+4719-3300-0000-0000,Alexander,Hernandez,$472.31 ,5,410,Addison,59,Female,Widowed,No
+4746-1200-0000-0000,Jackson,Perez,$423.59 ,4,347,Irving,40,Female,Widowed,Yes
+4241-6500-0000-0000,Ethan,Jones,$4.58 ,10,747,Frisco,40,Male,Widowed,Yes
+4536-2900-0000-0000,Oliver,Anderson,$642.70 ,7,493,Addison,58,Male,Widowed,No
+4875-0200-0000-0000,Jackson,Williams,$371.33 ,5,355,Addison,51,Male,Widowed,Yes
+4535-5400-0000-0000,Amelia,Rodriguez,$433.49 ,2,221,Arlington,35,Male,Widowed,No
+4775-2200-0000-0000,Lucas,Davis,$627.02 ,8,614,Farmers Branch,40,Male,Widowed,No
+4036-4200-0000-0000,Ava,White,$494.88 ,4,354,Arlington,45,Female,Widowed,Yes
+4968-8200-0000-0000,Elijah,Perez,$339.57 ,2,159,Frisco,37,Female,Widowed,No
+4220-9400-0000-0000,Logan,Martinez,$461.71 ,4,287,Irving,33,Male,Widowed,No
+4758-1000-0000-0000,Olivia,Jones,$204.65 ,1,142,Frisco,32,Male,Widowed,No
+4597-4600-0000-0000,Isabella,Lee,$4.06 ,9,637,Farmers Branch,43,Female,Widowed,Yes
+4150-2900-0000-0000,Lucas,Smith,$429.38 ,4,343,Plano,58,Male,Widowed,Yes
+4859-7600-0000-0000,Oliver,Clark,$411.93 ,5,380,Farmers Branch,48,Female,Widowed,No
+4301-4100-0000-0000,Jackson,Jones,$306.90 ,3,223,Addison,60,Female,Widowed,No
+4102-2700-0000-0000,Michael,Lewis,$592.48 ,8,584,Arlington,49,Male,Widowed,Yes
+4100-0100-0000-0000,Liam,Rodriguez,$500.10 ,3,211,Addison,57,Male,Widowed,No
+4888-5800-0000-0000,Lucas,Lee,$406.80 ,2,189,Addison,50,Female,Widowed,No
+4852-4100-0000-0000,Alexander,White,$693.23 ,9,638,Dallas,48,Female,Widowed,No
+4306-2700-0000-0000,Charlotte,Hernandez,$683.55 ,9,704,McKinney,67,Male,Divorced,Yes
+4974-9800-0000-0000,Charlotte,Hernandez,$45.64 ,8,650,Arlington,74,Female,Divorced,No
+4820-5400-0000-0000,Elijah,Taylor,$89.44 ,3,275,Frisco,69,Female,Divorced,No
+4364-5200-0000-0000,Jackson,Jones,$105.59 ,4,297,Addison,67,Male,Divorced,No
+4582-5900-0000-0000,Amelia,Wilson,$428.46 ,9,726,Rockwall,72,Female,Divorced,Yes
+4856-5800-0000-0000,Logan,Martinez,$551.16 ,8,577,Dallas,75,Male,Divorced,Yes
+4577-7100-0000-0000,Logan,Martinez,$304.16 ,7,538,McKinney,75,Female,Divorced,No
+4485-7000-0000-0000,Harper,Davis,$451.36 ,7,572,Arlington,65,Male,Divorced,No
+4198-2200-0000-0000,Benjamin,Clark,$475.73 ,6,513,Rockwall,64,Male,Divorced,Yes
+4167-2300-0000-0000,Amelia,Anderson,$163.35 ,2,222,McKinney,68,Male,Divorced,No
+4399-4000-0000-0000,Charlotte,Davis,$433.77 ,10,716,Addison,67,Female,Divorced,No
+4232-6100-0000-0000,Elijah,Williams,$29.75 ,2,204,McKinney,71,Male,Divorced,No
+4509-3500-0000-0000,Aiden,Harris,$68.04 ,7,565,Arlington,70,Male,Divorced,Yes
+4153-0100-0000-0000,Aiden,Anderson,$605.08 ,8,654,Irving,66,Male,Divorced,Yes
+4172-3700-0000-0000,Elijah,Perez,$563.20 ,9,711,Frisco,64,Male,Divorced,No
+4250-1400-0000-0000,Charlotte,Smith,$342.95 ,9,718,Rockwall,64,Female,Divorced,No
+4205-3600-0000-0000,Sophia,Lee,$353.15 ,10,730,McKinney,79,Male,Divorced,Yes
+4601-1400-0000-0000,John,Lee,$395.91 ,8,613,Farmers Branch,78,Female,Divorced,Yes
+4018-2700-0000-0000,Elijah,Rodriguez,$470.10 ,7,519,Dallas,66,Male,Divorced,Yes
+4711-2600-0000-0000,Lucas,Hernandez,$50.26 ,5,406,Plano,80,Female,Divorced,Yes
+4200-0200-0000-0000,Charlotte,Taylor,$18.92 ,2,153,Plano,72,Female,Divorced,Yes
+4322-9300-0000-0000,John,Thomas,$243.30 ,10,780,Farmers Branch,77,Female,Divorced,No
+4312-7100-0000-0000,Lucas,Clark,$500.80 ,9,687,Rockwall,68,Male,Divorced,Yes
+4726-1000-0000-0000,Logan,Hernandez,$190.71 ,10,731,Arlington,64,Female,Divorced,No
+4535-6500-0000-0000,Amelia,Lee,$666.02 ,9,711,Farmers Branch,72,Female,Divorced,Yes
+4354-5200-0000-0000,Jackson,Clark,$551.09 ,9,677,McKinney,80,Male,Divorced,Yes
+4646-8400-0000-0000,Lucas,Anderson,$257.44 ,9,699,Farmers Branch,67,Male,Divorced,Yes
+4594-5200-0000-0000,Sophia,Lee,$25.71 ,6,449,Farmers Branch,63,Female,Divorced,No
+4995-7200-0000-0000,Lucas,Lewis,$483.47 ,10,764,Frisco,69,Male,Divorced,No
+4659-7300-0000-0000,Liam,Gonzalez,$337.63 ,9,634,Farmers Branch,75,Female,Divorced,Yes
+4151-4200-0000-0000,Mia,Thomas,$180.66 ,11,807,Frisco,62,Male,Divorced,No
+4561-7600-0000-0000,Harper,Smith,$249.82 ,3,274,Farmers Branch,71,Female,Divorced,Yes
+4103-1600-0000-0000,Logan,Garcia,$287.35 ,3,302,Plano,72,Male,Divorced,Yes
+4448-9300-0000-0000,Ava,Gonzalez,$117.33 ,6,479,Plano,65,Male,Divorced,Yes
+4148-3400-0000-0000,Oliver,Lee,$217.93 ,9,657,Arlington,68,Female,Divorced,Yes
+4010-2000-0000-0000,Olivia,Jones,$160.73 ,6,484,Arlington,70,Male,Married,Yes
+4568-2100-0000-0000,Aiden,Hernandez,$116.77 ,10,727,Rockwall,63,Female,Married,No
+4681-4000-0000-0000,Isabella,White,$127.89 ,10,798,Frisco,65,Female,Married,Yes
+4669-1500-0000-0000,Lucas,Garcia,$148.15 ,5,427,Plano,66,Male,Married,No
+4846-9600-0000-0000,Harper,Gonzalez,$75.70 ,2,228,Frisco,63,Male,Married,No
+4309-0600-0000-0000,Michael,Smith,$146.45 ,4,360,Rockwall,68,Female,Married,Yes
+4328-8900-0000-0000,Benjamin,Taylor,$129.00 ,6,514,Arlington,63,Female,Married,No
+4987-4000-0000-0000,Lucas,Lee,$235.89 ,7,527,Addison,61,Female,Married,Yes
+4195-3000-0000-0000,Michael,Williams,$398.05 ,10,776,McKinney,64,Male,Married,No
+4290-8500-0000-0000,Oliver,Martinez,$573.24 ,11,782,Arlington,69,Female,Married,No
+4821-6700-0000-0000,Alexander,Rodriguez,$560.43 ,10,741,Dallas,65,Female,Married,Yes
+4789-3600-0000-0000,Elijah,Jones,$42.51 ,5,378,McKinney,80,Female,Married,Yes
+4958-5500-0000-0000,Aiden,Harris,$556.09 ,8,572,Plano,66,Female,Married,No
+4010-6500-0000-0000,Elijah,Wilson,$474.05 ,10,798,McKinney,71,Female,Married,No
+4824-3100-0000-0000,Olivia,Perez,$400.59 ,8,588,Frisco,62,Female,Married,No
+4297-0000-0000-0000,Aiden,Lewis,$118.20 ,5,395,McKinney,77,Male,Married,No
+4147-1000-0000-0000,Logan,Jones,$131.06 ,8,602,McKinney,72,Female,Married,No
+4500-5300-0000-0000,John,Lee,$282.56 ,6,467,Rockwall,80,Female,Married,Yes
+4319-4500-0000-0000,Jackson,Hernandez,$157.48 ,5,445,McKinney,64,Female,Married,No
+4806-2300-0000-0000,Alexander,Rodriguez,$61.72 ,9,720,Addison,69,Male,Married,Yes
+4471-6900-0000-0000,Logan,Williams,$298.94 ,4,308,Rockwall,74,Female,Married,No
+4899-8600-0000-0000,John,Smith,$474.42 ,8,574,Plano,67,Male,Married,Yes
+4739-3300-0000-0000,Aiden,Thomas,$29.93 ,6,443,Irving,74,Male,Married,No
+4113-3700-0000-0000,Logan,Williams,$79.11 ,4,316,Dallas,67,Female,Married,No
+4429-4400-0000-0000,Amelia,Rodriguez,$48.00 ,3,271,Arlington,76,Male,Married,Yes
+4984-6000-0000-0000,Liam,Lee,$260.54 ,5,436,Arlington,65,Female,Married,No
+4535-3100-0000-0000,Ava,Williams,$122.07 ,3,288,Addison,64,Female,Married,Yes
+4928-3800-0000-0000,Aiden,Lee,$36.40 ,6,516,McKinney,62,Male,Married,Yes
+4334-5800-0000-0000,Mia,Hernandez,$36.80 ,3,241,Rockwall,62,Male,Married,Yes
+4187-6500-0000-0000,Isabella,Garcia,$411.48 ,9,671,Addison,62,Male,Married,No
+4141-4900-0000-0000,Charlotte,Anderson,$512.93 ,10,744,Rockwall,77,Female,Married,Yes
+4257-8100-0000-0000,Aiden,Harris,$340.27 ,9,650,Rockwall,78,Male,Married,No
+4185-1700-0000-0000,Lucas,Perez,$103.64 ,9,664,Irving,80,Male,Married,No
+4867-8100-0000-0000,Lucas,Williams,$17.72 ,8,595,Arlington,79,Female,Single,Yes
+4037-6600-0000-0000,Harper,Harris,$96.58 ,4,288,Addison,78,Female,Single,Yes
+4955-6100-0000-0000,Mia,Lewis,$562.05 ,9,717,McKinney,62,Male,Single,Yes
+4353-8000-0000-0000,Amelia,Harris,$578.11 ,9,648,Irving,67,Female,Single,No
+4438-5200-0000-0000,Liam,Lewis,$172.92 ,6,435,Arlington,78,Male,Single,No
+4130-9300-0000-0000,Aiden,Clark,$86.32 ,4,310,McKinney,74,Female,Single,Yes
+4359-5400-0000-0000,Ava,Smith,$110.24 ,2,197,Frisco,78,Male,Single,No
+4095-2900-0000-0000,Mia,Clark,$298.72 ,4,322,Frisco,64,Female,Single,No
+4499-3000-0000-0000,Mia,Smith,$211.28 ,6,423,Plano,80,Male,Single,No
+4492-2100-0000-0000,Amelia,Thomas,$380.49 ,8,593,Farmers Branch,77,Female,Single,No
+4844-5500-0000-0000,Charlotte,Jones,$131.33 ,3,228,Frisco,78,Female,Single,Yes
+4016-0200-0000-0000,Ethan,Anderson,$228.45 ,6,507,McKinney,77,Female,Single,No
+4958-0300-0000-0000,Mia,Williams,$479.08 ,10,768,Rockwall,63,Female,Single,No
+4056-3600-0000-0000,Jackson,Rodriguez,$71.48 ,6,441,Frisco,72,Female,Single,Yes
+4437-2500-0000-0000,Jackson,White,$294.78 ,5,375,Irving,65,Male,Single,No
+4625-7500-0000-0000,Oliver,Jones,$349.01 ,6,460,Farmers Branch,69,Female,Single,No
+4355-4700-0000-0000,John,Lewis,$34.10 ,9,642,Addison,65,Female,Single,No
+4175-6800-0000-0000,Sophia,Williams,$652.81 ,10,755,Rockwall,70,Male,Single,Yes
+4951-3700-0000-0000,Jackson,Clark,$141.99 ,3,248,Plano,66,Male,Single,Yes
+4787-3700-0000-0000,John,Harris,$131.37 ,6,471,Rockwall,74,Male,Single,Yes
+4185-5400-0000-0000,Harper,Taylor,$92.75 ,9,675,Addison,62,Female,Single,Yes
+5940-8854-1910-4680, Michael   , Fox,$160.17 ,9,643,Plano,62,f,Single ,Yes
+4035-8200-0000-0000,Isabella,White,$689.90 ,10,749,Plano,71,Female,Widowed,No
+4385-0800-0000-0000,Elijah,Williams,$66.57 ,1,90,McKinney,71,Female,Widowed,No
+4256-3300-0000-0000,Sophia,Gonzalez,$163.30 ,10,766,Farmers Branch,76,Female,Widowed,Yes
+4984-3300-0000-0000,Liam,Lee,$188.28 ,4,364,Dallas,75,Male,Widowed,Yes
+4082-4900-0000-0000,Harper,Wilson,$37.17 ,1,107,Farmers Branch,79,Female,Widowed,Yes
+4533-6600-0000-0000,Mia,Davis,$367.23 ,8,568,Dallas,74,Male,Widowed,No
+4016-3100-0000-0000,Ava,Taylor,$65.38 ,10,739,Addison,70,Female,Widowed,No
+4060-9200-0000-0000,Jackson,Davis,$394.04 ,6,434,Addison,72,Female,Widowed,Yes
+4434-6100-0000-0000,Ethan,Lee,$122.11 ,5,391,McKinney,65,Female,Widowed,Yes
+4134-4600-0000-0000,Ava,Perez,$344.04 ,6,497,Irving,71,Female,Widowed,No
+4030-9800-0000-0000,Alexander,Williams,$269.52 ,9,658,Frisco,66,Female,Widowed,Yes
+4190-0700-0000-0000,Ava,Garcia,$14.94 ,9,636,Dallas,72,Male,Widowed,No
+4604-9300-0000-0000,Charlotte,Jones,$88.21 ,3,213,Arlington,70,Female,Widowed,Yes
+4704-6500-0000-0000,Ethan,Martinez,$198.70 ,3,238,Arlington,63,Female,Widowed,Yes
+4864-6900-0000-0000,Amelia,Garcia,$163.87 ,3,304,Plano,80,Female,Widowed,Yes
+4549-2800-0000-0000,Amelia,Harris,$283.04 ,5,365,Addison,77,Male,Widowed,Yes
+4236-8000-0000-0000,Isabella,Thomas,$153.98 ,10,773,Arlington,61,Female,Widowed,Yes
+4287-8400-0000-0000,Ava,Rodriguez,$321.72 ,11,823,Farmers Branch,70,Female,Widowed,No
+4749-7900-0000-0000,Olivia,White,$226.06 ,10,744,Addison,71,Male,Widowed,Yes
+4024-9000-0000-0000,Sophia,Garcia,$68.41 ,4,285,Irving,76,Male,Widowed,No
+4232-1800-0000-0000,Elijah,Lee,$74.14 ,10,723,Farmers Branch,79,Female,Widowed,No
+4692-7600-0000-0000,Sophia,Smith,$211.33 ,7,501,McKinney,74,Male,Widowed,Yes
+4859-3400-0000-0000,Ethan,Perez,$59.09 ,11,777,Dallas,66,Female,Widowed,No
+4062-2600-0000-0000,Olivia,Lee,$42.02 ,6,478,Dallas,63,Female,Widowed,Yes
+4533-2800-0000-0000,Jackson,White,$579.00 ,9,706,Farmers Branch,72,Female,Widowed,Yes
+4961-2200-0000-0000,Benjamin,Williams,$151.04 ,9,671,Addison,61,Male,Widowed,Yes
+4049-1400-0000-0000,Isabella,Anderson,$637.24 ,11,856,Addison,74,Male,Widowed,No
+4152-3900-0000-0000,Ava,Lee,$244.16 ,4,319,Addison,61,Female,Widowed,Yes
+4058-6000-0000-0000,Aiden,Taylor,$475.68 ,7,583,Arlington,63,Male,Widowed,Yes
+4078-3200-0000-0000,John,Davis,$235.91 ,9,669,McKinney,75,Female,Widowed,No
+4558-3900-0000-0000,Michael,Anderson,$19.20 ,9,664,Frisco,65,Male,Widowed,Yes
+4578-2200-0000-0000,Aiden,Taylor,$42.79 ,8,574,Dallas,70,Female,Widowed,No
+4758-1000-0000-0000,Alexander,Wilson,$100.89 ,10,798,Plano,76,Female,Widowed,Yes
+4205-0300-0000-0000,Mia,Taylor,$418.18 ,10,784,Arlington,76,Male,Widowed,No
+4098-7800-0000-0000,Liam,Perez,$405.96 ,8,630,Plano,71,Male,Widowed,No
+4555-2700-0000-0000,John,Jones,$330.78 ,5,417,Arlington,65,Male,Widowed,Yes
+4106-9200-0000-0000,Elijah,Clark,$577.83 ,9,703,Frisco,75,Male,Widowed,No
+4192-9500-0000-0000,Sophia,Hernandez,$398.58 ,7,512,Farmers Branch,63,Female,Widowed,Yes
+4095-3200-0000-0000,Lucas,Lee,$157.60 ,4,326,Arlington,71,Male,Widowed,Yes
+4291-6100-0000-0000,Logan,White,$447.77 ,6,479,Irving,72,Male,Widowed,No
+4247-3000-0000-0000,Olivia,Taylor,$189.23 ,9,697,Irving,76,Female,Widowed,No
+4180-6000-0000-0000,Harper,Martinez,$159.68 ,6,455,Irving,70,Male,Widowed,No
+4612-4400-0000-0000,Olivia,Taylor,$240.55 ,5,353,Irving,89,Male,Divorced,Yes
+4204-9500-0000-0000,Mia,White,$119.75 ,8,589,Rockwall,81,Male,Divorced,No
+4609-6600-0000-0000,Elijah,Wilson,$99.61 ,6,499,Dallas,92,Female,Divorced,Yes
+4284-4500-0000-0000,Amelia,Wilson,$181.72 ,10,726,Dallas,92,Female,Divorced,No
+4168-3400-0000-0000,Alexander,Garcia,$4.73 ,2,178,Addison,85,Male,Divorced,Yes
+4019-8200-0000-0000,Jackson,Clark,$87.73 ,9,643,Plano,98,Female,Divorced,Yes
+4714-8300-0000-0000,Olivia,Perez,$79.45 ,8,654,Plano,96,Female,Divorced,No
+4733-5300-0000-0000,Logan,Gonzalez,$365.28 ,9,702,McKinney,83,Male,Divorced,Yes
+4221-5300-0000-0000,Logan,Clark,$365.01 ,6,519,McKinney,96,Female,Divorced,Yes
+4864-4300-0000-0000,Liam,Clark,$194.22 ,9,668,Arlington,98,Female,Divorced,Yes
+4830-2200-0000-0000,Charlotte,Williams,$141.23 ,5,408,Dallas,100,Female,Divorced,No
+4904-8700-0000-0000,Logan,Taylor,$478.96 ,7,570,Addison,93,Male,Divorced,No
+4791-8800-0000-0000,Oliver,Garcia,$386.29 ,6,477,Frisco,83,Male,Divorced,No
+4331-9500-0000-0000,Logan,Gonzalez,$404.84 ,8,607,Dallas,88,Male,Divorced,No
+4884-6000-0000-0000,Michael,Williams,$123.65 ,4,309,Addison,97,Male,Divorced,Yes
+4841-1200-0000-0000,Isabella,Smith,$225.74 ,8,596,Addison,87,Male,Divorced,Yes
+4082-7900-0000-0000,Jackson,Gonzalez,$149.96 ,7,562,Arlington,86,Male,Divorced,Yes
+4371-4000-0000-0000,Alexander,Smith,$572.71 ,9,710,Arlington,82,Male,Divorced,Yes
+4275-6900-0000-0000,Ethan,Wilson,$116.46 ,4,343,Addison,97,Male,Divorced,Yes
+4379-4700-0000-0000,Elijah,White,$324.30 ,9,691,Arlington,93,Female,Divorced,No
+4881-6100-0000-0000,Amelia,Thomas,$73.42 ,9,723,Frisco,81,Female,Divorced,Yes
+4828-8100-0000-0000,Isabella,Harris,$27.15 ,7,546,Frisco,86,Male,Divorced,No
+4746-9700-0000-0000,Alexander,Wilson,$429.54 ,8,618,Rockwall,95,Male,Divorced,Yes
+4792-5200-0000-0000,Amelia,Clark,$55.15 ,7,563,Dallas,99,Male,Divorced,Yes
+4191-4400-0000-0000,Ava,Wilson,$252.70 ,7,546,Frisco,94,Female,Divorced,Yes
+4741-0800-0000-0000,Benjamin,Garcia,$53.28 ,8,657,Rockwall,82,Male,Divorced,Yes
+4845-9500-0000-0000,Mia,Perez,$331.61 ,7,520,Rockwall,88,Female,Divorced,No
+4548-0700-0000-0000,Mia,Gonzalez,$224.19 ,7,558,Irving,88,Male,Divorced,No
+4670-9200-0000-0000,Logan,Wilson,$238.59 ,10,778,Arlington,98,Female,Divorced,Yes
+4255-7500-0000-0000,Jackson,Clark,$535.09 ,8,638,Rockwall,82,Male,Divorced,Yes
+4253-0100-0000-0000,Mia,Lee,$186.83 ,5,423,Rockwall,91,Male,Married,Yes
+4987-8400-0000-0000,Oliver,Rodriguez,$17.46 ,4,319,Addison,90,Female,Married,No
+4850-5800-0000-0000,Liam,Lewis,$468.74 ,8,585,McKinney,93,Female,Married,Yes
+4084-8400-0000-0000,Michael,Lewis,$509.14 ,9,664,Dallas,90,Male,Married,No
+4928-0500-0000-0000,Aiden,White,$23.59 ,9,637,Plano,93,Male,Married,Yes
+4669-7700-0000-0000,Aiden,Garcia,$105.99 ,2,218,Rockwall,85,Male,Married,Yes
+4542-7200-0000-0000,Charlotte,Lee,$54.81 ,9,709,Farmers Branch,89,Female,Married,No
+4548-5400-0000-0000,Aiden,Lewis,$278.88 ,9,712,Plano,86,Male,Married,No
+4988-9700-0000-0000,Michael,Anderson,$118.57 ,2,141,McKinney,90,Female,Married,Yes
+4589-2200-0000-0000,Aiden,Perez,$537.14 ,10,761,Frisco,100,Male,Married,Yes
+4327-8400-0000-0000,Logan,Smith,$271.98 ,10,763,Frisco,96,Male,Married,No
+4499-1000-0000-0000,John,Anderson,$475.11 ,7,582,Irving,90,Male,Married,No
+4310-8800-0000-0000,Jackson,White,$330.28 ,7,574,Rockwall,95,Female,Married,Yes
+4994-6800-0000-0000,Amelia,Anderson,$102.67 ,7,568,Plano,97,Male,Married,Yes
+4849-2000-0000-0000,Oliver,Clark,$117.92 ,1,133,McKinney,100,Female,Married,No
+4618-7900-0000-0000,Ava,Harris,$609.49 ,10,727,Frisco,94,Female,Married,No
+4001-2700-0000-0000,Harper,Anderson,$122.42 ,7,537,Farmers Branch,94,Female,Married,Yes
+4370-4500-0000-0000,Liam,Rodriguez,$87.31 ,3,217,Frisco,96,Female,Married,Yes
+4824-7000-0000-0000,Ethan,Williams,$332.40 ,8,657,Rockwall,97,Female,Married,No
+4463-9400-0000-0000,John,Anderson,$124.19 ,2,190,Farmers Branch,98,Male,Married,Yes
+4511-1500-0000-0000,Harper,Garcia,$31.86 ,5,360,Dallas,96,Female,Married,Yes
+4658-5600-0000-0000,Isabella,Lewis,$351.48 ,10,734,Farmers Branch,82,Female,Married,Yes
+4456-4400-0000-0000,Aiden,Harris,$287.21 ,3,306,Dallas,82,Female,Married,Yes
+4997-3600-0000-0000,Lucas,Lee,$235.69 ,3,299,Arlington,99,Male,Married,Yes
+4811-8300-0000-0000,Liam,Martinez,$141.01 ,2,159,Frisco,81,Male,Married,Yes
+4972-5400-0000-0000,Amelia,Lee,$652.53 ,11,850,Farmers Branch,85,Male,Married,No
+4607-5700-0000-0000,Isabella,Lewis,$128.13 ,8,643,Rockwall,94,Female,Married,No
+4824-3100-0000-0000,John,Taylor,$360.87 ,9,649,Plano,89,Male,Married,No
+4245-4600-0000-0000,Aiden,Garcia,$202.43 ,9,686,McKinney,86,Female,Married,No
+4113-4700-0000-0000,Benjamin,Davis,$113.68 ,7,525,Plano,87,Female,Married,No
+4034-6100-0000-0000,Benjamin,Taylor,$438.91 ,8,627,Frisco,86,Female,Married,No
+4874-9300-0000-0000,Ava,White,$161.48 ,6,495,Frisco,88,Female,Married,Yes
+4389-8400-0000-0000,Sophia,Jones,$39.52 ,7,546,Rockwall,97,Female,Single,Yes
+4055-3000-0000-0000,Oliver,Harris,$370.64 ,6,515,Arlington,94,Male,Single,Yes
+4799-3700-0000-0000,Liam,Smith,$98.56 ,7,554,Addison,89,Female,Single,Yes
+4898-6300-0000-0000,Olivia,Lee,$316.74 ,7,527,McKinney,87,Male,Single,Yes
+4531-5000-0000-0000,Ava,Wilson,$609.68 ,10,743,Arlington,95,Female,Single,Yes
+4832-9200-0000-0000,Sophia,Hernandez,$268.91 ,4,347,McKinney,93,Female,Single,No
+4951-4300-0000-0000,Benjamin,Lee,$51.94 ,6,479,Addison,81,Male,Single,Yes
+4484-4700-0000-0000,Mia,Williams,$95.69 ,1,153,Addison,92,Female,Single,No
+4706-1800-0000-0000,Ethan,Williams,$323.27 ,6,440,Plano,99,Female,Single,No
+4762-7900-0000-0000,John,Harris,$581.35 ,10,797,Addison,81,Male,Single,Yes
+4873-1900-0000-0000,Mia,Wilson,$381.63 ,10,701,Frisco,95,Male,Single,Yes
+4002-6000-0000-0000,Jackson,Anderson,$248.93 ,10,737,Irving,81,Female,Single,No
+4678-5000-0000-0000,Ethan,White,$315.40 ,6,500,Irving,97,Female,Single,Yes
+4083-4500-0000-0000,Harper,Lee,$625.30 ,9,725,Rockwall,91,Female,Single,Yes
+4625-5300-0000-0000,Liam,Anderson,$27.38 ,8,598,Arlington,101,Male,Single,Yes
+4111-0500-0000-0000,Mia,Rodriguez,$647.28 ,9,686,Irving,96,Male,Single,No
+4601-0700-0000-0000,Michael,Lewis,$336.19 ,10,722,Frisco,90,Female,Single,No
+4686-8800-0000-0000,Oliver,Lee,$196.14 ,8,574,Plano,90,Female,Single,Yes
+4266-9900-0000-0000,Mia,Williams,$577.76 ,9,665,Dallas,100,Female,Single,Yes
+4027-8400-0000-0000,Alexander,Perez,$299.75 ,7,589,Rockwall,93,Female,Single,Yes
+4731-4600-0000-0000,Ethan,Wilson,$196.49 ,10,769,Rockwall,86,Female,Single,No
+4654-8500-0000-0000,Mia,Davis,$558.70 ,8,592,Arlington,95,Male,Single,No
+4759-5000-0000-0000,Elijah,Taylor,$240.59 ,6,495,Plano,82,Female,Single,No
+4147-0500-0000-0000,Lucas,Williams,$42.64 ,10,735,McKinney,89,Female,Single,No
+4884-2300-0000-0000,Harper,Taylor,$275.44 ,8,563,Arlington,101,Female,Single,No
+4604-2100-0000-0000,Elijah,Lee,$76.23 ,6,430,Plano,101,Female,Single,Yes
+4217-0100-0000-0000,Elijah,Hernandez,$125.15 ,8,644,McKinney,101,Male,Single,No
+4233-5600-0000-0000,Jackson,Davis,$255.45 ,5,385,Irving,85,Male,Single,Yes
+4399-9000-0000-0000,Michael,Thomas,$15.28 ,4,297,Plano,95,Male,Single,Yes
+4793-5000-0000-0000,Liam,Davis,$96.63 ,6,477,Frisco,101,Male,Single,Yes
+4999-7500-0000-0000,Isabella,Clark,$687.89 ,10,754,Rockwall,97,Male,Single,No
+4827-8700-0000-0000,Ava,Anderson,$117.29 ,5,440,Addison,87,Male,Single,Yes
+4440-8200-0000-0000,Harper,Gonzalez,$462.13 ,6,511,Rockwall,82,Female,Single,No
+4914-8800-0000-0000,Mia,Lee,$237.58 ,10,735,Farmers Branch,90,Female,Single,Yes
+2326-9867-6999-2740, Charlotte  , Thomas,$16.61 ,3,238,Dallas,450,M,Widowed,Yes
+4104-3900-0000-0000,Ethan,Lewis,$495.14 ,10,774,Irving,100,Female,Widowed,Yes
+4041-3900-0000-0000,Jackson,Davis,$648.72 ,10,790,Plano,83,Female,Widowed,Yes
+4936-0000-0000-0000,Mia,Anderson,$199.00 ,3,268,Arlington,95,Male,Widowed,No
+4896-8500-0000-0000,Jackson,Clark,$359.43 ,8,641,Arlington,93,Male,Widowed,Yes
+4893-2700-0000-0000,Jackson,Davis,$427.72 ,8,644,Frisco,83,Female,Widowed,Yes
+4909-7800-0000-0000,Liam,Perez,$188.01 ,5,375,Arlington,87,Male,Widowed,No
+4798-4800-0000-0000,Alexander,Lee,$44.17 ,3,307,Farmers Branch,98,Male,Widowed,Yes
+4264-9800-0000-0000,Aiden,Martinez,$38.42 ,10,726,Plano,93,Female,Widowed,No
+4793-8400-0000-0000,Isabella,Perez,$136.86 ,5,368,Dallas,85,Male,Widowed,Yes
+4231-3200-0000-0000,Mia,White,$535.70 ,7,573,Irving,81,Female,Widowed,Yes
+4776-9100-0000-0000,Ava,Hernandez,$37.94 ,7,541,McKinney,88,Male,Widowed,No
+4864-2100-0000-0000,Elijah,Garcia,$146.06 ,4,357,McKinney,84,Male,Widowed,No
+4421-3800-0000-0000,Ava,Wilson,$120.06 ,6,427,Addison,98,Male,Widowed,Yes
+4096-7500-0000-0000,Michael,Rodriguez,$282.91 ,4,298,Rockwall,92,Female,Widowed,Yes
+4522-4800-0000-0000,Lucas,Williams,$346.61 ,8,620,Plano,100,Female,Widowed,No
+4096-1300-0000-0000,Amelia,Thomas,$287.84 ,9,663,McKinney,97,Male,Widowed,No
+4953-5600-0000-0000,Charlotte,Thomas,$18.75 ,2,226,Plano,93,Female,Widowed,No
+4764-1400-0000-0000,Alexander,Gonzalez,$105.83 ,5,437,Addison,89,Male,Widowed,No
+4110-0500-0000-0000,Liam,White,$51.84 ,9,695,Irving,91,Male,Widowed,Yes
+4464-2500-0000-0000,Mia,Clark,$556.13 ,10,760,Arlington,82,Male,Widowed,Yes
+4046-6600-0000-0000,Michael,Harris,$482.42 ,7,539,McKinney,87,Male,Widowed,No
+4505-2700-0000-0000,Benjamin,Garcia,$467.69 ,8,655,Dallas,97,Female,Widowed,No
+4641-1200-0000-0000,Olivia,Thomas,$530.42 ,8,590,Addison,94,Male,Widowed,Yes
+4077-1300-0000-0000,Isabella,Wilson,$120.87 ,4,298,Farmers Branch,99,Female,Widowed,No
+4599-6900-0000-0000,John,Lewis,$95.65 ,9,657,McKinney,94,Male,Widowed,Yes
+4780-8900-0000-0000,Benjamin,Rodriguez,$677.95 ,10,737,Rockwall,89,Male,Widowed,Yes
+4401-9700-0000-0000,Olivia,Perez,$541.95 ,8,637,McKinney,96,Female,Widowed,Yes
+4547-1500-0000-0000,Sophia,Smith,$430.86 ,9,721,Plano,91,Male,Widowed,No
+4615-4000-0000-0000,Sophia,Lewis,$134.92 ,8,588,Addison,99,Female,Widowed,No
+4012-8500-0000-0000,Harper,Taylor,$368.68 ,7,569,Arlington,87,Female,Widowed,No
+4941-4800-0000-0000,Ava,Williams,$284.95 ,8,631,Plano,98,Male,Widowed,No
+4114-1600-0000-0000,Amelia,Smith,$49.80 ,6,456,Addison,90,Female,Widowed,Yes
+4690-7900-0000-0000,Mia,Perez,$472.30 ,9,644,Dallas,93,Male,Widowed,No
+4313-0300-0000-0000,Logan,Thomas,$172.53 ,5,408,Farmers Branch,94,Male,Widowed,No
+4495-1400-0000-0000,Benjamin,Smith,$161.68 ,10,715,Dallas,91,Male,Widowed,Yes
+4453-7200-0000-0000,Benjamin,Hernandez,$256.97 ,4,328,Farmers Branch,97,Female,Widowed,No
+4952-0900-0000-0000,Ava,Gonzalez,$404.12 ,10,788,Arlington,92,Male,Widowed,No
+6587-4843-5557-7300, Elijah    , Perkins,$92.97 ,7,566,Frisco,30,M,Divorced,Yes
+4260-0900-0000-0000,Mia,Davis,$71.60 ,11,829,Arlington,22,Female,Divorced,No
+4880-4700-0000-0000,Michael,Lee,$547.33 ,11,866,Irving,22,Female,Divorced,No
+4961-3400-0000-0000,Elijah,White,$23.22 ,1,70,Dallas,23,Male,Divorced,No
+4341-7600-0000-0000,Olivia,Wilson,$184.04 ,6,444,Frisco,22,Male,Divorced,No
+4417-3900-0000-0000,Mia,Williams,$342.80 ,11,787,Frisco,29,Male,Divorced,Yes
+4269-3400-0000-0000,Michael,Perez,$108.50 ,1,146,Irving,30,Female,Divorced,Yes
+4964-5100-0000-0000,Harper,Jones,$208.62 ,9,708,Frisco,29,Male,Divorced,Yes
+4454-8600-0000-0000,Sophia,Anderson,$354.91 ,11,770,Farmers Branch,19,Male,Divorced,Yes
+4490-7500-0000-0000,Amelia,Williams,$357.88 ,6,479,Frisco,24,Male,Divorced,No
+4901-9100-0000-0000,Sophia,Harris,$385.44 ,8,613,Frisco,28,Male,Divorced,No
+4122-0000-0000-0000,Jackson,Garcia,$55.38 ,3,295,Farmers Branch,23,Male,Divorced,No
+4918-6800-0000-0000,Liam,Lewis,$490.84 ,7,567,Frisco,29,Male,Divorced,Yes
+4558-4400-0000-0000,Logan,Lewis,$286.44 ,7,490,Irving,19,Male,Divorced,No
+4975-0700-0000-0000,Logan,Thomas,$175.94 ,4,291,Arlington,21,Female,Divorced,No
+4509-9700-0000-0000,Charlotte,Williams,$7.99 ,6,460,McKinney,28,Male,Divorced,No
+4966-4400-0000-0000,Harper,White,$62.46 ,9,640,Frisco,21,Female,Divorced,Yes
+4542-9900-0000-0000,Logan,Anderson,$108.16 ,5,386,Addison,20,Female,Divorced,Yes
+4434-0000-0000-0000,Jackson,Harris,$512.18 ,9,687,McKinney,21,Male,Divorced,Yes
+4000-7800-0000-0000,Mia,Anderson,$234.66 ,4,288,Dallas,29,Female,Divorced,No
+4021-1800-0000-0000,Logan,Jones,$11.92 ,7,551,Addison,30,Female,Divorced,No
+4148-1900-0000-0000,Oliver,Taylor,$652.71 ,9,655,Arlington,26,Female,Divorced,No
+4909-9200-0000-0000,Amelia,Gonzalez,$126.46 ,3,297,Arlington,18,Female,Divorced,No
+3762-3518-6783-9760, Daniel     , Young,$475.15 ,9,697,Dallas,22,Male,Married,No
+9378-9787-8382-9640, Joshua     , Collins,$45.51 ,4,326,Plano,21,Male,Married,No
+9228-8829-0272-2630, Caleb      , Brooks,$155.12 ,9,713,Dallas,26,Male,Married,Yes
+4391-3000-0000-0000,John,Davis,$111.14 ,2,209,Farmers Branch,22,Female,Married,Yes
+4377-1600-0000-0000,Logan,Davis,$270.86 ,8,637,Plano,26,Male,Married,No
+4478-4700-0000-0000,Ethan,Lee,$360.76 ,5,395,Addison,26,Male,Married,No
+4649-7100-0000-0000,Sophia,White,$64.17 ,9,645,Addison,29,Female,Married,No
+4255-5900-0000-0000,Amelia,Harris,$239.07 ,8,612,McKinney,22,Female,Married,No
+4702-2600-0000-0000,Sophia,Smith,$516.92 ,10,768,Rockwall,30,Female,Married,No
+4308-8800-0000-0000,Mia,Davis,$33.05 ,6,461,Dallas,22,Female,Married,No
+4686-8900-0000-0000,Benjamin,Thomas,$179.77 ,6,425,Dallas,30,Female,Married,No
+4511-9000-0000-0000,Charlotte,Smith,$31.90 ,6,442,Plano,27,Male,Married,No
+4514-6900-0000-0000,Michael,Smith,$149.39 ,9,657,Frisco,21,Male,Married,No
+4726-1100-0000-0000,Oliver,Wilson,$69.63 ,1,141,Arlington,19,Female,Married,No
+4820-0500-0000-0000,Isabella,Anderson,$73.32 ,2,192,Addison,26,Female,Married,No
+4048-0600-0000-0000,Jackson,Davis,$32.42 ,10,797,McKinney,20,Female,Single,No
+4365-7800-0000-0000,Aiden,White,$481.64 ,8,599,Farmers Branch,19,Female,Single,No
+4069-4700-0000-0000,John,Martinez,$211.18 ,10,725,Plano,23,Male,Single,No
+4103-4800-0000-0000,Amelia,Harris,$276.96 ,6,457,Arlington,30,Female,Single,Yes
+4652-1200-0000-0000,Sophia,White,$222.82 ,8,619,Farmers Branch,25,Female,Single,No
+4786-6800-0000-0000,Michael,Gonzalez,$87.09 ,11,789,Arlington,26,Female,Single,No
+4745-9400-0000-0000,Logan,Wilson,$515.98 ,11,780,Dallas,20,Male,Single,Yes
+4339-4900-0000-0000,Isabella,Wilson,$116.19 ,2,142,Farmers Branch,18,Female,Single,No
+4734-4500-0000-0000,John,Hernandez,$615.43 ,10,751,Addison,23,Male,Single,No
+4995-0500-0000-0000,Harper,Clark,$409.21 ,10,721,Farmers Branch,27,Male,Single,No
+4607-4500-0000-0000,Alexander,Jones,$122.28 ,5,399,Irving,27,Male,Single,Yes
+4463-9400-0000-0000,Isabella,Lee,$621.10 ,9,645,Irving,21,Female,Single,No
+4145-0800-0000-0000,Olivia,Gonzalez,$114.50 ,3,267,Plano,18,Male,Single,Yes
+4037-7200-0000-0000,Alexander,Jones,$269.37 ,4,321,Rockwall,27,Female,Single,Yes
+4427-5900-0000-0000,Amelia,Rodriguez,$58.51 ,5,421,Arlington,23,Female,Single,No
+4856-6500-0000-0000,Lucas,Williams,$405.38 ,8,643,Irving,21,Male,Single,Yes
+4861-4600-0000-0000,Olivia,Martinez,$189.02 ,5,355,Arlington,29,Male,Single,Yes
+4696-0300-0000-0000,Mia,Jones,$29.58 ,6,459,Frisco,25,Male,Single,No
+4480-9800-0000-0000,Aiden,Garcia,$240.04 ,5,440,Frisco,22,Male,Single,No
+4441-3900-0000-0000,Amelia,Anderson,$118.17 ,5,352,Farmers Branch,23,Male,Single,Yes
+4764-9400-0000-0000,Harper,Anderson,$505.25 ,9,644,Addison,29,Female,Single,No
+4680-1800-0000-0000,Michael,Davis,$184.97 ,10,747,Plano,27,Male,Single,Yes
+4392-0500-0000-0000,Lucas,Smith,$251.79 ,6,425,Rockwall,20,Male,Single,No
+4567-5300-0000-0000,Harper,Hernandez,$366.18 ,8,613,Rockwall,30,Male,Single,No
+6659-9710-3513-1970, Leo        , Sanders,$310.16 ,6,463,Plano,30,M,Single ,Yes
+2714-4678-5487-2220, Noah      , Ferguson,$338.26 ,10,722,Dallas,20,F,Single ,No
+4750-3900-0000-0000,Aiden,White,$145.34 ,10,704,Plano,21,Female,Widowed,Yes
+4774-3600-0000-0000,Amelia,White,$368.94 ,6,491,Rockwall,29,Male,Widowed,Yes
+4062-0500-0000-0000,Elijah,Lee,$102.10 ,10,775,Plano,28,Male,Widowed,Yes
+4873-8400-0000-0000,Benjamin,Perez,$398.84 ,7,568,Farmers Branch,18,Female,Widowed,Yes
+4714-7700-0000-0000,Isabella,Davis,$325.26 ,8,577,Addison,18,Male,Widowed,Yes
+4723-1800-0000-0000,Benjamin,Davis,$160.30 ,6,518,Rockwall,18,Female,Widowed,No
+4382-5400-0000-0000,John,Thomas,$484.86 ,8,608,Irving,27,Male,Widowed,No
+4948-6600-0000-0000,Jackson,Williams,$80.49 ,4,282,Dallas,22,Male,Widowed,No
+4723-4200-0000-0000,John,Harris,$80.24 ,6,456,Plano,26,Female,Widowed,No
+4028-3000-0000-0000,Lucas,Lee,$306.84 ,7,570,Rockwall,25,Female,Widowed,No
+4560-3700-0000-0000,John,Clark,$221.84 ,6,444,Arlington,21,Female,Widowed,Yes
+4608-5100-0000-0000,Mia,Davis,$177.27 ,3,305,Arlington,22,Male,Widowed,No
+4322-8900-0000-0000,Mia,Wilson,$430.08 ,7,562,Addison,25,Male,Widowed,No
+4049-5000-0000-0000,Alexander,Taylor,$232.18 ,5,441,Farmers Branch,24,Male,Widowed,Yes
+4239-0300-0000-0000,Liam,Lee,$695.69 ,10,744,Arlington,20,Female,Widowed,No
+4153-4600-0000-0000,Harper,Taylor,$121.70 ,4,306,Addison,25,Female,Widowed,Yes
+4032-4400-0000-0000,Michael,Gonzalez,$151.19 ,5,403,Frisco,27,Male,Widowed,No
+9307-8486-3106-0570,  Olivia     , Williams,$26.05 ,3,306,Frisco,39,M,Divorced,Yes
+8076-2720-2313-9110, Aubrey     , Rogers,$168.71 ,8,652,Arlington,48,f,Divorced,Yes
+1539-4594-3990-3740, Audrey     , Wood,$18.66 ,9,685,Addison,33,M,Divorced,No
+6801-5698-9125-4180, Ariana     , Alexander,$131.20 ,11,848,Irving,48,Male,Divorced,Yes
+8328-8068-9711-7380, Benjamin  , Owens,$33.90 ,9,644,Frisco,43,M,Divorced,Yes
+2499-6475-8414-5670, Liam      , Ortiz,$186.76 ,3,246,Rockwall,55,F,Divorced,No
+3673-5726-3481-3950, Anthony   , Rice,$69.98 ,10,704,Irving,49,Male,Divorced,Yes
+6188-9835-5562-6420, Jacob     , Arnold,$39.35 ,7,495,Rockwall,55,F,Divorced,No
+9663-3787-8410-1520, Benjamin  , Armstrong,$328.19 ,6,484,Dallas,43,F,Divorced,No
+4854-8200-0000-0000,Alexander,Anderson,$598.15 ,8,655,Plano,57,Male,Divorced,Yes
+4248-1800-0000-0000,Elijah,Wilson,$335.15 ,10,790,Arlington,44,Female,Divorced,No
+4040-3300-0000-0000,Benjamin,Martinez,$78.56 ,5,360,Addison,39,Male,Divorced,Yes
+4392-4000-0000-0000,Jackson,Williams,$452.85 ,6,507,Addison,44,Female,Divorced,Yes
+4487-6400-0000-0000,Isabella,White,$317.63 ,10,713,McKinney,54,Female,Divorced,No
+4155-3200-0000-0000,Isabella,Anderson,$91.17 ,2,210,McKinney,55,Female,Divorced,No
+4143-5400-0000-0000,Alexander,Martinez,$230.79 ,11,832,Irving,50,Male,Divorced,Yes
+4057-5300-0000-0000,Oliver,Gonzalez,$287.89 ,4,303,Dallas,54,Male,Divorced,Yes
+4384-5300-0000-0000,Isabella,Clark,$278.69 ,5,398,Plano,56,Female,Divorced,Yes
+4194-9800-0000-0000,Lucas,Smith,$93.00 ,3,309,Rockwall,34,Male,Divorced,Yes
+4299-2600-0000-0000,Benjamin,Thomas,$653.56 ,9,654,Addison,57,Female,Divorced,No
+4219-4400-0000-0000,Alexander,Smith,$289.93 ,5,398,Irving,35,Female,Divorced,No
+4618-0400-0000-0000,Elijah,Williams,$571.25 ,8,606,Addison,36,Female,Divorced,Yes
+4932-1800-0000-0000,Amelia,Williams,$252.10 ,8,620,Farmers Branch,58,Female,Divorced,Yes
+4061-0500-0000-0000,Lucas,Rodriguez,$276.70 ,6,467,Addison,60,Female,Divorced,Yes
+4417-9600-0000-0000,Oliver,Lee,$116.07 ,2,147,Irving,39,Male,Divorced,Yes
+4302-7000-0000-0000,Jackson,Perez,$349.46 ,4,368,McKinney,59,Male,Divorced,Yes
+4366-8900-0000-0000,Sophia,White,$409.78 ,10,759,Frisco,49,Male,Divorced,Yes
+4034-4000-0000-0000,Ethan,Clark,$344.13 ,11,806,McKinney,58,Female,Divorced,Yes
+4418-4900-0000-0000,Mia,Smith,$342.14 ,9,650,Addison,31,Male,Divorced,Yes
+4695-6600-0000-0000,Alexander,Williams,$392.67 ,11,851,Dallas,37,Female,Divorced,No
+4317-3900-0000-0000,Ethan,Williams,$536.76 ,10,749,Addison,34,Male,Divorced,Yes
+4195-7300-0000-0000,Ethan,Thomas,$295.78 ,9,710,Addison,48,Male,Divorced,Yes
+4615-6200-0000-0000,Harper,Lewis,$161.58 ,10,713,Frisco,52,Male,Divorced,Yes
+4028-1000-0000-0000,Liam,Gonzalez,$370.39 ,9,690,Irving,33,Female,Divorced,No
+4136-7200-0000-0000,Olivia,Clark,$343.21 ,6,423,Dallas,33,Male,Divorced,Yes
+4822-5500-0000-0000,Charlotte,Clark,$524.73 ,9,714,Plano,52,Male,Divorced,No
+4548-1500-0000-0000,Harper,Martinez,$17.01 ,11,801,McKinney,50,Female,Divorced,Yes
+4839-7900-0000-0000,Harper,Wilson,$68.35 ,7,583,Frisco,48,Male,Divorced,No
+4985-0200-0000-0000,Elijah,Davis,$63.12 ,8,563,Farmers Branch,31,Female,Divorced,Yes
+4218-1700-0000-0000,Sophia,Harris,$104.38 ,11,864,McKinney,44,Male,Divorced,No
+4523-3900-0000-0000,Harper,Jones,$295.67 ,9,708,Arlington,58,Female,Divorced,Yes
+4455-6100-0000-0000,Lucas,Davis,$236.80 ,10,703,Plano,60,Male,Divorced,Yes
+4735-0300-0000-0000,Aiden,Davis,$186.60 ,5,355,Plano,31,Female,Divorced,Yes
+4667-8700-0000-0000,Michael,Lewis,$252.72 ,6,421,Irving,50,Male,Divorced,No
+4351-1100-0000-0000,Michael,Taylor,$363.91 ,4,372,Dallas,33,Female,Divorced,Yes
+4233-9500-0000-0000,Mia,Jones,$618.36 ,9,667,Arlington,40,Female,Divorced,Yes
+4504-0300-0000-0000,Jackson,Rodriguez,$475.36 ,10,765,Farmers Branch,60,Female,Divorced,Yes
+4527-1800-0000-0000,Alexander,Martinez,$382.20 ,9,665,Farmers Branch,34,Female,Divorced,Yes
+4631-4429-0257-0560,  Sophia     , Martinez,$113.60 ,4,308,Farmer's Branch,38,f,Married,Yes
+3577-1492-2456-0310, James      , Hall,$31.45 ,9,690,Addison,47,F,Married,Yes
+3508-3905-2913-5770, Grace      , King,$186.82 ,3,286,McKinney,41,f,Married,Yes
+7441-5692-0142-9400, David      , Adams,$284.94 ,5,350,Dallas,46,Female,Married,Yes
+5161-9177-3866-1670, Madison    , Parker,$497.48 ,7,529,Farmer's Branch,39,M,Married,No
+8380-0804-7756-7790, Owen       , Cook,$130.46 ,2,213,Dallas,35,F,Married,Yes
+6736-8176-7031-3890, Aria       , Bell,$78.31 ,6,454,Plano,49,F,Married,No
+6907-1697-6885-5070, Mary       , Cooper,$61.94 ,8,642,Irving,36,F,Married,No
+7771-5281-3803-5520, Nathan     , Howard,$235.66 ,5,380,Dallas,39,f,Married,Yes
+5455-2520-6947-9350, Elizabeth  , Kelly,$68.37 ,10,739,Dallas,52,M,Married,No
+1727-9293-7427-5230, Stella     , Coleman,$154.12 ,9,684,Dallas,33,Male,Married,No
+4275-1116-5201-9450, Cameron    , Flores,$144.57 ,9,672,Dallas,35,Female,Married,Yes
+9112-9018-4199-1230, Lucas      , Griffin,$138.74 ,2,184,Farmer's Branch,44,M,Married,No
+3701-2235-4278-0890, Skylar     , Myers,$199.36 ,4,297,Plano,42,Male,Married,No
+6904-9990-1876-5460, Evan      , Woods,$35.77 ,3,280,Dallas,49,F,Married,Yes
+6628-8034-7795-3730, Caden     , Fisher,$58.78 ,10,781,Irving,41,F,Married,No
+1661-5394-8445-5560, Mia       , Webb,$163.75 ,9,701,Dallas,39,M,Married,No
+6130-8624-1934-3670, William   , Boyd,$235.20 ,4,314,McKinney,45,f,Married,Yes
+9873-0777-1002-3480, Christopher, Reyes,$95.86 ,3,260,Dallas,37,M,Married,Yes
+8376-1580-2091-5400, Andrew    , Burns,$113.10 ,11,776,Plano,42,Male,Married,Yes
+5679-1059-8901-2590, Isabella  , Daniels,$4.79 ,3,293,McKinney,34,F,Married,Yes
+2938-5874-1917-1450, Ethan     , Rose,$178.25 ,4,315,Dallas,39,F,Married,Yes
+2943-8547-8097-9750, William   , Stephens,$153.52 ,4,343,Farmer's Branch,48,f,Married,Yes
+4211-4291-8540-2150, Alexander , Payne,$179.54 ,8,574,Dallas,34,f,Married,Yes
+6688-7925-2674-5350, Jack      , Olson,$150.00 ,10,754,Dallas,47,M,Married,No
+7149-2565-1137-8400, Sophia    , Bradley,$289.51 ,7,492,Addison,37,F,Married,Yes
+2498-8734-1451-8240, Mia       , Ruiz,$101.63 ,6,494,McKinney,38,f,Married,Yes
+3421-0572-2882-4570, Matthew   , Lawrence,$167.22 ,9,650,Dallas,41,M,Married,Yes
+1336-3924-8920-6110, Alexander , Elliott,$91.38 ,2,223,Plano,35,Male,Married,Yes
+1015-9613-5590-5730, David     , Franklin,$562.65 ,8,621,Farmer's Branch,57,M,Married,No
+3829-2901-7620-2140, Jack      , Gutierrez,$79.45 ,2,155,Plano,34,Male,Married,No
+6676-0953-9718-0600,Emma,Johnson,$69.09 ,9,638,Plano,39,F,Married,No
+4446-9500-0000-0000,Jackson,Hernandez,$101.48 ,9,691,McKinney,43,Female,Married,No
+4797-7400-0000-0000,Oliver,Rodriguez,$518.82 ,9,693,McKinney,38,Male,Married,Yes
+4264-2100-0000-0000,Mia,Martinez,$463.16 ,9,697,McKinney,37,Male,Married,No
+4413-1800-0000-0000,Mia,Rodriguez,$154.46 ,7,566,Irving,59,Male,Married,No
+4941-2700-0000-0000,John,Gonzalez,$545.96 ,7,555,Dallas,47,Male,Married,Yes
+4628-9700-0000-0000,Ava,Anderson,$222.71 ,3,267,Frisco,60,Female,Married,Yes
+4313-6800-0000-0000,Harper,Smith,$237.00 ,7,497,Irving,58,Female,Married,No
+4030-1600-0000-0000,Benjamin,Davis,$596.14 ,10,752,Arlington,32,Male,Married,No
+4436-1100-0000-0000,Charlotte,Jones,$411.91 ,11,846,Plano,58,Male,Married,No
+4372-4200-0000-0000,Jackson,White,$46.03 ,3,281,Frisco,60,Male,Married,No
+4116-0300-0000-0000,Benjamin,Perez,$686.80 ,10,791,Dallas,31,Male,Married,Yes
+4046-5300-0000-0000,Aiden,Lee,$94.46 ,2,189,Plano,51,Male,Married,Yes
+4714-0300-0000-0000,Lucas,Jones,$60.21 ,2,213,Rockwall,59,Female,Married,Yes
+4843-4100-0000-0000,Benjamin,Williams,$281.52 ,10,732,Irving,40,Male,Married,Yes
+4220-9200-0000-0000,Amelia,Clark,$171.37 ,5,366,Arlington,38,Male,Married,No
+4072-3500-0000-0000,Sophia,Lee,$261.97 ,4,347,Rockwall,57,Male,Married,Yes
+4424-7500-0000-0000,Ava,Williams,$391.20 ,5,398,Irving,34,Female,Married,Yes
+4078-1800-0000-0000,Aiden,Clark,$291.96 ,8,636,Frisco,59,Male,Married,Yes
+4981-5900-0000-0000,Ethan,Thomas,$25.19 ,3,256,McKinney,34,Male,Married,No
+4572-0900-0000-0000,Logan,Garcia,$107.55 ,10,773,Arlington,52,Male,Married,No
+4205-8700-0000-0000,Isabella,Smith,$529.38 ,9,681,McKinney,47,Female,Married,Yes
+4840-2400-0000-0000,Elijah,Hernandez,$312.06 ,6,456,Plano,52,Female,Married,No
+4469-9400-0000-0000,Olivia,Garcia,$288.25 ,8,637,Irving,55,Male,Married,Yes
+4467-0600-0000-0000,Ethan,Gonzalez,$181.95 ,7,559,Frisco,34,Male,Married,No
+4655-9700-0000-0000,Elijah,Garcia,$468.55 ,10,725,Addison,54,Male,Married,Yes
+4147-2600-0000-0000,Sophia,Jones,$162.92 ,10,747,Dallas,40,Male,Married,Yes
+4501-1600-0000-0000,Isabella,Williams,$496.12 ,8,593,Irving,45,Male,Married,Yes
+4922-4200-0000-0000,Aiden,Williams,$519.69 ,7,525,McKinney,40,Male,Married,No
+4438-4500-0000-0000,Charlotte,Perez,$527.62 ,11,809,Arlington,38,Female,Married,Yes
+4841-5200-0000-0000,Isabella,Anderson,$26.36 ,11,847,Addison,31,Female,Married,Yes
+4786-0700-0000-0000,Oliver,White,$86.70 ,3,218,Rockwall,58,Male,Married,Yes
+4395-4600-0000-0000,Mia,Garcia,$206.39 ,11,851,McKinney,46,Male,Married,Yes
+4730-5300-0000-0000,Elijah,Smith,$170.67 ,3,226,Plano,31,Female,Married,Yes
+4464-4600-0000-0000,Jackson,Jones,$230.56 ,9,716,Arlington,31,Male,Married,Yes
+4817-3300-0000-0000,Harper,Perez,$520.05 ,11,850,Frisco,38,Male,Married,Yes
+4118-5600-0000-0000,Isabella,Hernandez,$18.32 ,2,232,Frisco,50,Female,Married,Yes
+4179-6800-0000-0000,Mia,Harris,$105.53 ,10,726,Irving,57,Male,Married,No
+4683-0700-0000-0000,Aiden,Lewis,$588.28 ,8,613,Farmers Branch,57,Female,Married,Yes
+4169-0000-0000-0000,Benjamin,Clark,$283.38 ,4,291,Rockwall,50,Female,Married,No
+4085-6400-0000-0000,Olivia,Taylor,$225.07 ,8,640,Frisco,38,Male,Married,Yes
+4957-5500-0000-0000,Aiden,White,$419.23 ,11,791,Farmers Branch,58,Male,Married,No
+4724-2100-0000-0000,Isabella,Wilson,$432.12 ,8,627,Arlington,35,Female,Married,No
+4902-5000-0000-0000,Alexander,Lewis,$223.04 ,5,375,Dallas,37,Male,Married,No
+4579-3000-0000-0000,Sophia,Rodriguez,$306.76 ,4,327,Plano,60,Male,Married,No
+4329-9200-0000-0000,Sophia,Smith,$266.23 ,4,345,Dallas,53,Male,Married,No
+4956-2500-0000-0000,Lucas,Williams,$58.68 ,5,365,Dallas,41,Female,Married,Yes
+4721-9200-0000-0000,Aiden,White,$233.50 ,5,374,Plano,56,Female,Married,No
+4552-3500-0000-0000,Oliver,Smith,$114.27 ,7,563,Farmers Branch,32,Female,Married,No
+4484-5900-0000-0000,Amelia,Anderson,$262.14 ,10,769,Rockwall,53,Female,Married,Yes
+4831-3100-0000-0000,Harper,Taylor,$438.36 ,9,641,Arlington,31,Female,Married,No
+4789-8500-0000-0000,Logan,Martinez,$551.11 ,8,629,Arlington,50,Female,Married,No
+4278-1100-0000-0000,Liam,Anderson,$364.94 ,5,412,McKinney,38,Female,Married,Yes
+6990-5636-6997-8040, Lily       , Roberts,$50.17 ,11,824,Frisco,41,M,single,No
+3130-6537-0023-3090, Jeremiah   , Torres,$190.28 ,5,372,Plano,33,f,single,Yes
+4118-9600-0000-0000,Mia,Perez,$189.52 ,8,583,Rockwall,31,Male,Single,No
+4240-5600-0000-0000,Amelia,Gonzalez,$253.45 ,8,572,Irving,37,Male,Single,Yes
+4649-9000-0000-0000,Lucas,Rodriguez,$130.00 ,4,347,Frisco,47,Male,Single,Yes
+4456-8300-0000-0000,Oliver,Rodriguez,$43.97 ,3,265,Irving,32,Female,Single,Yes
+4781-2800-0000-0000,Amelia,Lewis,$589.74 ,11,850,McKinney,38,Female,Single,Yes
+4031-6900-0000-0000,John,Gonzalez,$65.31 ,6,420,Farmers Branch,48,Male,Single,Yes
+4729-7300-0000-0000,Benjamin,Martinez,$441.86 ,6,507,Arlington,55,Male,Single,Yes
+4912-0100-0000-0000,Ava,Lee,$172.56 ,10,704,Arlington,60,Female,Single,No
+4304-5800-0000-0000,Olivia,Thomas,$110.95 ,5,388,Irving,44,Male,Single,Yes
+4668-5500-0000-0000,Isabella,Anderson,$107.65 ,11,833,Frisco,35,Male,Single,No
+4650-6700-0000-0000,Alexander,Wilson,$31.25 ,4,289,McKinney,55,Male,Single,Yes
+4183-0300-0000-0000,Liam,Jones,$349.58 ,4,354,Arlington,55,Female,Single,Yes
+4842-6900-0000-0000,Harper,Harris,$302.00 ,9,651,Addison,33,Female,Single,Yes
+4524-1000-0000-0000,Mia,Clark,$552.36 ,10,783,McKinney,60,Male,Single,Yes
+4218-9300-0000-0000,Liam,Thomas,$523.27 ,9,718,Farmers Branch,34,Male,Single,Yes
+4171-2900-0000-0000,Benjamin,Williams,$225.53 ,4,360,Arlington,54,Male,Single,Yes
+4310-0300-0000-0000,Benjamin,Taylor,$57.55 ,7,502,Farmers Branch,36,Male,Single,Yes
+4343-0700-0000-0000,John,Perez,$399.21 ,8,620,Plano,45,Female,Single,Yes
+4885-8600-0000-0000,Benjamin,Rodriguez,$21.93 ,7,526,Plano,37,Female,Single,No
+4540-2800-0000-0000,Oliver,Harris,$143.65 ,10,729,Addison,57,Male,Single,No
+4254-0400-0000-0000,Logan,Gonzalez,$104.94 ,8,644,Rockwall,60,Male,Single,No
+4941-0700-0000-0000,Sophia,Smith,$341.17 ,9,727,Farmers Branch,48,Male,Single,Yes
+4889-7500-0000-0000,Lucas,Jones,$257.30 ,5,380,Farmers Branch,47,Female,Single,No
+4339-6400-0000-0000,Jackson,Anderson,$55.45 ,7,512,Farmers Branch,55,Female,Single,No
+4415-7200-0000-0000,Olivia,Thomas,$16.92 ,6,484,Farmers Branch,56,Female,Single,Yes
+4097-9900-0000-0000,Liam,Garcia,$453.19 ,7,590,Dallas,32,Female,Single,Yes
+4900-8100-0000-0000,Ava,Harris,$73.59 ,6,518,McKinney,39,Female,Single,No
+4543-6600-0000-0000,Charlotte,Gonzalez,$166.88 ,11,797,Dallas,55,Female,Single,Yes
+4516-7200-0000-0000,Sophia,Hernandez,$426.13 ,10,751,Arlington,47,Female,Single,No
+4965-2800-0000-0000,Isabella,Taylor,$107.47 ,7,543,Frisco,40,Male,Single,Yes
+4206-2100-0000-0000,Olivia,Garcia,$435.65 ,8,648,Rockwall,42,Female,Single,Yes
+4729-6300-0000-0000,Isabella,Smith,$210.22 ,6,498,Plano,45,Female,Single,No
+4389-0100-0000-0000,Michael,Harris,$457.00 ,7,589,Addison,50,Female,Single,Yes
+4344-3900-0000-0000,John,Gonzalez,$58.69 ,6,434,McKinney,37,Male,Single,No
+4294-5300-0000-0000,Sophia,Williams,$351.69 ,10,750,McKinney,42,Male,Single,No
+4641-8700-0000-0000,Ethan,Rodriguez,$170.74 ,10,716,McKinney,57,Female,Single,Yes
+8977-3819-8830-4550,  John ,  Smith,$61.06 ,9,648,Addison,47,F,Single ,No
+1254-6321-3474-9800,  Aiden      , Davis,$11.71 ,3,213,McKinney,36,Male,Single ,No
+5091-7271-5569-6400, Lucas      , Hernandez,$11.53 ,6,422,Plano,36,f,Single ,Yes
+7812-8473-9967-0870, Harper     , Harris,$78.28 ,9,639,Plano,39,M,Single ,Yes
+8458-8912-6157-5520, Andrew     , Mitchell,$319.20 ,9,721,Dallas,44,M,Single ,No
+2078-3349-0269-1350, Henry      , Reed,$59.99 ,9,662,Dallas,55,F,Single ,No
+7494-9007-2811-6660, Jonathan   , Murphy,$175.90 ,9,689,Dallas,48,M,Single ,Yes
+7057-7762-7092-8520, Isaac      , Rivera,$114.67 ,10,748,Addison,37,F,Single ,No
+9724-3314-8908-0390, Jack       , Ramirez,$232.93 ,9,711,Dallas,31,Female,Single ,No
+3188-5293-2150-5920, Levi       , Bennett,$74.66 ,3,295,Frisco,33,Male,Single ,No
+7072-8988-0715-9240, Evelyn     , Barnes,$211.34 ,6,467,Irving,40,M,Single ,No
+6039-1667-4550-2050, Charlie    , Foster,$176.90 ,11,774,Dallas,48,M,Single ,No
+6426-0304-6773-4080, Tristan    , Ford,$102.37 ,1,158,Plano,35,f,Single ,No
+4477-3656-3524-6600, Jace       , Graham,$143.44 ,4,375,Dallas,59,Male,Single ,Yes
+4710-2690-4985-9610, Emma      , Reynolds,$77.34 ,4,329,Addison,44,F,Single ,No
+3235-6232-2278-6350, Isaiah    , Marshall,$61.28 ,6,441,Plano,41,F,Single ,Yes
+5620-8023-3277-0060, Madison   , Gomez,$195.50 ,8,591,Dallas,42,Female,Single ,No
+2029-1141-0477-2880, Elijah    , Stevens,$266.17 ,6,452,Dallas,46,m,Single ,Yes
+1170-0171-1478-5980, Amelia    , Tucker,$131.69 ,11,831,Frisco,40,Male,Single ,No
+4493-8151-3225-7700, Benjamin  , Hunter,$169.86 ,3,286,Irving,37,M,Single ,No
+9444-7130-4798-2920, Elizabeth , Mason,$435.90 ,7,590,Plano,38,Male,Single ,No
+2408-5106-9703-4060, Aiden     , Warren,$94.51 ,5,384,Arlington,51,F,Single ,Yes
+8432-6430-7394-4200, Joseph    , Gordon,$451.68 ,10,737,Dallas,42,M,Single ,No
+4111-8717-3034-9610, Sophia    , Holmes,$452.79 ,7,579,Addison,56,m,Single ,No
+4269-7324-4252-9400, Lucas     , Mills,$160.05 ,2,187,Plano,44,f,Single ,No
+9344-1859-4944-7380, Mason     , Nichols,$62.77 ,2,144,Rockwall,34,f,Single ,No
+6570-8645-8830-9270, Joseph    , Berry,$20.82 ,10,746,Plano,43,f,Single ,Yes
+4214-8822-5724-7870, Emily     , Matthews,$322.05 ,8,651,Plano,34,F,Single ,Yes
+4167-4901-6159-4950, Joshua    , Carroll,$305.45 ,11,862,Plano,42,M,Single ,Yes
+1550-9658-7980-2100, Olivia    , Cunningham,$316.89 ,10,791,Irving,39,M,Single ,No
+2095-6295-0051-2470, Elijah    , Carpenter,$49.43 ,3,272,Arlington,36,F,Single ,Yes
+3186-8642-8604-0760, Joseph    , Austin,$331.47 ,4,345,Addison,41,m,Single ,No
+5966-9142-4267-7090, Andrew    , Kelley,$435.72 ,10,769,Addison,41,M,Single ,Yes
+4626-3684-8511-7690, Emma      , Schmidt,$497.70 ,9,631,Rockwall,31,f,Single ,No
+3819-0730-7644-8690, Olivia    , Castillo,$101.14 ,7,490,Dallas,41,F,Single ,No
+2636-1361-4030-2230, Benjamin   , Baker,$188.19 ,3,250,Dallas,36,F,Widowed,No
+6276-3858-6744-4840, Adrian     , Henderson,$92.74 ,3,279,Farmer's Branch,41,F,Widowed,Yes
+6789-7988-2542-4850, Olivia    , Black,$106.83 ,5,356,Dallas,48,F,Widowed,Yes
+5856-4661-6625-9230, James     , Gardner,$32.06 ,7,589,Addison,45,Male,Widowed,No
+7809-0959-1120-8530, Christopher, Ray,$305.33 ,10,755,Dallas,46,M,Widowed,Yes
+4905-7500-0000-0000,Isabella,Martinez,$76.93 ,2,214,McKinney,56,Female,Widowed,Yes
+4809-7400-0000-0000,Harper,White,$218.13 ,8,582,McKinney,32,Female,Widowed,No
+4257-3200-0000-0000,Alexander,Lewis,$445.96 ,10,781,Arlington,59,Female,Widowed,Yes
+4511-2800-0000-0000,Amelia,Garcia,$21.89 ,4,293,Rockwall,47,Male,Widowed,Yes
+4405-0200-0000-0000,Charlotte,White,$84.04 ,4,366,Frisco,51,Male,Widowed,No
+4541-6700-0000-0000,Aiden,Hernandez,$447.97 ,9,667,Farmers Branch,38,Female,Widowed,No
+4486-7200-0000-0000,Harper,Williams,$240.50 ,4,301,Addison,38,Male,Widowed,No
+4380-6400-0000-0000,Alexander,Anderson,$119.32 ,6,516,Arlington,33,Male,Widowed,No
+4045-5000-0000-0000,Mia,Perez,$577.77 ,9,682,Addison,59,Female,Widowed,No
+4314-1900-0000-0000,Sophia,Thomas,$266.61 ,7,576,Plano,60,Male,Widowed,Yes
+4969-5900-0000-0000,Harper,Gonzalez,$138.27 ,7,532,Frisco,40,Male,Widowed,Yes
+4536-7900-0000-0000,Elijah,Clark,$64.61 ,11,772,Arlington,58,Male,Widowed,Yes
+4894-3900-0000-0000,Michael,Martinez,$467.26 ,9,699,Farmers Branch,38,Female,Widowed,Yes
+4077-8300-0000-0000,Ava,Rodriguez,$211.51 ,7,516,Frisco,48,Male,Widowed,Yes
+4108-1100-0000-0000,Isabella,White,$446.66 ,6,476,Frisco,57,Male,Widowed,Yes
+4064-1800-0000-0000,Isabella,Wilson,$55.97 ,5,407,Addison,36,Male,Widowed,No
+4036-8100-0000-0000,Benjamin,Davis,$27.24 ,10,777,McKinney,57,Female,Widowed,Yes
+4221-7800-0000-0000,Isabella,Thomas,$104.63 ,5,375,Farmers Branch,31,Female,Widowed,Yes
+4750-2600-0000-0000,Olivia,Davis,$512.50 ,8,573,Farmers Branch,38,Female,Widowed,Yes
+4067-0500-0000-0000,Elijah,Martinez,$180.83 ,7,569,Addison,34,Male,Widowed,Yes
+4109-2500-0000-0000,Michael,Thomas,$142.58 ,5,371,Dallas,51,Male,Widowed,No
+4595-4900-0000-0000,Jackson,Gonzalez,$92.39 ,10,702,Plano,60,Female,Widowed,Yes
+4484-3300-0000-0000,Jackson,Jones,$190.49 ,5,388,Farmers Branch,49,Male,Widowed,No
+4280-5800-0000-0000,Michael,Hernandez,$322.14 ,7,509,Farmers Branch,40,Male,Widowed,No
+4945-6000-0000-0000,Amelia,Lee,$303.75 ,10,706,Dallas,57,Female,Widowed,Yes
+4910-8200-0000-0000,Ethan,Hernandez,$218.66 ,5,407,Dallas,36,Male,Widowed,No
+4564-3000-0000-0000,Oliver,Thomas,$17.22 ,8,651,McKinney,38,Male,Widowed,No
+4527-0900-0000-0000,Benjamin,Williams,$512.65 ,8,567,Irving,49,Male,Widowed,No
+4919-8400-0000-0000,Jackson,Garcia,$176.42 ,10,782,Farmers Branch,34,Female,Widowed,No
+4607-1100-0000-0000,Mia,Taylor,$104.30 ,11,797,Addison,56,Female,Widowed,Yes
+4136-0900-0000-0000,Mia,Jones,$12.59 ,7,549,Arlington,44,Male,Widowed,Yes
+4790-8200-0000-0000,John,Harris,$114.07 ,10,726,McKinney,46,Female,Widowed,No
+4134-8400-0000-0000,Logan,Davis,$211.65 ,5,426,Arlington,32,Male,Widowed,Yes
+4477-8800-0000-0000,Oliver,Lee,$17.26 ,9,722,Dallas,59,Female,Widowed,Yes
+4876-2500-0000-0000,Jackson,Harris,$530.72 ,10,780,Addison,58,Male,Widowed,Yes
+4556-6600-0000-0000,Aiden,Rodriguez,$49.91 ,8,613,Frisco,54,Female,Widowed,Yes
+4460-9900-0000-0000,Liam,Williams,$215.02 ,9,697,McKinney,51,Female,Widowed,No
+4695-7300-0000-0000,Lucas,Clark,$97.36 ,10,740,Farmers Branch,34,Male,Widowed,No
+4229-2300-0000-0000,Liam,Anderson,$194.28 ,3,278,Arlington,55,Female,Widowed,No
+4756-4200-0000-0000,Mia,Perez,$58.50 ,1,102,Dallas,33,Male,Widowed,No
+4721-6400-0000-0000,Michael,Davis,$58.01 ,4,327,McKinney,73,Male,Divorced,No
+4960-9000-0000-0000,Aiden,Hernandez,$643.20 ,9,697,Frisco,65,Female,Divorced,No
+4655-6900-0000-0000,Mia,Perez,$176.33 ,7,566,Irving,63,Female,Divorced,Yes
+4766-3800-0000-0000,Sophia,Clark,$115.84 ,6,510,Addison,76,Male,Divorced,No
+4869-1900-0000-0000,Harper,Thomas,$65.94 ,7,579,Farmers Branch,65,Female,Divorced,No
+4289-8000-0000-0000,Mia,Harris,$148.01 ,4,296,Farmers Branch,68,Male,Divorced,No
+4521-2800-0000-0000,Charlotte,Lee,$96.22 ,3,221,Farmers Branch,61,Male,Divorced,No
+4209-7300-0000-0000,John,Hernandez,$95.70 ,3,276,Dallas,62,Male,Divorced,Yes
+4767-9500-0000-0000,Lucas,Rodriguez,$96.79 ,5,426,Addison,77,Female,Divorced,Yes
+4701-3500-0000-0000,Harper,Smith,$362.83 ,9,719,Dallas,70,Male,Divorced,No
+4929-2400-0000-0000,Harper,Rodriguez,$581.27 ,10,711,Plano,72,Female,Divorced,No
+4313-2700-0000-0000,Alexander,Lee,$161.77 ,3,223,Arlington,79,Female,Divorced,Yes
+4312-8200-0000-0000,Liam,Hernandez,$241.66 ,8,626,Addison,72,Female,Divorced,No
+4581-0900-0000-0000,Benjamin,Jones,$138.32 ,9,706,Plano,65,Female,Divorced,Yes
+4034-3800-0000-0000,Benjamin,Taylor,$13.66 ,5,369,Rockwall,71,Male,Divorced,Yes
+4671-3700-0000-0000,Oliver,Wilson,$151.16 ,6,443,Farmers Branch,80,Male,Divorced,No
+4582-6500-0000-0000,Sophia,Smith,$218.85 ,4,298,Frisco,68,Female,Divorced,No
+4484-2400-0000-0000,Alexander,Hernandez,$347.65 ,6,430,Irving,80,Male,Divorced,Yes
+4787-3000-0000-0000,Logan,Thomas,$287.15 ,5,426,Dallas,66,Female,Divorced,No
+4719-1500-0000-0000,Michael,Martinez,$339.94 ,5,396,Dallas,68,Female,Divorced,No
+4200-3500-0000-0000,John,Anderson,$251.49 ,4,344,Arlington,67,Male,Divorced,Yes
+4547-9000-0000-0000,Logan,White,$333.06 ,8,611,Rockwall,66,Male,Divorced,Yes
+4922-9600-0000-0000,Isabella,Wilson,$187.45 ,3,297,Irving,79,Male,Divorced,Yes
+4876-3200-0000-0000,Amelia,Taylor,$73.09 ,5,435,Arlington,61,Male,Married,No
+4287-8600-0000-0000,Charlotte,Wilson,$43.38 ,9,665,Dallas,78,Female,Married,Yes
+4398-5600-0000-0000,Amelia,Clark,$266.16 ,6,427,Frisco,77,Male,Married,Yes
+4867-9000-0000-0000,Michael,Thomas,$220.31 ,8,633,Frisco,69,Male,Married,No
+4432-3400-0000-0000,Ethan,White,$136.13 ,10,731,Frisco,70,Female,Married,Yes
+4727-1300-0000-0000,John,Williams,$626.61 ,9,668,Plano,79,Female,Married,Yes
+4556-5000-0000-0000,John,Rodriguez,$461.09 ,7,554,McKinney,62,Female,Married,Yes
+4014-4700-0000-0000,Mia,Perez,$503.93 ,7,568,Plano,66,Female,Married,No
+4084-1900-0000-0000,Sophia,Taylor,$436.51 ,10,718,Dallas,75,Male,Married,No
+4728-2200-0000-0000,Sophia,Lewis,$210.84 ,9,695,Rockwall,64,Male,Married,No
+4438-1100-0000-0000,Logan,Wilson,$570.73 ,10,774,Arlington,75,Male,Married,No
+4060-7000-0000-0000,Ava,Martinez,$368.11 ,10,724,Farmers Branch,78,Female,Married,Yes
+4943-3200-0000-0000,John,Lee,$414.55 ,6,482,McKinney,72,Male,Married,Yes
+4749-3900-0000-0000,Isabella,Taylor,$348.14 ,4,359,Arlington,73,Male,Married,Yes
+4675-5500-0000-0000,Ava,Wilson,$60.77 ,7,537,Dallas,80,Male,Married,Yes
+4130-6000-0000-0000,Amelia,Hernandez,$671.90 ,11,838,Arlington,73,Female,Married,Yes
+4322-2700-0000-0000,Isabella,Wilson,$15.06 ,8,626,Addison,63,Male,Married,No
+4315-2300-0000-0000,Mia,Harris,$90.13 ,4,377,Frisco,65,Male,Married,Yes
+4883-3300-0000-0000,Harper,Thomas,$72.66 ,2,170,Rockwall,75,Male,Married,Yes
+4489-3600-0000-0000,Ava,Anderson,$214.25 ,8,580,Arlington,74,Female,Married,No
+4189-8100-0000-0000,Jackson,Smith,$185.08 ,10,750,Arlington,70,Female,Married,Yes
+4020-4700-0000-0000,Liam,Hernandez,$194.85 ,6,443,Irving,67,Male,Married,No
+4951-9600-0000-0000,Isabella,Anderson,$381.72 ,10,775,Dallas,79,Male,Married,No
+4349-8400-0000-0000,Mia,Perez,$14.25 ,5,416,Farmers Branch,70,Male,Married,Yes
+4563-0000-0000-0000,Isabella,Garcia,$52.57 ,9,712,Irving,64,Male,Married,Yes
+4281-5700-0000-0000,Jackson,Wilson,$36.67 ,7,554,Plano,68,Female,Married,Yes
+4015-2400-0000-0000,Lucas,Williams,$10.55 ,3,211,Frisco,74,Female,Married,No
+4984-4800-0000-0000,Michael,Harris,$334.18 ,11,778,Farmers Branch,64,Male,Married,Yes
+4566-0000-0000-0000,Elijah,Perez,$40.77 ,10,728,Farmers Branch,79,Male,Married,Yes
+4523-2700-0000-0000,Lucas,Rodriguez,$377.79 ,6,432,Addison,72,Male,Married,Yes
+4105-2600-0000-0000,Logan,Martinez,$329.81 ,11,802,Irving,71,Female,Married,No
+4173-8200-0000-0000,Liam,Smith,$266.02 ,4,299,Rockwall,76,Male,Married,No
+4558-4200-0000-0000,Sophia,Clark,$208.86 ,4,331,Plano,65,Male,Married,No
+4561-1200-0000-0000,Aiden,Williams,$346.31 ,11,865,McKinney,78,Male,Single,Yes
+4530-2700-0000-0000,Charlotte,Perez,$291.69 ,5,447,Plano,78,Female,Single,No
+4664-7900-0000-0000,Sophia,Harris,$350.40 ,7,570,Addison,70,Male,Single,No
+4998-9800-0000-0000,Liam,Taylor,$129.94 ,7,577,Rockwall,63,Female,Single,Yes
+4596-1900-0000-0000,Harper,Anderson,$477.90 ,8,561,Farmers Branch,62,Female,Single,Yes
+4365-3400-0000-0000,Oliver,Martinez,$11.31 ,10,794,Plano,61,Female,Single,Yes
+4173-0100-0000-0000,Lucas,Lee,$245.97 ,10,733,Arlington,80,Male,Single,Yes
+4322-5200-0000-0000,Liam,Smith,$385.58 ,8,652,Dallas,74,Male,Single,Yes
+4965-8200-0000-0000,Aiden,Clark,$328.31 ,10,770,McKinney,70,Female,Single,No
+4600-3600-0000-0000,John,Anderson,$125.37 ,7,528,Plano,71,Male,Single,No
+4827-0700-0000-0000,Lucas,Martinez,$625.32 ,8,653,Frisco,76,Male,Single,No
+4256-1300-0000-0000,Liam,Davis,$207.01 ,9,641,Rockwall,78,Male,Single,Yes
+4278-4300-0000-0000,Olivia,Williams,$506.68 ,7,575,Rockwall,70,Female,Single,Yes
+4479-0300-0000-0000,Olivia,Davis,$110.11 ,8,622,Rockwall,76,Female,Single,Yes
+4921-3900-0000-0000,Amelia,Smith,$5.16 ,2,221,McKinney,69,Male,Single,Yes
+4232-7600-0000-0000,Ethan,Rodriguez,$402.08 ,7,552,Frisco,80,Female,Single,No
+4945-1000-0000-0000,Harper,Rodriguez,$250.19 ,9,672,Addison,64,Male,Single,Yes
+4218-3700-0000-0000,Benjamin,White,$33.34 ,11,810,Arlington,71,Female,Single,Yes
+4884-2200-0000-0000,Amelia,Jones,$23.58 ,3,280,McKinney,64,Male,Single,Yes
+4056-6600-0000-0000,Alexander,Williams,$124.34 ,3,261,Plano,75,Male,Single,No
+4713-5400-0000-0000,Oliver,Gonzalez,$363.30 ,4,374,Farmers Branch,70,Male,Single,Yes
+4895-5500-0000-0000,Jackson,Davis,$203.89 ,3,216,Plano,74,Female,Single,Yes
+4685-2600-0000-0000,Benjamin,Harris,$135.01 ,11,770,Frisco,64,Female,Single,Yes
+4044-5900-0000-0000,Charlotte,Perez,$111.50 ,7,554,McKinney,79,Female,Single,No
+4155-4200-0000-0000,Lucas,Thomas,$26.51 ,5,419,Frisco,65,Female,Single,No
+4294-5500-0000-0000,Charlotte,Smith,$50.89 ,7,526,Dallas,73,Female,Single,Yes
+4452-3100-0000-0000,Jackson,Perez,$192.52 ,6,519,Rockwall,70,Male,Single,Yes
+9668-3704-6438-0890, Aiden     , Harper,$492.66 ,10,722,Plano,62,f,Single ,Yes
+4935-7400-0000-0000,Alexander,Anderson,$379.11 ,6,510,Addison,70,Female,Widowed,Yes
+4811-7600-0000-0000,Mia,Taylor,$272.26 ,6,459,Plano,77,Female,Widowed,Yes
+4742-9800-0000-0000,Jackson,Garcia,$48.87 ,5,427,Irving,70,Male,Widowed,No
+4736-2500-0000-0000,Charlotte,Lee,$368.84 ,8,659,Rockwall,64,Female,Widowed,Yes
+4115-2700-0000-0000,Amelia,Wilson,$82.53 ,7,551,Plano,68,Female,Widowed,Yes
+4372-3900-0000-0000,Sophia,Taylor,$20.25 ,10,712,McKinney,62,Male,Widowed,Yes
+4954-9700-0000-0000,Aiden,Garcia,$131.22 ,6,490,Arlington,80,Male,Widowed,Yes
+4470-6800-0000-0000,Jackson,White,$274.74 ,10,764,Addison,73,Female,Widowed,No
+4283-0400-0000-0000,Olivia,Perez,$211.86 ,4,366,Addison,66,Female,Widowed,No
+4427-1300-0000-0000,Benjamin,Wilson,$84.63 ,5,356,Arlington,80,Male,Widowed,No
+4888-8000-0000-0000,Alexander,Lee,$128.97 ,8,590,Farmers Branch,76,Male,Widowed,No
+4553-0000-0000-0000,Amelia,Hernandez,$434.71 ,8,606,Farmers Branch,66,Male,Widowed,No
+4825-1500-0000-0000,Jackson,Martinez,$232.47 ,10,778,Irving,74,Male,Widowed,Yes
+4558-3200-0000-0000,Amelia,Davis,$193.51 ,8,595,Rockwall,79,Female,Widowed,Yes
+4680-7700-0000-0000,Mia,Martinez,$144.95 ,9,715,Frisco,79,Female,Widowed,Yes
+4008-3300-0000-0000,John,Thomas,$333.09 ,9,706,McKinney,62,Male,Widowed,No
+4469-7000-0000-0000,Aiden,Wilson,$142.99 ,8,577,Farmers Branch,64,Female,Widowed,Yes
+4692-7100-0000-0000,Ethan,Garcia,$511.55 ,8,561,Farmers Branch,74,Female,Widowed,No
+4638-6800-0000-0000,Michael,Perez,$112.36 ,6,448,Rockwall,64,Female,Widowed,No
+4338-2300-0000-0000,Amelia,Gonzalez,$458.29 ,8,597,Rockwall,67,Female,Widowed,No
+4150-2200-0000-0000,Elijah,Anderson,$245.55 ,4,377,Addison,67,Male,Widowed,No
+4943-5100-0000-0000,Sophia,Lee,$194.96 ,4,322,Farmers Branch,69,Female,Widowed,No
+4720-0700-0000-0000,Logan,Hernandez,$94.81 ,8,578,Irving,77,Female,Widowed,No
+4077-4400-0000-0000,Charlotte,Garcia,$22.31 ,3,296,Frisco,68,Male,Widowed,Yes
+4751-8500-0000-0000,Amelia,Lewis,$8.91 ,2,203,Addison,75,Female,Widowed,No
+4250-3100-0000-0000,John,Davis,$614.41 ,10,734,Arlington,86,Female,Divorced,Yes
+4493-5500-0000-0000,Sophia,Taylor,$489.17 ,10,769,Arlington,99,Female,Divorced,No
+4037-7100-0000-0000,Ethan,Anderson,$389.23 ,5,404,Irving,84,Female,Divorced,Yes
+4237-0400-0000-0000,Aiden,Wilson,$480.39 ,8,643,McKinney,99,Female,Divorced,Yes
+4794-2200-0000-0000,Sophia,White,$55.23 ,5,366,Plano,90,Female,Divorced,No
+4898-8600-0000-0000,John,Perez,$358.12 ,9,655,Farmers Branch,83,Female,Divorced,Yes
+4275-5500-0000-0000,Oliver,Martinez,$149.15 ,8,612,Rockwall,88,Female,Divorced,No
+4004-5900-0000-0000,Logan,Thomas,$272.97 ,11,781,Addison,100,Male,Divorced,No
+4398-4100-0000-0000,Logan,Lee,$399.34 ,10,748,Dallas,99,Female,Divorced,Yes
+4695-3900-0000-0000,Jackson,Rodriguez,$513.42 ,10,706,Addison,91,Female,Divorced,No
+4698-9800-0000-0000,Michael,Gonzalez,$503.37 ,10,702,Rockwall,99,Female,Divorced,No
+4535-0700-0000-0000,Lucas,Clark,$145.49 ,7,554,Plano,89,Female,Divorced,Yes
+4438-1200-0000-0000,Sophia,Garcia,$183.68 ,7,577,Plano,91,Male,Divorced,No
+4237-5000-0000-0000,Olivia,Perez,$291.74 ,10,780,Irving,89,Male,Divorced,No
+4049-6300-0000-0000,Sophia,Davis,$391.22 ,9,655,Plano,88,Male,Divorced,No
+4509-0500-0000-0000,Aiden,Clark,$433.38 ,9,671,Farmers Branch,92,Female,Divorced,No
+4639-5800-0000-0000,Aiden,Perez,$474.25 ,7,538,Rockwall,90,Female,Divorced,Yes
+4150-4300-0000-0000,Ava,Garcia,$156.69 ,11,866,Farmers Branch,90,Female,Divorced,Yes
+4448-5100-0000-0000,Harper,Perez,$226.89 ,6,489,Irving,100,Female,Divorced,Yes
+4998-0800-0000-0000,Alexander,Harris,$27.93 ,7,501,McKinney,87,Female,Divorced,Yes
+4380-3200-0000-0000,Charlotte,Wilson,$279.22 ,5,392,Dallas,101,Male,Divorced,No
+4414-5900-0000-0000,Alexander,Anderson,$12.37 ,9,709,Frisco,88,Female,Divorced,Yes
+4319-0300-0000-0000,Oliver,Lee,$460.97 ,9,641,McKinney,101,Female,Divorced,Yes
+4082-1900-0000-0000,Elijah,Lewis,$207.50 ,5,355,Addison,90,Male,Divorced,No
+4179-5100-0000-0000,Aiden,Gonzalez,$336.26 ,8,595,Rockwall,101,Male,Divorced,No
+4706-8500-0000-0000,Charlotte,Clark,$46.45 ,1,107,McKinney,101,Female,Divorced,Yes
+4364-0400-0000-0000,Logan,Perez,$402.58 ,8,657,Irving,93,Female,Divorced,Yes
+4561-8100-0000-0000,Mia,Martinez,$379.33 ,5,390,Arlington,81,Female,Divorced,No
+4688-4900-0000-0000,Elijah,Thomas,$588.70 ,10,778,Irving,94,Female,Divorced,Yes
+4232-1200-0000-0000,Jackson,Anderson,$258.25 ,4,338,Irving,82,Male,Divorced,No
+4191-2500-0000-0000,Benjamin,Thomas,$217.46 ,4,361,Addison,96,Female,Divorced,Yes
+4306-1700-0000-0000,Alexander,Lee,$339.73 ,4,355,Dallas,101,Female,Divorced,No
+4660-6000-0000-0000,Isabella,Thomas,$144.39 ,6,483,Dallas,95,Female,Divorced,No
+4632-0600-0000-0000,Amelia,Smith,$48.93 ,5,376,Addison,84,Male,Divorced,No
+4051-3300-0000-0000,Jackson,Clark,$199.19 ,10,777,Irving,100,Female,Married,No
+4118-2600-0000-0000,Amelia,Gonzalez,$199.39 ,8,596,Frisco,84,Female,Married,No
+4682-8600-0000-0000,Benjamin,Davis,$646.42 ,8,653,Frisco,91,Female,Married,No
+4428-9600-0000-0000,Ava,Perez,$215.39 ,9,710,Plano,88,Female,Married,Yes
+4280-0300-0000-0000,Liam,Clark,$301.57 ,11,803,McKinney,99,Male,Married,Yes
+4720-6200-0000-0000,Alexander,Martinez,$453.92 ,6,483,McKinney,82,Female,Married,Yes
+4415-5800-0000-0000,Olivia,White,$142.67 ,2,234,Dallas,88,Male,Married,No
+4142-0800-0000-0000,Michael,Lee,$347.51 ,8,606,Farmers Branch,99,Female,Married,No
+4632-5300-0000-0000,Aiden,Rodriguez,$174.29 ,2,204,Irving,98,Female,Married,Yes
+4016-3800-0000-0000,Oliver,Jones,$201.48 ,8,609,Rockwall,81,Male,Married,No
+4709-6800-0000-0000,Elijah,Lee,$162.77 ,9,677,Plano,82,Female,Married,Yes
+4641-0800-0000-0000,Jackson,Taylor,$123.14 ,8,585,Rockwall,85,Male,Married,Yes
+4954-2300-0000-0000,Lucas,Perez,$583.14 ,8,602,Addison,96,Female,Married,No
+4051-2500-0000-0000,Oliver,Clark,$372.37 ,11,772,Irving,87,Female,Married,No
+4604-7000-0000-0000,Harper,Lewis,$590.76 ,11,821,McKinney,100,Female,Married,Yes
+4715-5500-0000-0000,Aiden,White,$231.78 ,8,635,Dallas,88,Female,Married,No
+4073-3700-0000-0000,Olivia,Smith,$519.37 ,7,564,Rockwall,93,Male,Married,Yes
+4424-4900-0000-0000,Ethan,Wilson,$454.83 ,8,650,Frisco,87,Female,Married,Yes
+4582-5300-0000-0000,Liam,Wilson,$88.10 ,6,448,Arlington,90,Male,Married,Yes
+4870-5600-0000-0000,Aiden,Lee,$199.20 ,5,412,McKinney,83,Male,Married,Yes
+4516-0800-0000-0000,Aiden,Taylor,$253.09 ,9,718,Irving,95,Male,Married,No
+4487-9800-0000-0000,John,Anderson,$135.22 ,6,492,McKinney,91,Female,Married,Yes
+4140-2500-0000-0000,Harper,Gonzalez,$175.18 ,5,415,Rockwall,83,Male,Married,Yes
+4238-0100-0000-0000,Amelia,Jones,$436.26 ,10,748,Addison,84,Male,Married,No
+4966-3000-0000-0000,Lucas,Anderson,$538.95 ,11,818,McKinney,87,Female,Married,Yes
+4595-6600-0000-0000,Amelia,Thomas,$124.56 ,4,311,Farmers Branch,95,Male,Married,No
+4047-1400-0000-0000,Isabella,White,$194.83 ,6,422,Addison,95,Male,Married,Yes
+4496-3800-0000-0000,Benjamin,Anderson,$81.29 ,6,460,Rockwall,99,Female,Married,No
+4151-4100-0000-0000,Benjamin,Martinez,$256.59 ,7,527,Rockwall,93,Male,Single,Yes
+4741-9400-0000-0000,Liam,Harris,$89.26 ,8,635,McKinney,85,Male,Single,No
+4746-5200-0000-0000,Elijah,Davis,$537.08 ,10,701,Dallas,93,Female,Single,No
+4953-3400-0000-0000,Sophia,White,$492.49 ,10,779,Farmers Branch,98,Female,Single,No
+4811-5900-0000-0000,Sophia,Hernandez,$66.46 ,7,495,Frisco,83,Female,Single,No
+4809-8900-0000-0000,Mia,Harris,$266.82 ,5,375,Dallas,93,Female,Single,No
+4879-2100-0000-0000,Alexander,White,$239.20 ,9,676,Rockwall,93,Male,Single,No
+4931-0300-0000-0000,Benjamin,Wilson,$334.79 ,9,705,Farmers Branch,93,Female,Single,No
+4279-2200-0000-0000,Ava,Anderson,$298.08 ,4,319,Arlington,96,Female,Single,No
+4857-7100-0000-0000,Oliver,Harris,$363.44 ,9,689,Farmers Branch,87,Female,Single,No
+4623-6600-0000-0000,Mia,Thomas,$366.20 ,10,787,Irving,83,Male,Single,Yes
+4775-1600-0000-0000,Liam,Perez,$32.52 ,1,142,Farmers Branch,94,Male,Single,No
+4037-7000-0000-0000,Liam,Lee,$301.83 ,6,434,Dallas,88,Male,Single,No
+4064-0100-0000-0000,Liam,Lewis,$22.79 ,8,657,Rockwall,86,Male,Single,Yes
+4604-7200-0000-0000,Sophia,Rodriguez,$264.89 ,7,505,Farmers Branch,96,Male,Single,No
+4930-8800-0000-0000,Jackson,Clark,$201.28 ,3,250,Rockwall,99,Male,Single,No
+4616-9000-0000-0000,Ava,Lee,$336.16 ,8,561,Rockwall,82,Female,Single,No
+4539-4300-0000-0000,Mia,Davis,$487.38 ,9,650,Dallas,84,Female,Single,No
+4850-5600-0000-0000,Ava,Lee,$473.83 ,11,870,Frisco,91,Male,Single,Yes
+4076-3000-0000-0000,Oliver,Garcia,$540.34 ,8,572,Farmers Branch,85,Male,Single,No
+4434-5700-0000-0000,Harper,Clark,$340.00 ,10,777,Plano,85,Female,Single,Yes
+4626-2800-0000-0000,Liam,Anderson,$105.48 ,9,716,Addison,94,Male,Single,No
+4036-2200-0000-0000,Sophia,Wilson,$395.92 ,8,561,Farmers Branch,85,Female,Single,Yes
+4294-7200-0000-0000,Oliver,Williams,$18.91 ,1,94,Irving,98,Male,Single,Yes
+4252-1400-0000-0000,Ethan,Jones,$388.15 ,7,558,Arlington,81,Male,Single,Yes
+4351-0000-0000-0000,Charlotte,Hernandez,$562.24 ,8,640,Frisco,87,Female,Single,Yes
+4442-2700-0000-0000,Isabella,Wilson,$169.66 ,10,740,Frisco,82,Female,Single,No
+4964-8600-0000-0000,Isabella,Harris,$181.37 ,9,682,Farmers Branch,93,Male,Single,Yes
+4175-3900-0000-0000,Charlotte,Perez,$431.04 ,9,641,Frisco,91,Female,Single,Yes
+4302-1600-0000-0000,Mia,Clark,$120.43 ,2,194,Farmers Branch,92,Female,Single,Yes
+4123-4200-0000-0000,John,Harris,$436.28 ,9,647,Addison,100,Male,Single,Yes
+4592-2500-0000-0000,Ava,Jones,$608.46 ,9,666,McKinney,96,Male,Single,No
+4097-3100-0000-0000,Alexander,Clark,$58.38 ,1,120,Arlington,98,Male,Single,No
+4521-2400-0000-0000,Logan,Jones,$178.36 ,7,546,Frisco,86,Male,Single,No
+4961-4300-0000-0000,Elijah,Lee,$307.04 ,10,718,McKinney,81,Female,Single,Yes
+4885-7800-0000-0000,Benjamin,Lewis,$260.07 ,8,652,Dallas,100,Male,Single,Yes
+4459-2600-0000-0000,Benjamin,Rodriguez,$297.31 ,8,590,Frisco,98,Male,Single,No
+4469-0600-0000-0000,Lucas,Williams,$111.14 ,7,568,Rockwall,100,Male,Single,Yes
+4872-4200-0000-0000,Isabella,Rodriguez,$214.56 ,10,768,Rockwall,99,Female,Single,No
+4357-9200-0000-0000,Ava,Lewis,$116.43 ,3,217,Irving,82,Female,Single,Yes
+4824-5300-0000-0000,Jackson,Lee,$316.96 ,8,634,McKinney,83,Male,Single,Yes
+4658-2700-0000-0000,Liam,Williams,$229.85 ,10,707,McKinney,99,Female,Single,No
+4135-3400-0000-0000,Jackson,Taylor,$262.37 ,9,680,Plano,90,Female,Widowed,Yes
+4198-0500-0000-0000,Logan,Garcia,$402.80 ,7,500,Arlington,87,Male,Widowed,Yes
+4552-0700-0000-0000,Logan,Davis,$672.11 ,9,678,Irving,92,Female,Widowed,No
+4463-7400-0000-0000,Ava,Lewis,$108.75 ,11,861,Rockwall,93,Male,Widowed,No
+4352-3200-0000-0000,Sophia,Taylor,$241.47 ,10,707,Arlington,87,Male,Widowed,No
+4289-0300-0000-0000,Ethan,Thomas,$190.97 ,7,567,Irving,83,Female,Widowed,No
+4260-5100-0000-0000,Logan,Martinez,$375.72 ,9,634,Farmers Branch,95,Female,Widowed,No
+4575-7200-0000-0000,Oliver,Jones,$78.18 ,5,428,Rockwall,88,Male,Widowed,Yes
+4536-3100-0000-0000,Michael,Hernandez,$21.20 ,9,726,Farmers Branch,87,Male,Widowed,Yes
+4817-9900-0000-0000,Oliver,Williams,$264.40 ,9,654,Arlington,85,Male,Widowed,Yes
+4685-9600-0000-0000,Lucas,Jones,$265.68 ,3,295,Arlington,87,Male,Widowed,Yes
+4522-9800-0000-0000,Ethan,Garcia,$504.42 ,9,640,Farmers Branch,90,Male,Widowed,Yes
+4617-5600-0000-0000,Isabella,Wilson,$216.66 ,4,297,Rockwall,92,Female,Widowed,No
+4323-7500-0000-0000,Aiden,Harris,$236.46 ,5,429,Dallas,83,Female,Widowed,No
+4856-9500-0000-0000,Harper,Rodriguez,$11.79 ,3,224,Addison,89,Male,Widowed,No
+4395-4000-0000-0000,Logan,Williams,$407.70 ,11,843,Plano,93,Male,Widowed,No
+4466-7200-0000-0000,Jackson,Taylor,$205.76 ,10,719,Addison,85,Male,Widowed,Yes
+4038-7200-0000-0000,Logan,Martinez,$366.91 ,6,448,Rockwall,98,Female,Widowed,No
+4462-4000-0000-0000,Ethan,Clark,$179.44 ,4,348,Farmers Branch,87,Male,Widowed,Yes
+4666-1600-0000-0000,Liam,Anderson,$47.59 ,6,461,Rockwall,85,Male,Widowed,Yes
+4970-2300-0000-0000,Alexander,Harris,$269.84 ,9,712,Farmers Branch,98,Female,Widowed,No
+4293-9900-0000-0000,Benjamin,Lewis,$321.43 ,8,584,Addison,95,Male,Widowed,Yes
+4402-1200-0000-0000,Logan,Smith,$292.17 ,6,428,Plano,82,Male,Widowed,Yes
+4883-9300-0000-0000,Logan,Davis,$270.23 ,7,563,Rockwall,97,Female,Widowed,Yes
+4716-3400-0000-0000,Logan,Anderson,$589.88 ,8,618,Addison,90,Female,Widowed,Yes
+4329-0000-0000-0000,Alexander,Garcia,$468.19 ,10,778,Addison,100,Male,Widowed,No
+4105-8400-0000-0000,Elijah,Lee,$58.16 ,11,851,Addison,83,Female,Widowed,Yes
+4201-9100-0000-0000,Logan,Taylor,$203.54 ,9,662,Addison,87,Male,Widowed,No
+4498-5100-0000-0000,Charlotte,Hernandez,$343.69 ,7,543,Dallas,98,Male,Widowed,Yes
+4366-9400-0000-0000,Michael,Williams,$49.47 ,2,154,Dallas,100,Female,Widowed,Yes
+4434-9500-0000-0000,Sophia,Clark,$41.25 ,4,347,Rockwall,81,Male,Widowed,No
+4166-0800-0000-0000,Ethan,Martinez,$258.55 ,3,264,McKinney,94,Female,Widowed,Yes
+4105-5200-0000-0000,Harper,Hernandez,$78.51 ,9,706,Frisco,29,Female,Divorced,No
+4203-7100-0000-0000,Elijah,Perez,$159.11 ,9,634,Plano,28,Male,Divorced,Yes
+4038-7800-0000-0000,Oliver,Hernandez,$230.57 ,5,378,Frisco,30,Male,Divorced,No
+4154-0600-0000-0000,Ethan,Lee,$292.94 ,8,600,Farmers Branch,26,Male,Divorced,Yes
+4771-1100-0000-0000,Ethan,Lee,$61.46 ,3,310,Frisco,30,Male,Divorced,Yes
+4338-8000-0000-0000,Aiden,Perez,$226.28 ,8,601,Plano,23,Female,Divorced,No
+4350-3700-0000-0000,Charlotte,Jones,$444.40 ,8,571,Frisco,27,Male,Divorced,No
+4314-6900-0000-0000,Charlotte,Thomas,$82.93 ,7,573,Farmers Branch,25,Female,Divorced,Yes
+4833-2700-0000-0000,John,Williams,$305.55 ,4,330,Addison,21,Male,Divorced,Yes
+4336-9300-0000-0000,Ethan,Clark,$484.09 ,7,551,Arlington,30,Male,Divorced,Yes
+4453-9900-0000-0000,Amelia,Gonzalez,$365.16 ,6,428,Addison,22,Male,Divorced,Yes
+4348-8000-0000-0000,Liam,Lee,$669.55 ,10,711,Irving,26,Male,Divorced,No
+4640-3500-0000-0000,Harper,Davis,$117.52 ,3,295,Addison,29,Male,Divorced,No
+4758-0200-0000-0000,Benjamin,Taylor,$181.74 ,10,720,Arlington,29,Female,Divorced,Yes
+4118-6300-0000-0000,Ethan,White,$397.89 ,8,649,Plano,27,Male,Divorced,No
+4413-3200-0000-0000,Sophia,Davis,$72.96 ,4,315,McKinney,26,Female,Divorced,No
+4841-0800-0000-0000,Ethan,Wilson,$42.95 ,1,135,Addison,21,Male,Divorced,No
+4103-0400-0000-0000,Olivia,Gonzalez,$218.75 ,6,500,Arlington,29,Male,Divorced,No
+4205-8100-0000-0000,Michael,Garcia,$125.56 ,1,129,Plano,18,Female,Divorced,No
+4578-3400-0000-0000,Oliver,Anderson,$264.29 ,4,329,Farmers Branch,25,Female,Divorced,Yes
+4556-7700-0000-0000,Olivia,Lee,$157.52 ,8,601,Plano,27,Female,Divorced,No
+4891-7000-0000-0000,Lucas,Lee,$306.32 ,5,416,Rockwall,20,Male,Divorced,Yes
+4375-5800-0000-0000,Liam,White,$549.78 ,10,755,Rockwall,29,Male,Divorced,Yes
+9140-3674-0115-7990, Chloe      , Nelson,$105.19 ,3,221,Dallas,23,M,Married,Yes
+4166-9499-7941-7530, Emily     , Fields,$279.83 ,9,704,McKinney,30,F,Married,Yes
+9037-6212-8895-1430, Ava       , Wheeler,$296.08 ,7,577,Dallas,30,F,Married,Yes
+4091-0600-0000-0000,John,Hernandez,$267.64 ,4,346,Rockwall,19,Male,Married,No
+4973-2500-0000-0000,Harper,Gonzalez,$308.56 ,7,586,Farmers Branch,29,Male,Married,Yes
+4173-7200-0000-0000,Jackson,Harris,$98.31 ,7,516,Farmers Branch,29,Female,Married,Yes
+4347-3300-0000-0000,Oliver,Thomas,$380.28 ,8,657,Rockwall,20,Male,Married,No
+4844-8300-0000-0000,Michael,Martinez,$412.00 ,5,422,McKinney,25,Female,Married,Yes
+4305-3300-0000-0000,Benjamin,Smith,$366.92 ,8,561,Addison,23,Female,Married,No
+4512-1100-0000-0000,Harper,Lee,$484.11 ,11,786,Arlington,23,Male,Married,No
+4221-0700-0000-0000,Charlotte,Thomas,$134.46 ,7,498,Addison,25,Male,Married,Yes
+4503-9200-0000-0000,Amelia,Davis,$159.48 ,6,484,Irving,24,Female,Married,No
+4138-5300-0000-0000,Jackson,Gonzalez,$367.17 ,10,784,Plano,30,Female,Married,Yes
+4282-0900-0000-0000,Logan,Hernandez,$196.44 ,2,223,Farmers Branch,23,Female,Married,Yes
+4267-7900-0000-0000,Ava,Jones,$351.28 ,6,515,Farmers Branch,30,Male,Married,Yes
+4939-7700-0000-0000,Alexander,Clark,$292.90 ,9,674,Farmers Branch,28,Female,Married,No
+4925-1700-0000-0000,Sophia,Lewis,$381.25 ,5,443,Irving,18,Male,Married,No
+4250-2900-0000-0000,Liam,Williams,$366.74 ,9,686,Plano,21,Female,Married,No
+4510-8000-0000-0000,Alexander,Anderson,$133.97 ,8,590,Addison,29,Male,Married,Yes
+4956-7800-0000-0000,Harper,Thomas,$264.07 ,7,578,Arlington,27,Female,Married,No
+4885-3500-0000-0000,Charlotte,Davis,$272.91 ,10,778,Farmers Branch,18,Male,Married,No
+4747-2100-0000-0000,Lucas,Lewis,$349.37 ,11,774,Farmers Branch,19,Female,Single,Yes
+4250-4400-0000-0000,Alexander,Garcia,$607.88 ,11,817,Irving,29,Male,Single,No
+4339-3700-0000-0000,Alexander,Perez,$24.77 ,6,449,Dallas,25,Male,Single,No
+4662-9900-0000-0000,Olivia,Lee,$125.73 ,9,705,Arlington,27,Male,Single,Yes
+4121-2900-0000-0000,Elijah,Jones,$193.12 ,9,687,Farmers Branch,29,Female,Single,Yes
+4377-2800-0000-0000,Ava,Gonzalez,$420.99 ,9,645,Plano,18,Female,Single,Yes
+4027-8600-0000-0000,Amelia,Jones,$291.49 ,9,709,Frisco,24,Female,Single,No
+4982-5100-0000-0000,John,Lewis,$126.59 ,11,833,Irving,21,Male,Single,Yes
+4307-8200-0000-0000,Harper,Jones,$356.70 ,5,395,Plano,19,Male,Single,Yes
+4657-7100-0000-0000,Mia,White,$91.41 ,7,573,Frisco,26,Male,Single,No
+4554-6800-0000-0000,Charlotte,Garcia,$27.03 ,6,480,Irving,21,Female,Single,No
+4790-4900-0000-0000,Alexander,Harris,$302.59 ,7,519,Arlington,21,Male,Single,Yes
+4807-6400-0000-0000,Amelia,Williams,$234.81 ,4,360,Farmers Branch,28,Female,Single,No
+4908-3000-0000-0000,Aiden,Wilson,$297.29 ,5,394,Addison,30,Female,Single,Yes
+4767-1000-0000-0000,Ava,White,$86.49 ,10,787,Addison,22,Male,Single,Yes
+4879-5500-0000-0000,Mia,Hernandez,$186.13 ,7,502,Irving,29,Male,Single,No
+4584-0100-0000-0000,Mia,Garcia,$129.61 ,1,148,Addison,25,Male,Single,No
+4137-6400-0000-0000,Michael,Clark,$376.79 ,7,560,Frisco,26,Female,Single,Yes
+2812-1851-8676-7610, Mia        , Gonzalez,$57.80 ,10,720,Plano,29,F,Single ,Yes
+2735-0229-7750-9480, Emily      , Green,$226.69 ,3,236,Arlington,29,F,Single ,Yes
+4857-6600-0000-0000,Isabella,Harris,$293.00 ,4,311,Farmers Branch,28,Female,Widowed,Yes
+4687-5200-0000-0000,Ethan,Taylor,$410.03 ,8,605,Dallas,26,Male,Widowed,Yes
+4276-6200-0000-0000,Lucas,Davis,$250.61 ,6,517,McKinney,30,Female,Widowed,No
+4062-2000-0000-0000,Aiden,Taylor,$107.57 ,3,310,Frisco,24,Male,Widowed,No
+4077-6700-0000-0000,Ethan,Rodriguez,$312.06 ,6,440,McKinney,28,Male,Widowed,No
+4371-5200-0000-0000,Ava,Anderson,$15.26 ,11,776,Addison,24,Male,Widowed,Yes
+4440-9300-0000-0000,Lucas,Wilson,$198.19 ,5,420,Farmers Branch,19,Male,Widowed,No
+4457-1800-0000-0000,Aiden,Hernandez,$197.46 ,8,634,Farmers Branch,21,Female,Widowed,Yes
+4020-8200-0000-0000,Ethan,Rodriguez,$672.31 ,11,772,Dallas,19,Male,Widowed,Yes
+4013-1800-0000-0000,Ethan,Harris,$113.03 ,9,712,Frisco,25,Female,Widowed,No
+4248-3000-0000-0000,Benjamin,Gonzalez,$117.10 ,7,514,McKinney,22,Female,Widowed,No
+4198-5300-0000-0000,Harper,Jones,$506.32 ,9,648,Irving,29,Male,Widowed,No
+4918-2300-0000-0000,Isabella,Wilson,$206.80 ,3,297,Frisco,26,Female,Widowed,No
+4878-3400-0000-0000,Liam,Williams,$395.59 ,6,449,Rockwall,26,Female,Widowed,Yes
+4975-8300-0000-0000,Sophia,Perez,$116.44 ,5,435,Farmers Branch,23,Female,Widowed,No
+4158-8200-0000-0000,Lucas,Wilson,$205.53 ,4,379,Irving,25,Male,Widowed,No
+4720-5900-0000-0000,Mia,Clark,$73.10 ,5,381,Frisco,22,Male,Widowed,No
+4728-7700-0000-0000,Mia,Davis,$138.25 ,6,425,Addison,20,Female,Widowed,Yes
+4198-8600-0000-0000,Amelia,Jones,$39.47 ,6,467,Irving,29,Male,Widowed,Yes
+4380-5500-0000-0000,Aiden,Taylor,$399.98 ,5,415,McKinney,22,Female,Widowed,Yes
+4609-2300-0000-0000,Alexander,Rodriguez,$304.50 ,5,427,Frisco,26,Male,Widowed,No
+4346-5000-0000-0000,Ethan,Garcia,$640.82 ,10,711,Farmers Branch,25,Male,Widowed,No
+4315-0800-0000-0000,Charlotte,Gonzalez,$129.22 ,9,659,Arlington,22,Female,Widowed,No
+4991-8900-0000-0000,Alexander,Thomas,$332.69 ,7,569,Arlington,22,Female,Widowed,Yes
+4592-4900-0000-0000,John,Anderson,$256.14 ,8,620,Farmers Branch,18,Male,Widowed,Yes
+6330-6256-1908-0340, Benjamin   , Wilson,$590.16 ,9,648,Rockwall,55,F,Divorced,No
+8908-0213-8856-8550, Zoe        , Phillips,$323.95 ,10,746,Irving,32,Male,Divorced,Yes
+7381-9457-9461-3490, Luke       , Gray,$361.25 ,10,722,Rockwall,55,F,Divorced,No
+2053-1254-2981-8320, Penelope   , Patterson,$317.91 ,10,765,Dallas,40,F,Divorced,No
+9520-5757-7972-9560, Luke      , Porter,$171.77 ,9,720,Addison,38,M,Divorced,No
+9327-2310-3555-0770, Christopher, Peters,$17.68 ,3,304,Irving,52,Male,Divorced,Yes
+4353-6874-0827-6750, Sophia    , Vasquez,$79.83 ,2,211,Arlington,51,f,Divorced,Yes
+4919-6000-0000-0000,Mia,White,$276.89 ,9,685,McKinney,38,Male,Divorced,Yes
+4553-1200-0000-0000,Benjamin,Lee,$200.50 ,5,431,McKinney,58,Female,Divorced,No
+4856-4100-0000-0000,Olivia,Hernandez,$599.12 ,10,752,Plano,45,Male,Divorced,No
+4212-7600-0000-0000,Ethan,Anderson,$150.80 ,5,447,Dallas,53,Male,Divorced,Yes
+4747-0600-0000-0000,Mia,Garcia,$159.94 ,5,363,Dallas,36,Male,Divorced,Yes
+4589-9300-0000-0000,Mia,Hernandez,$422.29 ,11,820,McKinney,35,Female,Divorced,Yes
+4145-6200-0000-0000,Amelia,Anderson,$232.80 ,2,235,McKinney,59,Male,Divorced,No
+4219-1200-0000-0000,Aiden,Lee,$511.77 ,8,633,Farmers Branch,57,Male,Divorced,No
+4057-5400-0000-0000,Michael,Anderson,$15.78 ,9,673,Farmers Branch,35,Female,Divorced,Yes
+4197-0200-0000-0000,Mia,Wilson,$300.44 ,7,567,Dallas,53,Female,Divorced,No
+4095-9300-0000-0000,Benjamin,Hernandez,$605.80 ,10,724,Rockwall,48,Female,Divorced,No
+4041-0900-0000-0000,Isabella,Taylor,$200.92 ,5,424,Plano,49,Male,Divorced,Yes
+4684-0300-0000-0000,Aiden,Rodriguez,$10.62 ,9,690,Irving,43,Male,Divorced,Yes
+4537-3100-0000-0000,Alexander,Davis,$576.71 ,8,596,Dallas,54,Female,Divorced,No
+4873-6700-0000-0000,Liam,Smith,$477.13 ,8,636,Irving,45,Female,Divorced,No
+4676-9800-0000-0000,Alexander,Garcia,$529.27 ,10,798,Plano,50,Female,Divorced,No
+4556-1300-0000-0000,Logan,Wilson,$289.10 ,9,641,McKinney,44,Female,Divorced,Yes
+4151-4400-0000-0000,Alexander,Williams,$210.14 ,5,389,McKinney,52,Male,Divorced,Yes
+4092-4700-0000-0000,Sophia,Rodriguez,$62.00 ,10,770,Arlington,47,Female,Divorced,Yes
+4254-5300-0000-0000,Elijah,Jones,$586.96 ,9,655,Frisco,39,Female,Divorced,No
+4926-7600-0000-0000,Liam,Lewis,$533.68 ,10,789,Irving,40,Female,Divorced,Yes
+4959-3900-0000-0000,Aiden,Anderson,$26.28 ,2,163,Irving,54,Female,Divorced,Yes
+4219-8300-0000-0000,Olivia,Lewis,$209.62 ,5,386,Farmers Branch,52,Male,Divorced,No
+4371-0100-0000-0000,Benjamin,Gonzalez,$460.41 ,7,502,Frisco,54,Male,Divorced,Yes
+4578-8300-0000-0000,Ethan,Martinez,$626.89 ,10,788,Frisco,48,Female,Divorced,Yes
+4302-6100-0000-0000,Elijah,Lee,$346.02 ,10,731,Irving,48,Male,Divorced,No
+4136-9100-0000-0000,Liam,Hernandez,$113.15 ,10,710,Arlington,51,Male,Divorced,Yes
+4133-8900-0000-0000,Mia,Davis,$145.99 ,10,744,Irving,48,Male,Divorced,No
+4321-6400-0000-0000,Ethan,Thomas,$50.89 ,1,152,Rockwall,50,Male,Divorced,No
+4151-5700-0000-0000,Lucas,Taylor,$18.02 ,2,222,Plano,50,Female,Divorced,Yes
+4233-5700-0000-0000,Ethan,Harris,$363.67 ,9,706,Farmers Branch,55,Female,Divorced,No
+4748-9300-0000-0000,Aiden,Thomas,$88.78 ,10,723,Plano,31,Female,Divorced,No
+4565-0300-0000-0000,Aiden,White,$606.47 ,8,638,Addison,52,Female,Divorced,No
+4349-6800-0000-0000,Isabella,Davis,$229.86 ,3,308,Farmers Branch,42,Female,Divorced,Yes
+4410-3300-0000-0000,Mia,Garcia,$590.89 ,8,607,Plano,52,Female,Divorced,Yes
+4220-6000-0000-0000,Oliver,Martinez,$154.03 ,7,539,Farmers Branch,51,Female,Divorced,Yes
+4914-8700-0000-0000,Ava,Perez,$439.11 ,11,828,Dallas,40,Female,Divorced,Yes
+4955-3200-0000-0000,Alexander,Gonzalez,$181.95 ,4,297,Irving,58,Female,Divorced,No
+4302-5800-0000-0000,Isabella,Smith,$316.94 ,4,318,Dallas,57,Male,Divorced,Yes
+4934-2100-0000-0000,Elijah,Taylor,$258.41 ,5,371,Rockwall,44,Female,Divorced,Yes
+4334-1300-0000-0000,Aiden,Clark,$20.99 ,2,169,McKinney,40,Male,Divorced,Yes
+4039-7100-0000-0000,Ethan,Taylor,$459.16 ,8,616,Addison,31,Male,Divorced,No
+4808-4200-0000-0000,Alexander,Williams,$410.41 ,8,635,Dallas,56,Male,Divorced,Yes
+4339-2700-0000-0000,Oliver,Davis,$11.07 ,6,475,Dallas,58,Female,Divorced,Yes
+4100-9800-0000-0000,John,White,$436.11 ,8,623,Arlington,50,Female,Divorced,No
+1443-2728-7860-4220,  Jackson    , Rodriguez,$39.57 ,8,603,Dallas,47,f,Married,Yes
+2122-3815-5938-2820, Christopher, Carter,$578.98 ,10,777,Plano,38,Male,Married,Yes
+6872-3429-6845-7370, Adam       , Cox,$253.95 ,8,598,Farmer's Branch,49,f,Married,Yes
+9885-5886-9726-6260, Lily       , James,$23.51 ,1,105,Arlington,53,F,Married,No
+7590-7629-1461-2100, Brandon    , Jenkins,$39.88 ,2,144,McKinney,38,f,Married,Yes
+5284-5086-0768-0850, Aiden     , West,$242.89 ,11,839,Plano,40,F,Married,No
+6132-3000-0117-1510, Mason     , Murray,$58.22 ,4,294,Arlington,39,F,Married,No
+8057-2315-7637-4820, Jackson   , Hunt,$99.16 ,8,599,Farmer's Branch,39,M,Married,No
+4863-7428-5942-8420, Liam      , Palmer,$166.17 ,10,775,Plano,41,Male,Married,No
+5090-2677-4615-5760, Isabella  , Andrews,$93.39 ,10,707,Dallas,38,Male,Married,No
+8538-4648-2285-8040, Daniel    , Weaver,$103.82 ,2,155,Dallas,46,Female,Married,Yes
+4066-1500-0000-0000,Ethan,Clark,$287.95 ,4,334,Dallas,47,Male,Married,No
+4941-8200-0000-0000,Ava,Lewis,$338.94 ,4,362,Irving,34,Male,Married,No
+4837-9900-0000-0000,Aiden,Gonzalez,$282.63 ,11,858,Arlington,59,Female,Married,No
+4205-0300-0000-0000,John,Perez,$220.40 ,5,392,Rockwall,31,Male,Married,No
+4179-2400-0000-0000,Harper,Lee,$310.53 ,10,796,Rockwall,53,Female,Married,Yes
+4366-7000-0000-0000,Ava,Garcia,$51.16 ,4,368,Farmers Branch,56,Male,Married,No
+4939-2400-0000-0000,Jackson,Thomas,$191.53 ,8,641,Dallas,42,Female,Married,Yes
+4614-7400-0000-0000,Michael,Martinez,$455.63 ,9,664,Irving,54,Female,Married,Yes
+4852-3700-0000-0000,Oliver,Taylor,$253.41 ,9,698,McKinney,47,Male,Married,Yes
+4912-4900-0000-0000,Olivia,Perez,$36.07 ,6,434,Plano,49,Female,Married,Yes
+4026-4300-0000-0000,John,Martinez,$239.66 ,8,638,Rockwall,51,Male,Married,Yes
+4521-8400-0000-0000,Harper,Clark,$344.88 ,8,607,Dallas,42,Female,Married,No
+4585-6600-0000-0000,Isabella,Smith,$376.20 ,7,511,Farmers Branch,41,Female,Married,Yes
+4882-7600-0000-0000,Charlotte,Lee,$160.05 ,11,832,McKinney,60,Female,Married,No
+4166-2900-0000-0000,Logan,Lewis,$255.72 ,6,421,Addison,34,Male,Married,No
+4321-0200-0000-0000,Liam,White,$309.20 ,9,721,Dallas,39,Female,Married,No
+4763-0400-0000-0000,Charlotte,Anderson,$593.50 ,9,667,Dallas,33,Male,Married,No
+4820-1000-0000-0000,Jackson,Taylor,$345.50 ,11,786,Frisco,36,Female,Married,Yes
+4668-4900-0000-0000,Lucas,Davis,$7.17 ,7,494,Irving,33,Female,Married,Yes
+4091-4900-0000-0000,John,Lewis,$146.92 ,6,463,Plano,50,Female,Married,No
+4681-5500-0000-0000,Liam,Davis,$441.17 ,7,556,Plano,50,Female,Married,Yes
+4492-4600-0000-0000,John,Lee,$436.92 ,9,684,Irving,42,Female,Married,No
+4632-6200-0000-0000,Alexander,Williams,$535.85 ,11,788,Plano,35,Female,Married,No
+4180-9600-0000-0000,Charlotte,Lewis,$548.31 ,9,699,Rockwall,48,Male,Married,No
+4437-4300-0000-0000,Liam,Harris,$287.11 ,4,331,Addison,55,Male,Married,Yes
+4368-4800-0000-0000,Oliver,Perez,$120.56 ,1,151,Frisco,58,Female,Married,Yes
+4912-5000-0000-0000,Sophia,Williams,$19.92 ,5,367,Irving,56,Male,Married,No
+4674-7000-0000-0000,Liam,Garcia,$289.98 ,9,700,Plano,41,Female,Married,No
+4288-1700-0000-0000,Harper,Martinez,$12.08 ,10,786,Rockwall,59,Male,Married,Yes
+4984-3200-0000-0000,Alexander,Martinez,$433.98 ,6,471,Addison,41,Male,Married,No
+4238-0300-0000-0000,Aiden,Garcia,$533.81 ,8,621,Irving,41,Male,Married,Yes
+4465-2200-0000-0000,Michael,Lee,$181.12 ,8,615,Irving,49,Male,Married,Yes
+4282-3500-0000-0000,Ava,Thomas,$190.87 ,9,688,McKinney,33,Female,Married,No
+4930-3700-0000-0000,Isabella,Davis,$208.31 ,8,598,Frisco,49,Female,Married,Yes
+4827-9000-0000-0000,Alexander,Thomas,$690.43 ,11,824,Irving,32,Female,Married,No
+4942-9900-0000-0000,Lucas,Smith,$430.96 ,7,538,Rockwall,44,Male,Married,No
+4251-9900-0000-0000,Alexander,Clark,$47.02 ,10,720,Irving,39,Female,Married,No
+4393-1700-0000-0000,Alexander,Wilson,$241.96 ,10,777,Dallas,50,Female,Married,Yes
+4089-2000-0000-0000,Amelia,White,$246.48 ,8,590,Arlington,55,Female,Married,Yes
+4269-5700-0000-0000,Sophia,Thomas,$579.47 ,9,672,Dallas,55,Male,Married,No
+4575-2500-0000-0000,Lucas,Taylor,$98.05 ,3,247,Farmers Branch,43,Female,Married,No
+4937-9800-0000-0000,Isabella,Rodriguez,$111.95 ,11,857,Frisco,39,Male,Married,Yes
+4357-8400-0000-0000,Ethan,Davis,$371.70 ,5,432,McKinney,38,Male,Married,Yes
+4613-4300-0000-0000,Jackson,Smith,$405.83 ,6,440,Frisco,38,Male,Married,No
+1911-9361-2841-1620, Alexander  , Lee,$40.75 ,8,572,Frisco,46,Male,single,No
+4002-1200-0000-0000,Charlotte,Martinez,$296.60 ,10,719,Plano,51,Male,Single,Yes
+4794-7200-0000-0000,Oliver,Lewis,$168.48 ,6,462,Dallas,44,Female,Single,No
+4474-0800-0000-0000,Michael,Hernandez,$88.47 ,5,351,Irving,51,Male,Single,Yes
+4748-6500-0000-0000,Olivia,Davis,$134.68 ,5,450,Arlington,60,Female,Single,Yes
+4239-2400-0000-0000,Olivia,Lewis,$141.99 ,8,635,Rockwall,42,Male,Single,No
+4248-0600-0000-0000,John,White,$663.02 ,10,788,Frisco,44,Male,Single,Yes
+4932-5200-0000-0000,Benjamin,Wilson,$338.97 ,10,755,McKinney,35,Female,Single,Yes
+4475-6800-0000-0000,Logan,Garcia,$306.44 ,6,483,Rockwall,51,Male,Single,No
+4374-6200-0000-0000,Logan,Taylor,$571.57 ,11,845,Addison,54,Male,Single,No
+4563-1400-0000-0000,Michael,Harris,$200.15 ,6,469,Addison,35,Female,Single,No
+4687-8200-0000-0000,Liam,Jones,$86.35 ,8,584,Farmers Branch,34,Female,Single,No
+4019-3600-0000-0000,Harper,Martinez,$278.56 ,3,299,Addison,60,Male,Single,Yes
+4827-7700-0000-0000,Olivia,Hernandez,$584.40 ,10,758,Plano,39,Male,Single,Yes
+4215-2600-0000-0000,Ethan,Jones,$41.16 ,7,572,Addison,40,Male,Single,Yes
+4517-1800-0000-0000,Aiden,Williams,$95.29 ,8,619,Frisco,54,Female,Single,Yes
+4108-5300-0000-0000,Alexander,Garcia,$218.72 ,10,760,Frisco,60,Male,Single,Yes
+4298-3700-0000-0000,Harper,Williams,$111.60 ,3,227,Irving,34,Female,Single,No
+4906-4000-0000-0000,Ethan,Lee,$186.18 ,9,674,Arlington,45,Female,Single,Yes
+4881-7200-0000-0000,Elijah,Wilson,$298.74 ,5,396,McKinney,32,Female,Single,No
+4152-5600-0000-0000,Liam,Rodriguez,$22.13 ,5,389,Arlington,39,Male,Single,No
+4590-3600-0000-0000,Lucas,Garcia,$636.12 ,10,752,Frisco,58,Male,Single,No
+4033-8300-0000-0000,John,Garcia,$372.10 ,7,517,Farmers Branch,42,Female,Single,No
+4324-7700-0000-0000,Michael,Rodriguez,$103.26 ,3,225,Dallas,47,Female,Single,Yes
+4069-8900-0000-0000,Lucas,Lee,$37.93 ,9,703,Frisco,56,Male,Single,No
+4732-1200-0000-0000,Sophia,Williams,$195.60 ,7,516,Farmers Branch,37,Male,Single,Yes
+4190-5200-0000-0000,Benjamin,Williams,$35.23 ,10,760,Plano,58,Male,Single,Yes
+4324-3800-0000-0000,Charlotte,Lee,$410.62 ,10,720,Addison,40,Female,Single,No
+4812-0900-0000-0000,Ava,Taylor,$176.93 ,10,759,Farmers Branch,48,Male,Single,Yes
+4262-3400-0000-0000,Benjamin,Hernandez,$74.11 ,2,205,Arlington,40,Female,Single,No
+4288-7500-0000-0000,Isabella,Anderson,$505.71 ,9,677,Rockwall,56,Male,Single,Yes
+4443-6300-0000-0000,Harper,Davis,$36.30 ,10,707,Rockwall,54,Male,Single,Yes
+4318-6600-0000-0000,Lucas,Davis,$601.04 ,10,732,Plano,59,Female,Single,Yes
+4212-7100-0000-0000,Ethan,Garcia,$83.28 ,2,170,Dallas,48,Male,Single,Yes
+4110-6900-0000-0000,Aiden,Wilson,$106.04 ,8,583,Frisco,53,Male,Single,Yes
+4703-5800-0000-0000,Elijah,Clark,$122.71 ,5,414,Arlington,35,Male,Single,Yes
+4962-8500-0000-0000,Aiden,Jones,$79.08 ,7,577,Plano,51,Male,Single,No
+4785-1400-0000-0000,Olivia,Harris,$535.58 ,8,609,McKinney,59,Male,Single,Yes
+4107-0000-0000-0000,Elijah,Lee,$74.80 ,4,353,Frisco,34,Male,Single,Yes
+4403-4100-0000-0000,Aiden,Clark,$87.33 ,4,318,Irving,47,Male,Single,No
+4016-1600-0000-0000,Liam,Jones,$164.17 ,6,499,Dallas,50,Male,Single,Yes
+4964-0900-0000-0000,Jackson,Hernandez,$308.05 ,8,653,Dallas,52,Female,Single,No
+4429-8300-0000-0000,Olivia,Gonzalez,$485.54 ,11,861,Arlington,44,Female,Single,Yes
+4299-3700-0000-0000,Liam,Williams,$258.24 ,5,437,Rockwall,53,Female,Single,No
+4593-4000-0000-0000,Liam,Lee,$614.40 ,10,784,Arlington,45,Female,Single,No
+4006-7500-0000-0000,Aiden,Taylor,$132.45 ,3,261,Arlington,59,Male,Single,Yes
+4063-0400-0000-0000,Mia,Gonzalez,$469.92 ,7,570,Farmers Branch,49,Male,Single,Yes
+4496-5300-0000-0000,Alexander,Harris,$643.66 ,11,868,Addison,45,Male,Single,No
+4475-1700-0000-0000,Jackson,Smith,$378.60 ,11,815,Addison,50,Male,Single,No
+4430-4000-0000-0000,Oliver,Garcia,$100.73 ,2,209,Farmers Branch,54,Male,Single,Yes
+1906-3938-5292-4360, Abigail    , Lopez,$296.03 ,7,493,Plano,43,Male,Single ,No
+1141-8005-0503-2280, Anthony    , Campbell,$356.45 ,6,448,Addison,35,M,Single ,Yes
+3023-9622-3258-3980, Christian  , Morris,$46.66 ,8,575,Dallas,46,Male,Single ,Yes
+8741-8927-0372-5720, Jose       , Long,$64.26 ,10,721,Rockwall,44,f,Single ,No
+4525-0142-1402-3670, Hunter     , Gonzales,$21.38 ,5,364,Frisco,44,M,Single ,No
+6468-4324-0746-2280, Thomas     , Bryant,$225.38 ,3,299,Addison,34,m,Single ,No
+1575-9056-1128-8570, Nora       , Hamilton,$215.41 ,4,330,Rockwall,49,f,Single ,No
+3713-5495-6108-5810, Xavier    , Wallace,$193.28 ,7,587,Dallas,45,F,Single ,No
+4487-5702-6081-6360, Leah      , Jordan,$166.46 ,7,586,Dallas,37,M,Single ,Yes
+5157-0504-8268-5170, Jackson   , Mcdonald,$180.74 ,11,781,McKinney,42,Male,Single ,No
+9005-0922-5850-9000, Olivia    , Cruz,$59.58 ,11,826,Plano,38,f,Single ,Yes
+6582-5716-4539-1560, Sebastian , Simpson,$353.40 ,11,843,Plano,37,M,Single ,Yes
+3769-6187-2792-9810, Emily     , Morales,$232.39 ,7,562,Rockwall,45,f,Single ,No
+3720-7441-6388-6110, Joshua    , Shaw,$181.39 ,9,726,Frisco,39,M,Single ,No
+4176-1661-5287-4530, Ava       , Grant,$30.96 ,5,392,Dallas,43,Male,Single ,Yes
+2742-0658-5087-7730, Benjamin  , Dunn,$80.66 ,4,323,Dallas,38,M,Single ,Yes
+4255-2471-2443-4460, Daniel    , Hudson,$100.49 ,4,317,Addison,40,F,Single ,No
+6687-8164-7485-0540, Matthew   , Pierce,$46.85 ,4,315,McKinney,40,Male,Single ,No
+4389-3784-3174-3140, Jackson   , Fox,$99.70 ,6,461,Plano,46,Male,Single ,No
+9174-3154-3576-2500, James     , Chavez,$173.52 ,3,268,Dallas,45,M,Single ,No
+7623-8110-1675-9660, Charlotte , Carr,$69.37 ,6,478,Dallas,37,Male,Single ,Yes
+7936-5340-2704-3940, Matthew    , Evans,$94.85 ,11,805,Dallas,52,F,Widowed,Yes
+6398-6839-5215-4170, Landon     , Morgan,$519.38 ,8,650,Dallas,39,Female,Widowed,Yes
+4037-8988-2351-0350, Sofia      , Richardson,$162.12 ,8,573,Addison,47,Male,Widowed,No
+2130-3970-3796-0640, Dylan      , Watson,$244.69 ,8,596,Dallas,37,M,Widowed,Yes
+1652-3370-1779-9630, Chloe      , Diaz,$383.56 ,9,687,Dallas,40,F,Widowed,Yes
+9460-8014-4356-2110, Avery     , Ellis,$252.56 ,11,807,Addison,35,Male,Widowed,No
+5081-6418-9551-8860, Joshua    , Lawson,$6.62 ,4,286,Dallas,46,F,Widowed,Yes
+3531-7614-1888-9420, Isabella  , Chapman,$500.75 ,7,504,Dallas,46,Female,Widowed,Yes
+4585-3300-0000-0000,Charlotte,Taylor,$373.64 ,5,443,Arlington,46,Male,Widowed,No
+4622-1400-0000-0000,Harper,Jones,$613.13 ,11,811,Dallas,52,Male,Widowed,Yes
+4596-9900-0000-0000,Charlotte,Thomas,$538.54 ,8,586,Dallas,53,Female,Widowed,No
+4693-4100-0000-0000,Elijah,Hernandez,$198.72 ,10,703,Irving,51,Male,Widowed,Yes
+4949-7000-0000-0000,John,Hernandez,$530.39 ,11,840,Rockwall,48,Female,Widowed,No
+4585-5900-0000-0000,Oliver,Taylor,$100.14 ,4,284,Frisco,56,Female,Widowed,No
+4335-4100-0000-0000,Sophia,Lee,$51.74 ,3,249,Dallas,44,Female,Widowed,Yes
+4610-2300-0000-0000,Michael,Hernandez,$200.80 ,3,226,Frisco,55,Male,Widowed,Yes
+4137-7900-0000-0000,Olivia,Hernandez,$56.51 ,9,699,Rockwall,44,Female,Widowed,Yes
+4928-0800-0000-0000,Olivia,Gonzalez,$258.12 ,6,504,Rockwall,53,Female,Widowed,Yes
+4257-2400-0000-0000,Elijah,Clark,$182.92 ,9,701,McKinney,35,Male,Widowed,Yes
+4562-1200-0000-0000,Logan,Harris,$308.69 ,11,827,Frisco,33,Female,Widowed,No
+4379-4100-0000-0000,Michael,Taylor,$478.73 ,9,638,Frisco,36,Male,Widowed,Yes
+4737-1300-0000-0000,Harper,Clark,$394.68 ,5,440,McKinney,37,Female,Widowed,No
+4750-2100-0000-0000,Elijah,Anderson,$124.64 ,4,344,Farmers Branch,57,Female,Widowed,Yes
+4367-0700-0000-0000,Jackson,Davis,$201.67 ,8,568,Rockwall,48,Male,Widowed,No
+4155-1900-0000-0000,John,Wilson,$108.26 ,4,376,McKinney,31,Female,Widowed,Yes
+4439-1000-0000-0000,Olivia,Wilson,$463.40 ,11,797,Dallas,41,Male,Widowed,Yes
+4139-6500-0000-0000,Amelia,Davis,$363.45 ,6,435,Addison,51,Female,Widowed,No
+4974-3900-0000-0000,Alexander,Anderson,$47.56 ,10,711,Irving,33,Female,Widowed,Yes
+4210-9500-0000-0000,Isabella,Harris,$291.91 ,11,833,Irving,36,Male,Widowed,No
+4909-2200-0000-0000,Charlotte,Garcia,$249.39 ,5,436,Arlington,43,Female,Widowed,No
+4285-8800-0000-0000,Sophia,Rodriguez,$303.12 ,7,533,Farmers Branch,59,Male,Widowed,No
+4398-8500-0000-0000,Aiden,Wilson,$630.65 ,9,688,McKinney,43,Female,Widowed,No
+4402-0800-0000-0000,Ava,Harris,$62.60 ,6,456,Plano,50,Male,Widowed,Yes
+4490-2800-0000-0000,Harper,Jones,$40.63 ,9,687,Frisco,41,Female,Widowed,Yes
+4947-0800-0000-0000,Alexander,Williams,$41.82 ,8,630,Arlington,40,Male,Widowed,Yes
+4112-2100-0000-0000,Harper,Perez,$504.74 ,10,791,Farmers Branch,43,Male,Widowed,No
+4374-1200-0000-0000,Logan,Williams,$125.12 ,6,447,McKinney,32,Female,Widowed,Yes
+4671-1600-0000-0000,Sophia,Rodriguez,$638.57 ,10,775,McKinney,45,Female,Widowed,Yes
+4510-4900-0000-0000,Sophia,Hernandez,$364.45 ,9,635,Frisco,56,Female,Widowed,Yes
+4760-5900-0000-0000,Oliver,Taylor,$206.69 ,5,410,Plano,59,Male,Widowed,Yes
+4647-0300-0000-0000,Olivia,Clark,$13.79 ,6,452,Dallas,34,Male,Widowed,Yes
+4271-7300-0000-0000,Benjamin,Thomas,$391.52 ,10,724,Arlington,34,Female,Widowed,No
+4496-4400-0000-0000,Logan,Thomas,$42.00 ,8,653,Farmers Branch,40,Female,Widowed,No
+4262-1300-0000-0000,Charlotte,Lewis,$596.74 ,8,637,Plano,46,Female,Widowed,No
+4356-6700-0000-0000,Aiden,Clark,$335.67 ,7,529,Irving,49,Male,Widowed,No
+4396-6800-0000-0000,John,Anderson,$406.91 ,6,474,Arlington,45,Male,Widowed,Yes
+4203-8300-0000-0000,Michael,Smith,$181.34 ,8,578,Irving,34,Male,Widowed,Yes
+4377-9300-0000-0000,Amelia,Lee,$159.26 ,5,413,Rockwall,47,Female,Widowed,Yes
+4585-3300-0000-0000,Mia,Lee,$532.71 ,11,867,Addison,39,Male,Widowed,Yes
+4660-3800-0000-0000,Elijah,Clark,$481.62 ,8,567,Plano,50,Female,Widowed,No
+4860-7400-0000-0000,Liam,Clark,$394.26 ,6,483,Arlington,41,Male,Widowed,Yes
+4886-9700-0000-0000,Ava,Gonzalez,$575.90 ,10,743,Frisco,34,Male,Widowed,Yes
