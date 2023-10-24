@@ -8,9 +8,9 @@ EmployeeNumber,EmployeeID,TrainingTimesLastYear,YearsAtCompany,YearsInCurrentRol
 1448,10504,5,4,2,0,3,7,2,Research & Development,1,Research Scientist,No
 1105,10505,5,1,0,0,0,8,2,Sales,2,Sales Executive,No
 1055,10506,2,1,1,0,0,1,1,Sales,1,Sales Representative,No
-1597,10507,3,8,2,7,7,8,1,Research & Development,2,Healthcare Representative,No
+1597,10507,?,8,2,7,7,8,1,Research & Development,2,Healthcare Representative,No
 1866,10508,2,16,12,6,14,21,7,Research & Development,5,Manager,No
-1858,10509,2,3,2,2,2,3,1,Human Resources,1,Human Resources,No
+1858,10509,2,3,2,?,2,3,1,Human Resources,1,Human Resources,No
 845,10510,3,8,5,1,6,17,3,Research & Development,3,Manufacturing Director,No
 508,10511,3,1,0,0,0,1,1,Sales,1,Sales Representative,No
 1314,10512,3,7,6,5,7,10,6,Human Resources,1,Human Resources,No
@@ -103,7 +103,7 @@ EmployeeNumber,EmployeeID,TrainingTimesLastYear,YearsAtCompany,YearsInCurrentRol
 1453,10599,5,13,7,9,9,13,1,Sales,3,Sales Executive,No
 523,10600,3,3,2,1,2,6,9,Sales,2,Sales Executive,No
 705,10601,3,3,2,0,2,5,2,Research & Development,1,Research Scientist,No
-1472,10602,2,9,8,8,8,35,4,Research & Development,4,Research Director,No
+1472,10602,2,9,8,?,8,35,4,Research & Development,4,Research Director,No
 1177,10603,2,8,7,0,7,8,1,Research & Development,1,Laboratory Technician,No
 208,10604,1,10,7,0,9,10,1,Research & Development,2,Manufacturing Director,No
 1973,10605,0,10,9,1,4,35,4,Human Resources,5,Manager,No
@@ -155,7 +155,7 @@ EmployeeNumber,EmployeeID,TrainingTimesLastYear,YearsAtCompany,YearsInCurrentRol
 1814,10651,3,3,2,1,2,11,3,Research & Development,2,Healthcare Representative,No
 934,10652,3,1,0,1,0,1,1,Research & Development,1,Laboratory Technician,No
 475,10653,2,2,2,2,2,4,7,Sales,2,Sales Executive,No
-1986,10654,4,11,8,5,10,15,3,Sales,2,Sales Executive,No
+1986,10654,4,11,8,5,10,15,?,Sales,2,Sales Executive,No
 1127,10655,4,18,7,11,5,21,7,Research & Development,4,Healthcare Representative,Yes
 1126,10656,1,8,7,0,1,18,8,Research & Development,3,Manufacturing Director,No
 1242,10657,6,1,0,0,0,20,3,Research & Development,3,Research Director,No
@@ -166,7 +166,7 @@ EmployeeNumber,EmployeeID,TrainingTimesLastYear,YearsAtCompany,YearsInCurrentRol
 406,10662,3,11,9,6,9,12,0,Sales,3,Sales Executive,No
 922,10663,3,2,2,0,2,2,1,Sales,1,Sales Representative,Yes
 1655,10664,2,4,2,1,2,27,3,Research & Development,4,Research Director,No
-612,10665,2,6,1,0,5,10,4,Research & Development,4,Research Director,No
+612,10665,2,6,1,0,5,10,?,Research & Development,4,Research Director,No
 630,10666,3,10,9,6,9,18,3,Research & Development,2,Research Scientist,No
 1120,10667,1,7,5,1,7,11,4,Research & Development,1,Research Scientist,No
 747,10668,2,8,7,7,7,10,7,Sales,2,Sales Executive,No
@@ -421,7 +421,7 @@ EmployeeNumber,EmployeeID,TrainingTimesLastYear,YearsAtCompany,YearsInCurrentRol
 564,10917,2,10,2,0,7,10,1,Research & Development,3,Research Director,No
 110,10918,2,5,2,1,3,5,1,Research & Development,2,Manufacturing Director,No
 529,10919,2,13,11,10,7,15,3,Research & Development,2,Research Scientist,No
-163,10920,3,7,7,7,7,12,4,Sales,2,Sales Executive,Yes
+163,10920,3,7,7,7,7,12,?,Sales,2,Sales Executive,Yes
 1368,10921,5,0,0,0,0,0,1,Research & Development,1,Laboratory Technician,No
 1387,10922,0,5,3,0,4,5,1,Sales,2,Sales Executive,No
 1076,10923,5,1,0,0,0,18,5,Sales,3,Sales Executive,No
@@ -505,7 +505,7 @@ EmployeeNumber,EmployeeID,TrainingTimesLastYear,YearsAtCompany,YearsInCurrentRol
 20,11001,1,10,9,8,8,10,1,Research & Development,3,Manufacturing Director,No
 1443,11002,2,20,17,5,6,26,3,Research & Development,4,Research Director,No
 1555,11003,2,7,1,2,5,12,3,Research & Development,2,Research Scientist,No
-485,11004,2,1,0,0,0,1,1,Sales,1,Sales Representative,Yes
+485,11004,?,1,0,0,0,1,1,Sales,1,Sales Representative,Yes
 1391,11005,5,4,2,3,2,14,2,Sales,3,Sales Executive,No
 311,11006,2,9,8,5,8,13,4,Sales,1,Sales Representative,No
 58,11007,0,22,15,15,8,23,1,Research & Development,5,Research Director,Yes
@@ -869,3 +869,7 @@ EmployeeNumber,EmployeeID,TrainingTimesLastYear,YearsAtCompany,YearsInCurrentRol
 1503,11365,4,5,4,1,2,11,3,Sales,2,Sales Executive,No
 1195,11366,2,3,2,0,2,7,4,Research & Development,1,Research Scientist,No
 269,11367,5,6,2,1,2,10,5,Research & Development,2,Laboratory Technician,No
+859,10498,3,5,2,0,3,8,2,Sales,2,Sales Executive,No
+1128,10499,2,20,7,4,9,21,1,Research & Development,5,Research Director,No
+1412,10500,2,2,2,2,2,10,2,Research & Development,3,Manufacturing Director,No
+2016,10501,3,14,10,5,7,14,1,Sales,3,Sales Executive,No
