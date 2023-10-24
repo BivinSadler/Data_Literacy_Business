@@ -1,0 +1,871 @@
+EmployeeNumber,EmployeeID_x,EducationField,DistanceFromHome,ID,MonthlyIncome,OverTime,EmployeeID_y,TrainingTimesLastYear,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,TotalWorkingYears,NumCompaniesWorked,Department,JobLevel,JobRole,Attrition
+1084,10767,Other,20,10767,9957.0,No,10767,1.0,6,2,0.0,2,7,0.0,Research & Development,2,Manufacturing Director,No
+601,10809,Life Sciences,6,10809,13237.0,No,10809,3.0,20,6,5.0,13,22,7.0,Research & Development,4,Manufacturing Director,No
+2016,10501,Marketing,1,10501,10422.0,No,10501,3.0,14,10,5.0,7,14,1.0,Sales,3,Sales Executive,No
+1858,10509,Life Sciences,1,10509,2706.0,No,10509,2.0,3,2,,2,3,1.0,Human Resources,1,Human Resources,No
+1314,10512,Life Sciences,1,10512,3423.0,No,10512,3.0,7,6,5.0,7,10,6.0,Human Resources,1,Human Resources,No
+1903,10517,Life Sciences,1,10517,5033.0,No,10517,5.0,2,0,2.0,2,10,2.0,Research & Development,2,Healthcare Representative,No
+969,10522,Life Sciences,1,10522,6949.0,No,10522,3.0,5,0,1.0,4,6,0.0,Research & Development,2,Healthcare Representative,No
+1172,10531,Medical,1,10531,2258.0,No,10531,2.0,8,0,1.0,7,10,6.0,Research & Development,1,Laboratory Technician,No
+1270,10542,Life Sciences,1,10542,1223.0,No,10542,2.0,1,0,0.0,1,1,1.0,Research & Development,1,Research Scientist,No
+1734,10544,Life Sciences,1,10544,6735.0,No,10544,2.0,0,0,0.0,0,10,6.0,Sales,2,Sales Executive,Yes
+662,10548,Life Sciences,1,10548,2619.0,No,10548,3.0,0,0,0.0,0,8,3.0,Research & Development,1,Research Scientist,No
+1423,10549,Medical,1,10549,19701.0,Yes,10549,3.0,9,8,1.0,5,32,3.0,Research & Development,5,Research Director,No
+380,10556,Medical,1,10556,13603.0,Yes,10556,2.0,5,2,0.0,2,15,2.0,Research & Development,3,Research Director,No
+88,10566,Medical,1,10566,2194.0,No,10566,2.0,3,2,1.0,2,5,4.0,Research & Development,1,Research Scientist,No
+391,10567,Life Sciences,1,10567,2115.0,No,10567,3.0,17,12,5.0,7,17,1.0,Research & Development,1,Research Scientist,No
+1999,10568,Life Sciences,1,10568,2782.0,No,10568,3.0,5,3,1.0,0,12,3.0,Research & Development,1,Research Scientist,No
+57,10573,Medical,1,10573,4011.0,_,10573,2.0,12,8,3.0,7,12,1.0,Research & Development,2,Laboratory Technician,No
+1535,10574,Technical Degree,1,10574,7083.0,Yes,10574,3.0,10,9,8.0,6,10,1.0,Sales,3,Sales Executive,No
+1602,10575,Life Sciences,1,10575,17567.0,No,10575,5.0,26,0,0.0,12,27,1.0,Sales,4,Manager,No
+387,10593,Life Sciences,1,10593,4907.0,No,10593,3.0,20,16,11.0,6,20,1.0,Sales,2,Sales Executive,No
+1447,10597,Life Sciences,1,10597,3294.0,No,10597,2.0,5,4,0.0,2,7,5.0,Research & Development,1,Laboratory Technician,No
+208,10604,Technical Degree,1,10604,4319.0,No,10604,1.0,10,7,0.0,9,10,1.0,Research & Development,2,Manufacturing Director,No
+976,10609,Life Sciences,1,10609,17099.0,No,10609,2.0,9,8,7.0,8,26,2.0,Research & Development,4,Manager,No
+816,10634,Life Sciences,1,10634,2319.0,Yes,10634,1.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,Yes
+104,10658,Life Sciences,1,10658,5126.0,Yes,10658,1.0,10,8,3.0,0,10,1.0,Research & Development,2,Laboratory Technician,No
+612,10665,Medical,1,10665,16184.0,No,10665,2.0,6,1,0.0,5,10,,Research & Development,4,Research Director,No
+1131,10673,Technical Degree,1,10673,2070.0,Yes,10673,6.0,2,2,2.0,2,2,1.0,Research & Development,1,Research Scientist,No
+230,10677,Life Sciences,1,10677,8686.0,No,10677,2.0,8,3,0.0,7,12,4.0,Sales,2,Sales Executive,No
+353,10693,Life Sciences,1,10693,2723.0,No,10693,0.0,1,0,0.0,0,1,1.0,Research & Development,1,Research Scientist,No
+96,10699,Life Sciences,1,10699,6220.0,No,10699,3.0,10,4,0.0,9,10,1.0,Research & Development,2,Research Scientist,No
+741,10701,Life Sciences,1,10701,2216.0,Yes,10701,4.0,7,7,3.0,7,10,7.0,Research & Development,1,Research Scientist,Yes
+827,10711,Life Sciences,1,10711,6062.0,Yes,10711,4.0,4,3,0.0,2,8,9.0,Research & Development,2,Manufacturing Director,No
+1506,10721,Life Sciences,1,10721,1563.0,No,10721,2.0,1,0,0.0,0,1,1.0,Research & Development,1,Research Scientist,No
+1989,10723,Medical,1,10723,3748.0,No,10723,6.0,12,8,1.0,7,12,1.0,Research & Development,1,Laboratory Technician,No
+970,10733,Life Sciences,1,10733,10609.0,No,10733,2.0,14,1,11.0,7,17,5.0,Sales,3,Sales Executive,Yes
+2013,10745,Medical,1,10745,2269.0,No,10745,2.0,2,2,2.0,2,3,0.0,Sales,1,Sales Representative,No
+1994,10748,Medical,1,10748,2008.0,No,10748,2.0,1,1,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,No
+1522,10759,Technical Degree,1,10759,2362.0,No,10759,2.0,9,7,0.0,7,11,6.0,Research & Development,1,Research Scientist,Yes
+1822,10780,Life Sciences,1,10780,6513.0,No,10780,3.0,5,3,0.0,3,12,4.0,Research & Development,2,Healthcare Representative,No
+1152,10782,Human Resources,1,10782,2844.0,No,10782,2.0,7,6,5.0,0,7,1.0,Human Resources,1,Human Resources,No
+996,10788,Medical,1,10788,2270.0,No,10788,2.0,5,3,0.0,2,8,3.0,Research & Development,1,Laboratory Technician,No
+2000,10791,Medical,1,10791,11957.0,No,10791,3.0,13,8,5.0,12,14,0.0,Research & Development,3,Research Director,No
+1580,10808,Life Sciences,1,10808,5484.0,No,10808,3.0,2,2,2.0,1,9,9.0,Research & Development,2,Research Scientist,No
+1981,10815,Life Sciences,1,10815,4617.0,No,10815,2.0,4,3,1.0,2,4,1.0,Research & Development,2,Healthcare Representative,No
+951,10818,Life Sciences,1,10818,2332.0,No,10818,3.0,3,0,0.0,2,5,6.0,Research & Development,1,Laboratory Technician,No
+683,10819,Life Sciences,1,10819,2691.0,No,10819,4.0,10,9,8.0,8,10,1.0,Research & Development,1,Research Scientist,No
+1026,10822,Life Sciences,1,10822,12742.0,No,10822,3.0,21,6,11.0,8,21,1.0,Research & Development,4,Manufacturing Director,No
+1677,10828,Life Sciences,1,10828,15379.0,No,10828,2.0,8,7,0.0,0,23,4.0,Research & Development,4,Manager,No
+1792,10830,Medical,1,10830,2342.0,Yes,10830,2.0,5,3,2.0,3,6,1.0,Research & Development,1,Research Scientist,Yes
+725,10831,Life Sciences,1,10831,7412.0,No,10831,3.0,9,7,0.0,7,9,1.0,Research & Development,3,Manufacturing Director,No
+1113,10836,Other,1,10836,4728.0,Yes,10836,4.0,0,0,0.0,0,5,3.0,Sales,2,Sales Executive,Yes
+384,10845,Life Sciences,1,10845,6397.0,No,10845,6.0,6,5,1.0,4,6,1.0,Research & Development,2,Manufacturing Director,No
+78,10856,Medical,1,10856,6162.0,Yes,10856,3.0,9,8,7.0,8,9,1.0,Research & Development,2,Manufacturing Director,No
+259,10858,Life Sciences,1,10858,19999.0,No,10858,5.0,33,18,11.0,9,34,0.0,Research & Development,5,Manager,No
+1011,10868,Life Sciences,1,10868,4148.0,No,10868,1.0,4,3,0.0,3,4,1.0,Research & Development,2,Manufacturing Director,No
+950,10883,Technical Degree,1,10883,13582.0,No,10883,3.0,15,12,5.0,11,15,1.0,Research & Development,3,Research Director,No
+314,10884,Marketing,1,10884,8789.0,No,10884,3.0,10,7,0.0,8,10,1.0,Sales,3,Sales Executive,No
+478,10887,Technical Degree,1,10887,2174.0,Yes,10887,3.0,3,2,1.0,2,3,1.0,Sales,1,Sales Representative,Yes
+2026,10896,Life Sciences,1,10896,6306.0,No,10896,2.0,13,12,1.0,9,13,1.0,Research & Development,2,Healthcare Representative,No
+1196,10916,Life Sciences,1,10916,6474.0,No,10916,2.0,14,8,3.0,11,14,1.0,Research & Development,2,Manufacturing Director,No
+110,10918,Medical,1,10918,4325.0,No,10918,2.0,5,2,1.0,3,5,1.0,Research & Development,2,Manufacturing Director,No
+1368,10921,Life Sciences,1,10921,1611.0,No,10921,5.0,0,0,0.0,0,0,1.0,Research & Development,1,Laboratory Technician,No
+331,10926,Life Sciences,1,10926,3730.0,Yes,10926,2.0,3,2,1.0,2,4,0.0,Research & Development,1,Laboratory Technician,Yes
+1952,10935,Medical,1,10935,2867.0,No,10935,6.0,7,7,7.0,6,8,0.0,Research & Development,1,Laboratory Technician,No
+724,10937,Life Sciences,1,10937,7625.0,No,10937,4.0,9,7,1.0,8,10,0.0,Research & Development,2,Healthcare Representative,No
+1683,10941,Life Sciences,1,10941,3195.0,Yes,10941,2.0,2,2,2.0,2,8,4.0,Human Resources,1,Human Resources,No
+1438,10943,Technical Degree,1,10943,3420.0,No,10943,2.0,6,5,1.0,2,17,7.0,Research & Development,1,Research Scientist,No
+1668,10944,Life Sciences,1,10944,4735.0,No,10944,4.0,13,11,2.0,9,19,7.0,Research & Development,2,Research Scientist,No
+664,10952,Life Sciences,1,10952,15402.0,No,10952,3.0,3,2,0.0,2,21,7.0,Research & Development,4,Manager,No
+1441,10956,Life Sciences,1,10956,2066.0,No,10956,3.0,3,2,1.0,0,5,2.0,Research & Development,1,Research Scientist,No
+1954,10978,Life Sciences,1,10978,5373.0,No,10978,5.0,5,3,0.0,2,6,0.0,Research & Development,2,Healthcare Representative,No
+1,10983,Life Sciences,1,10983,5993.0,Yes,10983,0.0,6,4,0.0,5,8,8.0,Sales,2,Sales Executive,Yes
+64,10986,Life Sciences,1,10986,5381.0,Yes,10986,2.0,1,0,0.0,0,23,9.0,Research & Development,3,Laboratory Technician,Yes
+73,11011,Life Sciences,1,11011,13458.0,Yes,11011,1.0,15,14,8.0,12,15,1.0,Research & Development,3,Research Director,No
+105,11026,Medical,1,11026,2859.0,No,11026,3.0,6,4,0.0,4,6,1.0,Research & Development,1,Research Scientist,No
+1585,11029,Life Sciences,1,11029,6815.0,No,11029,5.0,1,0,0.0,0,15,6.0,Sales,2,Sales Executive,No
+554,11036,Technical Degree,1,11036,3202.0,Yes,11036,4.0,5,3,1.0,4,6,1.0,Sales,1,Sales Representative,Yes
+734,11048,Human Resources,1,11048,19189.0,No,11048,3.0,22,7,2.0,10,22,1.0,Human Resources,5,Manager,No
+649,11055,Life Sciences,1,11055,3622.0,Yes,11055,3.0,6,5,1.0,3,6,1.0,Research & Development,1,Research Scientist,No
+476,11057,Life Sciences,1,11057,5296.0,No,11057,3.0,8,7,7.0,7,8,1.0,Sales,2,Sales Executive,No
+806,11062,Life Sciences,1,11062,3833.0,No,11062,2.0,2,2,0.0,2,7,3.0,Research & Development,1,Laboratory Technician,No
+2020,11063,Medical,1,11063,2436.0,Yes,11063,2.0,4,3,1.0,2,6,6.0,Research & Development,1,Research Scientist,No
+1562,11065,Life Sciences,1,11065,9714.0,No,11065,4.0,10,8,6.0,7,10,1.0,Sales,2,Sales Executive,Yes
+1927,11070,Life Sciences,1,11070,6834.0,Yes,11070,2.0,7,7,0.0,7,7,1.0,Sales,2,Sales Executive,No
+77,11073,Life Sciences,1,11073,5993.0,No,11073,2.0,7,5,0.0,7,7,1.0,Research & Development,2,Manufacturing Director,No
+1961,11074,Life Sciences,1,11074,2858.0,No,11074,3.0,1,0,0.0,0,20,4.0,Sales,1,Sales Representative,No
+1486,11090,Technical Degree,1,11090,2909.0,No,11090,3.0,3,2,1.0,2,5,3.0,Sales,1,Sales Representative,Yes
+855,11093,Medical,1,11093,4037.0,No,11093,5.0,9,8,0.0,8,9,1.0,Sales,2,Sales Executive,No
+45,11097,Medical,1,11097,2293.0,Yes,11097,2.0,2,0,2.0,0,6,2.0,Research & Development,1,Research Scientist,Yes
+1574,11099,Technical Degree,1,11099,4087.0,No,11099,3.0,6,5,1.0,2,9,4.0,Research & Development,2,Research Scientist,No
+91,11104,Life Sciences,1,11104,5473.0,No,11104,2.0,4,3,1.0,3,20,7.0,Sales,2,Sales Executive,No
+1369,11108,Medical,1,11108,5363.0,No,11108,0.0,9,7,0.0,0,10,0.0,Research & Development,2,Laboratory Technician,No
+68,11115,Marketing,1,11115,5454.0,Yes,11115,2.0,4,3,1.0,3,9,5.0,Sales,2,Sales Executive,No
+797,11120,Life Sciences,1,11120,3280.0,No,11120,2.0,4,2,1.0,3,10,2.0,Research & Development,1,Research Scientist,No
+1950,11129,Marketing,1,11129,9888.0,No,11129,3.0,14,8,2.0,1,14,1.0,Sales,3,Sales Executive,No
+100,11146,Marketing,1,11146,4312.0,No,11146,2.0,15,13,2.0,8,16,0.0,Sales,2,Sales Executive,No
+1564,11148,Medical,1,11148,2450.0,No,11148,3.0,3,0,1.0,2,3,1.0,Research & Development,1,Laboratory Technician,No
+1753,11163,Life Sciences,1,11163,6294.0,Yes,11163,5.0,3,2,0.0,2,10,8.0,Research & Development,2,Healthcare Representative,No
+312,11164,Medical,1,11164,7918.0,No,11164,5.0,11,10,4.0,1,11,1.0,Sales,3,Sales Executive,No
+823,11174,Other,1,11174,5228.0,No,11174,2.0,9,7,0.0,5,10,0.0,Research & Development,2,Manufacturing Director,No
+1700,11192,Medical,1,11192,9525.0,No,11192,2.0,6,3,1.0,3,6,1.0,Sales,2,Sales Executive,No
+1431,11220,Other,1,11220,2996.0,No,11220,2.0,4,3,1.0,3,10,5.0,Research & Development,1,Research Scientist,No
+350,11223,Life Sciences,1,11223,4898.0,No,11223,3.0,4,2,1.0,2,5,0.0,Research & Development,2,Manufacturing Director,No
+1184,11245,Medical,1,11245,5343.0,No,11245,3.0,13,9,4.0,9,14,0.0,Research & Development,2,Healthcare Representative,No
+1331,11249,Life Sciences,1,11249,2302.0,Yes,11249,2.0,3,2,2.0,2,3,1.0,Sales,1,Sales Representative,Yes
+1040,11261,Life Sciences,1,11261,6347.0,No,11261,3.0,18,7,0.0,13,19,0.0,Sales,2,Sales Executive,No
+244,11269,Marketing,1,11269,10453.0,No,11269,2.0,24,13,15.0,7,24,1.0,Sales,3,Sales Executive,No
+1499,11274,Life Sciences,1,11274,2064.0,No,11274,3.0,5,3,1.0,3,6,0.0,Human Resources,1,Human Resources,No
+2027,11277,Medical,1,11277,4787.0,Yes,11277,3.0,2,2,2.0,2,4,9.0,Research & Development,1,Research Scientist,Yes
+1303,11287,Medical,1,11287,2096.0,No,11287,3.0,2,2,2.0,1,2,1.0,Research & Development,1,Research Scientist,No
+52,11298,Life Sciences,1,11298,5376.0,No,11298,3.0,5,3,1.0,3,10,2.0,Sales,2,Sales Executive,No
+1415,11309,Technical Degree,1,11309,3229.0,No,11309,2.0,3,2,0.0,2,7,4.0,Research & Development,1,Laboratory Technician,No
+1069,11323,Medical,1,11323,19627.0,No,11323,0.0,2,2,2.0,2,23,9.0,Research & Development,5,Research Director,No
+417,11345,Medical,1,11345,9613.0,No,11345,5.0,18,10,3.0,7,19,0.0,Research & Development,3,Healthcare Representative,No
+1646,10502,Technical Degree,2,10502,3760.0,Yes,10502,2.0,6,3,1.0,3,6,1.0,Research & Development,1,Research Scientist,No
+508,10511,Technical Degree,2,10511,2476.0,No,10511,3.0,1,0,0.0,0,1,1.0,Sales,1,Sales Representative,No
+1755,10516,Medical,2,10516,,Yes,10516,3.0,5,0,1.0,2,6,0.0,Research & Development,1,Research Scientist,No
+712,10519,Marketing,2,10519,8120.0,No,10519,3.0,2,2,2.0,2,12,3.0,Sales,2,Sales Executive,No
+1613,10521,Other,2,10521,5332.0,No,10521,3.0,5,2,0.0,3,10,7.0,Sales,2,Sales Executive,No
+363,10530,Technical Degree,2,10530,16872.0,Yes,10530,2.0,7,7,7.0,7,28,3.0,Sales,4,Manager,No
+1824,10538,Medical,2,10538,16291.0,No,10538,0.0,16,9,14.0,14,37,4.0,Sales,4,Manager,No
+783,10539,Technical Degree,2,10539,6632.0,No,10539,3.0,8,7,3.0,1,9,0.0,Sales,2,Sales Representative,No
+1246,10550,Life Sciences,2,10550,2011.0,No,10550,5.0,10,5,7.0,7,10,1.0,Research & Development,1,Research Scientist,No
+1996,10560,Life Sciences,2,10560,,No,10560,1.0,2,2,1.0,2,3,0.0,Sales,1,Sales Representative,No
+1974,10577,Medical,2,10577,1129.0,Yes,10577,4.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,No
+1294,10582,Life Sciences,2,10582,5410.0,Yes,10582,2.0,16,14,5.0,12,18,9.0,Research & Development,2,Manufacturing Director,No
+1032,10583,Life Sciences,2,10583,13726.0,Yes,10583,4.0,5,3,4.0,3,30,3.0,Research & Development,4,Manufacturing Director,No
+38,10587,Marketing,2,10587,18947.0,No,10587,2.0,2,2,2.0,1,22,3.0,Sales,5,Manager,No
+556,10588,Life Sciences,2,10588,1702.0,Yes,10588,3.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,No
+4,10590,Other,2,10590,2090.0,Yes,10590,3.0,0,0,0.0,0,7,6.0,Research & Development,1,Laboratory Technician,Yes
+139,10595,Life Sciences,2,10595,5163.0,No,10595,2.0,1,0,0.0,0,17,5.0,Research & Development,2,Healthcare Representative,No
+1513,10596,Life Sciences,2,10596,3180.0,No,10596,3.0,3,2,0.0,2,4,0.0,Research & Development,1,Laboratory Technician,No
+1472,10602,Medical,2,10602,16598.0,No,10602,2.0,9,8,,8,35,4.0,Research & Development,4,Research Director,No
+2038,10607,Technical Degree,2,10607,2439.0,No,10607,4.0,4,2,1.0,2,4,1.0,Research & Development,1,Research Scientist,No
+771,10611,Life Sciences,2,10611,5093.0,No,10611,2.0,1,0,0.0,0,16,2.0,Research & Development,2,Healthcare Representative,No
+1383,10617,Technical Degree,2,10617,6687.0,No,10617,2.0,14,11,4.0,11,14,1.0,Research & Development,2,Healthcare Representative,No
+388,10622,Life Sciences,2,10622,4554.0,No,10622,3.0,10,7,0.0,9,10,1.0,Sales,2,Sales Executive,No
+807,10633,Medical,2,10633,4244.0,No,10633,2.0,8,7,3.0,7,8,1.0,Research & Development,2,Healthcare Representative,No
+1375,10642,Medical,2,10642,6377.0,No,10642,0.0,12,11,11.0,8,15,5.0,Research & Development,2,Healthcare Representative,No
+469,10643,Life Sciences,2,10643,4649.0,No,10643,3.0,4,3,0.0,2,4,1.0,Sales,2,Sales Executive,No
+1986,10654,Marketing,2,10654,5677.0,No,10654,4.0,11,8,5.0,10,15,,Sales,2,Sales Executive,No
+1127,10655,Life Sciences,2,10655,12169.0,No,10655,4.0,18,7,11.0,5,21,7.0,Research & Development,4,Healthcare Representative,Yes
+922,10663,Medical,2,10663,2044.0,No,10663,3.0,2,2,0.0,2,2,1.0,Sales,1,Sales Representative,Yes
+981,10672,Medical,2,10672,14852.0,No,10672,3.0,17,13,15.0,2,22,6.0,Sales,4,Manager,No
+787,10674,Medical,2,10674,19859.0,Yes,10674,2.0,5,2,1.0,4,24,5.0,Research & Development,5,Manager,Yes
+1053,10675,Life Sciences,2,10675,2042.0,Yes,10675,2.0,3,2,1.0,2,6,6.0,Research & Development,1,Research Scientist,Yes
+1182,10678,Life Sciences,2,10678,10274.0,No,10678,2.0,7,7,6.0,4,15,2.0,Research & Development,3,Manufacturing Director,No
+1355,10679,Life Sciences,2,10679,6893.0,No,10679,3.0,7,7,1.0,7,11,3.0,Sales,2,Sales Executive,No
+1653,10684,Life Sciences,2,10684,5206.0,No,10684,6.0,7,7,0.0,7,7,1.0,Research & Development,2,Manufacturing Director,No
+1676,10685,Life Sciences,2,10685,15972.0,No,10685,2.0,3,2,1.0,2,29,6.0,Sales,4,Manager,No
+595,10691,Marketing,2,10691,4051.0,No,10691,2.0,9,7,6.0,7,14,2.0,Sales,2,Sales Executive,No
+1407,10692,Medical,2,10692,3904.0,No,10692,2.0,4,3,1.0,1,5,0.0,Research & Development,1,Research Scientist,No
+1474,10713,Medical,2,10713,2345.0,No,10713,3.0,3,1,1.0,2,8,2.0,Research & Development,1,Research Scientist,No
+786,10718,Other,2,10718,6274.0,No,10718,5.0,6,5,1.0,4,6,1.0,Sales,2,Sales Executive,No
+1635,10728,Other,2,10728,5770.0,No,10728,3.0,10,7,3.0,9,10,1.0,Research & Development,2,Manufacturing Director,No
+49,10729,Marketing,2,10729,2014.0,No,10729,3.0,2,2,2.0,2,2,1.0,Sales,1,Sales Representative,No
+2031,10734,Life Sciences,2,10734,18880.0,No,10734,2.0,22,6,4.0,14,24,5.0,Research & Development,5,Manager,No
+1987,10736,Human Resources,2,10736,2187.0,No,10736,3.0,2,0,1.0,2,6,4.0,Human Resources,1,Human Resources,No
+94,10740,Life Sciences,2,10740,2703.0,No,10740,3.0,5,4,0.0,4,6,0.0,Research & Development,1,Research Scientist,No
+625,10747,Life Sciences,2,10747,16595.0,No,10747,2.0,18,16,11.0,8,22,7.0,Sales,4,Manager,No
+834,10750,Life Sciences,2,10750,2274.0,No,10750,3.0,1,0,0.0,0,1,1.0,Research & Development,1,Research Scientist,No
+1992,10757,Other,2,10757,3977.0,Yes,10757,2.0,2,2,0.0,2,7,6.0,Research & Development,1,Laboratory Technician,No
+1379,10758,Life Sciences,2,10758,2785.0,No,10758,3.0,1,0,0.0,0,3,7.0,Sales,1,Sales Representative,Yes
+1692,10765,Life Sciences,2,10765,1393.0,No,10765,2.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,Yes
+1845,10768,Life Sciences,2,10768,5154.0,No,10768,3.0,8,7,5.0,7,10,4.0,Sales,2,Sales Executive,No
+1706,10778,Medical,2,10778,7847.0,Yes,10778,3.0,10,9,8.0,8,10,1.0,Sales,2,Sales Executive,No
+256,10794,Life Sciences,2,10794,9547.0,No,10794,2.0,10,9,1.0,9,10,1.0,Research & Development,2,Manufacturing Director,No
+440,10797,Medical,2,10797,3464.0,Yes,10797,4.0,3,2,2.0,2,5,5.0,Research & Development,1,Research Scientist,Yes
+977,10802,Technical Degree,2,10802,2479.0,No,10802,4.0,1,0,0.0,0,7,4.0,Research & Development,1,Research Scientist,Yes
+216,10814,Marketing,2,10814,2231.0,No,10814,3.0,4,3,1.0,2,6,6.0,Sales,1,Sales Representative,No
+140,10832,Human Resources,2,10832,18844.0,No,10832,3.0,3,2,2.0,2,30,9.0,Human Resources,5,Manager,No
+54,10837,Life Sciences,2,10837,2341.0,No,10837,6.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,No
+1296,10839,Life Sciences,2,10839,3867.0,Yes,10839,2.0,2,2,2.0,2,2,1.0,Research & Development,1,Laboratory Technician,No
+1140,10844,Life Sciences,2,10844,4033.0,No,10844,3.0,3,2,0.0,2,5,2.0,Research & Development,2,Manufacturing Director,No
+1038,10860,Marketing,2,10860,19845.0,No,10860,3.0,32,14,6.0,9,33,1.0,Sales,5,Manager,Yes
+352,10861,Medical,2,10861,19436.0,No,10861,5.0,21,7,3.0,9,22,0.0,Research & Development,5,Research Director,No
+1336,10862,Medical,2,10862,19187.0,No,10862,5.0,19,9,9.0,11,23,4.0,Research & Development,5,Manager,No
+439,10867,Medical,2,10867,5055.0,No,10867,0.0,7,7,0.0,7,10,7.0,Research & Development,2,Research Scientist,No
+113,10881,Technical Degree,2,10881,2322.0,No,10881,3.0,0,0,0.0,0,3,3.0,Sales,1,Sales Representative,No
+1710,10886,Life Sciences,2,10886,4502.0,No,10886,2.0,13,7,6.0,7,17,3.0,Sales,2,Sales Representative,No
+875,10892,Medical,2,10892,2515.0,Yes,10892,2.0,2,1,2.0,2,8,5.0,Research & Development,1,Research Scientist,No
+426,10893,Life Sciences,2,10893,2695.0,Yes,10893,2.0,2,2,2.0,2,3,0.0,Research & Development,1,Research Scientist,No
+575,10894,Life Sciences,2,10894,17861.0,No,10894,2.0,3,2,0.0,1,26,6.0,Research & Development,4,Research Director,No
+1496,10897,Medical,2,10897,10209.0,Yes,10897,2.0,2,2,2.0,2,16,5.0,Research & Development,3,Manufacturing Director,No
+548,10898,Life Sciences,2,10898,6091.0,No,10898,2.0,5,4,0.0,2,11,2.0,Research & Development,2,Manufacturing Director,No
+23,10906,Life Sciences,2,10906,15427.0,No,10906,3.0,25,8,3.0,7,31,2.0,Sales,4,Manager,No
+1804,10913,Medical,2,10913,5762.0,No,10913,6.0,7,7,1.0,7,15,2.0,Research & Development,2,Manufacturing Director,No
+571,10914,Medical,2,10914,2564.0,No,10914,2.0,11,7,6.0,7,12,0.0,Research & Development,1,Laboratory Technician,No
+339,10927,Life Sciences,2,10927,5957.0,No,10927,3.0,11,9,5.0,9,13,6.0,Research & Development,2,Manufacturing Director,No
+437,10928,Life Sciences,2,10928,4478.0,Yes,10928,3.0,5,4,0.0,4,5,1.0,Sales,2,Sales Executive,No
+828,10934,Medical,2,10934,4382.0,No,10934,3.0,2,2,2.0,1,5,6.0,Research & Development,1,Research Scientist,Yes
+1235,10938,Life Sciences,2,10938,4998.0,Yes,10938,2.0,8,7,0.0,7,10,4.0,Research & Development,2,Research Scientist,No
+364,10940,Life Sciences,2,10940,3485.0,No,10940,5.0,0,0,0.0,0,5,2.0,Research & Development,1,Laboratory Technician,Yes
+1789,10942,Medical,2,10942,19328.0,Yes,10942,3.0,2,1,2.0,2,24,7.0,Research & Development,5,Research Director,No
+24,10963,Life Sciences,2,10963,3944.0,Yes,10963,3.0,3,2,1.0,2,6,5.0,Research & Development,1,Research Scientist,No
+1556,10964,Life Sciences,2,10964,2644.0,Yes,10964,3.0,3,2,1.0,2,7,3.0,Sales,1,Sales Representative,No
+1931,10968,Technical Degree,2,10968,2226.0,No,10968,3.0,5,3,1.0,2,6,1.0,Research & Development,1,Research Scientist,No
+1443,11002,Medical,2,11002,17169.0,No,11002,2.0,20,17,5.0,6,26,3.0,Research & Development,4,Research Director,No
+1391,11005,Marketing,2,11005,10596.0,No,11005,5.0,4,2,3.0,2,14,2.0,Sales,3,Sales Executive,No
+408,11013,Medical,2,11013,5482.0,No,11013,3.0,4,1,1.0,2,13,5.0,Research & Development,2,Manufacturing Director,No
+1050,11023,Marketing,2,11023,7525.0,No,11023,2.0,15,7,6.0,12,30,2.0,Sales,3,Sales Executive,No
+1125,11034,Marketing,2,11034,7351.0,No,11034,2.0,1,0,0.0,0,10,7.0,Sales,3,Sales Executive,No
+470,11035,Technical Degree,2,11035,2696.0,Yes,11035,5.0,3,2,1.0,0,4,0.0,Human Resources,1,Human Resources,No
+271,11041,Life Sciences,2,11041,6553.0,No,11041,3.0,1,0,0.0,0,14,9.0,Research & Development,2,Manufacturing Director,No
+804,11042,Medical,2,11042,4381.0,No,11042,3.0,6,5,1.0,3,6,1.0,Research & Development,1,Research Scientist,No
+1890,11050,Human Resources,2,11050,3886.0,No,11050,2.0,10,1,0.0,8,10,1.0,Human Resources,2,Human Resources,No
+656,11053,Marketing,2,11053,9602.0,Yes,11053,3.0,3,0,1.0,0,17,4.0,Sales,2,Sales Executive,No
+362,11064,Technical Degree,2,11064,2176.0,No,11064,5.0,6,2,0.0,4,9,4.0,Research & Development,2,Laboratory Technician,No
+846,11081,Marketing,2,11081,4779.0,Yes,11081,2.0,8,7,7.0,5,8,1.0,Sales,2,Sales Executive,No
+521,11095,Medical,2,11095,3448.0,No,11095,3.0,1,0,0.0,0,20,6.0,Research & Development,2,Laboratory Technician,No
+616,11109,Other,2,11109,6811.0,Yes,11109,3.0,8,7,0.0,7,10,2.0,Research & Development,2,Healthcare Representative,No
+328,11110,Life Sciences,2,11110,2707.0,No,11110,3.0,9,7,1.0,7,13,7.0,Research & Development,1,Laboratory Technician,Yes
+1504,11122,Medical,2,11122,2561.0,No,11122,2.0,0,0,0.0,0,8,7.0,Research & Development,1,Laboratory Technician,Yes
+1096,11126,Life Sciences,2,11126,10976.0,No,11126,4.0,3,2,1.0,2,23,3.0,Research & Development,3,Manufacturing Director,No
+1873,11128,Technical Degree,2,11128,2662.0,No,11128,2.0,5,2,0.0,4,19,8.0,Research & Development,1,Research Scientist,No
+1109,11134,Medical,2,11134,17665.0,No,11134,3.0,22,6,13.0,7,23,0.0,Research & Development,4,Manager,No
+667,11137,Marketing,2,11137,3041.0,No,11137,3.0,4,3,0.0,2,5,0.0,Sales,1,Sales Representative,Yes
+1074,11140,Medical,2,11140,16756.0,No,11140,3.0,9,7,6.0,2,31,7.0,Research & Development,4,Manager,No
+579,11159,Life Sciences,2,11159,2768.0,No,11159,3.0,7,3,5.0,7,14,3.0,Research & Development,1,Research Scientist,No
+1732,11160,Life Sciences,2,11160,10368.0,Yes,11160,5.0,10,6,0.0,3,13,4.0,Sales,3,Sales Executive,No
+1670,11169,Medical,2,11169,5505.0,No,11169,5.0,6,2,0.0,4,6,1.0,Sales,2,Sales Executive,No
+243,11186,Life Sciences,2,11186,1102.0,No,11186,3.0,1,0,1.0,0,1,1.0,Research & Development,1,Laboratory Technician,Yes
+1805,11187,Human Resources,2,11187,2592.0,No,11187,3.0,11,10,3.0,8,13,5.0,Human Resources,1,Human Resources,No
+477,11190,Other,2,11190,6781.0,No,11190,6.0,1,0,0.0,0,14,3.0,Research & Development,2,Healthcare Representative,No
+925,11193,Life Sciences,2,11193,3294.0,Yes,11193,3.0,3,2,1.0,2,3,1.0,Sales,1,Sales Representative,No
+905,11207,Life Sciences,2,11207,17924.0,No,11207,3.0,31,6,14.0,7,31,1.0,Research & Development,4,Manager,No
+1258,11210,Technical Degree,2,11210,2559.0,No,11210,4.0,1,0,0.0,0,7,5.0,Research & Development,1,Laboratory Technician,No
+169,11227,Technical Degree,2,11227,2523.0,No,11227,2.0,2,1,2.0,1,3,0.0,Research & Development,1,Laboratory Technician,No
+1898,11233,Medical,2,11233,6500.0,No,11233,5.0,8,7,0.0,7,9,0.0,Sales,2,Sales Executive,No
+242,11247,Life Sciences,2,11247,2500.0,No,11247,2.0,3,1,0.0,2,4,0.0,Research & Development,1,Research Scientist,No
+126,11252,Technical Degree,2,11252,13549.0,No,11252,5.0,4,3,0.0,3,16,9.0,Research & Development,3,Research Director,No
+1277,11257,Marketing,2,11257,18824.0,Yes,11257,2.0,24,10,1.0,11,26,2.0,Sales,5,Manager,Yes
+820,11259,Other,2,11259,16752.0,Yes,11259,3.0,26,14,3.0,0,26,1.0,Research & Development,4,Manager,No
+1228,11266,Technical Degree,2,11266,7379.0,No,11266,3.0,6,3,1.0,4,12,2.0,Research & Development,2,Manufacturing Director,No
+343,11270,Technical Degree,2,11270,10938.0,No,11270,1.0,19,6,11.0,8,20,0.0,Research & Development,3,Healthcare Representative,No
+1547,11272,Life Sciences,2,11272,10124.0,Yes,11272,3.0,20,8,13.0,9,24,2.0,Research & Development,3,Healthcare Representative,No
+1190,11275,Life Sciences,2,11275,2827.0,No,11275,3.0,1,0,0.0,0,1,1.0,Sales,1,Sales Representative,No
+721,11279,Technical Degree,2,11279,4553.0,No,11279,4.0,20,7,11.0,10,20,1.0,Research & Development,2,Healthcare Representative,No
+1731,11282,Marketing,2,11282,4978.0,No,11282,3.0,1,0,0.0,0,4,7.0,Sales,2,Sales Executive,No
+1770,11286,Medical,2,11286,19038.0,No,11286,2.0,1,0,0.0,0,34,8.0,Research & Development,5,Research Director,No
+1638,11290,Medical,2,11290,7756.0,Yes,11290,6.0,5,4,0.0,2,10,3.0,Research & Development,3,Manufacturing Director,No
+604,11299,Life Sciences,2,11299,6582.0,Yes,11299,2.0,6,5,0.0,5,10,4.0,Sales,2,Sales Executive,No
+833,11314,Medical,2,11314,6877.0,Yes,11314,4.0,0,0,0.0,0,12,5.0,Research & Development,2,Manufacturing Director,No
+198,11316,Medical,2,11316,2720.0,No,11316,3.0,5,3,1.0,2,6,0.0,Research & Development,1,Laboratory Technician,No
+1281,11325,Marketing,2,11325,4538.0,Yes,11325,3.0,3,2,0.0,2,4,0.0,Sales,2,Sales Executive,No
+1760,11326,Medical,2,11326,2468.0,No,11326,4.0,6,1,0.0,5,9,4.0,Research & Development,1,Laboratory Technician,No
+269,11367,Medical,2,11367,4425.0,No,11367,5.0,6,2,1.0,2,10,5.0,Research & Development,2,Laboratory Technician,No
+966,10514,Medical,3,10514,6725.0,No,10514,2.0,8,7,6.0,3,8,1.0,Research & Development,2,Manufacturing Director,No
+1586,10555,Medical,3,10555,4723.0,Yes,10555,3.0,10,9,1.0,5,10,1.0,Research & Development,1,Laboratory Technician,No
+967,10558,Life Sciences,3,10558,10325.0,Yes,10558,6.0,16,7,3.0,7,16,1.0,Sales,3,Sales Executive,Yes
+1527,10594,Life Sciences,3,10594,16606.0,No,10594,2.0,13,12,5.0,1,23,8.0,Sales,4,Manager,No
+1177,10603,Medical,3,10603,4420.0,No,10603,2.0,8,7,0.0,7,8,1.0,Research & Development,1,Laboratory Technician,No
+1863,10627,Technical Degree,3,10627,13225.0,No,10627,5.0,19,17,2.0,8,25,2.0,Sales,4,Sales Executive,No
+152,10637,Life Sciences,3,10637,7428.0,No,10637,3.0,5,3,1.0,3,12,2.0,Sales,3,Sales Executive,No
+700,10712,Medical,3,10712,2045.0,No,10712,0.0,4,2,1.0,1,5,0.0,Research & Development,1,Research Scientist,No
+128,10726,Other,3,10726,4999.0,No,10726,2.0,3,2,0.0,2,4,0.0,Sales,2,Sales Executive,No
+303,10731,Marketing,3,10731,5940.0,No,10731,4.0,6,2,0.0,5,16,2.0,Sales,2,Sales Executive,No
+1658,10769,Life Sciences,3,10769,5433.0,No,10769,2.0,11,8,7.0,9,11,1.0,Research & Development,2,Research Scientist,No
+1115,10805,Life Sciences,3,10805,2979.0,No,10805,2.0,0,0,0.0,0,6,3.0,Research & Development,1,Research Scientist,No
+1537,10810,Life Sciences,3,10810,4084.0,No,10810,2.0,7,2,7.0,7,7,1.0,Research & Development,1,Research Scientist,Yes
+1103,10835,Life Sciences,3,10835,7756.0,No,10835,1.0,6,2,0.0,4,7,0.0,Research & Development,2,Healthcare Representative,No
+680,10841,Medical,3,10841,2083.0,No,10841,2.0,1,0,0.0,0,1,1.0,Research & Development,1,Research Scientist,No
+1478,10853,Other,3,10853,4759.0,No,10853,2.0,13,9,3.0,12,15,3.0,Sales,2,Sales Executive,No
+1948,10890,Medical,3,10890,3065.0,Yes,10890,3.0,4,2,2.0,3,4,1.0,Research & Development,1,Research Scientist,No
+564,10917,Medical,3,10917,11935.0,No,10917,2.0,10,2,0.0,7,10,1.0,Research & Development,3,Research Director,No
+379,10925,Medical,3,10925,3230.0,No,10925,4.0,3,2,1.0,0,3,1.0,Research & Development,1,Research Scientist,No
+47,10936,Marketing,3,10936,2683.0,Yes,10936,2.0,3,2,0.0,2,3,1.0,Sales,1,Sales Representative,Yes
+309,11022,Life Sciences,3,11022,2177.0,No,11022,6.0,1,0,0.0,0,7,3.0,Research & Development,1,Research Scientist,No
+224,11040,Medical,3,11040,2566.0,Yes,11040,2.0,1,1,0.0,1,1,1.0,Research & Development,1,Research Scientist,No
+238,11058,Medical,3,11058,2088.0,No,11058,3.0,8,7,7.0,2,13,4.0,Research & Development,1,Laboratory Technician,No
+704,11117,Life Sciences,3,11117,1281.0,No,11117,3.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,No
+1036,11130,Life Sciences,3,11130,6861.0,Yes,11130,1.0,1,0,0.0,0,19,8.0,Sales,2,Sales Executive,No
+155,11131,Life Sciences,3,11131,2835.0,No,11131,2.0,1,0,0.0,0,7,5.0,Research & Development,1,Laboratory Technician,No
+1250,11167,Life Sciences,3,11167,17779.0,No,11167,2.0,10,9,0.0,9,36,3.0,Research & Development,4,Research Director,No
+1624,11196,Medical,3,11196,1569.0,Yes,11196,2.0,0,0,0.0,0,0,1.0,Sales,1,Sales Representative,Yes
+481,11211,Medical,3,11211,9699.0,No,11211,2.0,13,9,1.0,12,16,4.0,Sales,3,Sales Executive,No
+1121,11217,Medical,3,11217,7655.0,No,11217,3.0,9,7,1.0,7,10,0.0,Research & Development,3,Manufacturing Director,No
+689,11218,Other,3,11218,9434.0,No,11218,2.0,10,7,7.0,8,10,1.0,Research & Development,3,Manufacturing Director,No
+445,11229,Medical,3,11229,5238.0,Yes,11229,3.0,1,0,0.0,0,12,4.0,Sales,2,Sales Executive,Yes
+1254,11235,Life Sciences,3,11235,5171.0,No,11235,2.0,6,1,0.0,5,13,5.0,Sales,2,Sales Executive,No
+847,11262,Human Resources,3,11262,3737.0,No,11262,1.0,3,2,0.0,2,4,0.0,Human Resources,1,Human Resources,No
+910,11280,Human Resources,3,11280,2277.0,Yes,11280,4.0,4,3,0.0,3,7,3.0,Human Resources,1,Human Resources,No
+1786,11284,Technical Degree,3,11284,13116.0,No,11284,2.0,2,2,2.0,2,15,2.0,Research & Development,3,Manager,No
+1509,11288,Medical,3,11288,4789.0,No,11288,3.0,3,2,1.0,2,10,4.0,Research & Development,2,Laboratory Technician,No
+702,11293,Life Sciences,3,11293,3348.0,Yes,11293,3.0,10,8,9.0,7,10,1.0,Research & Development,1,Research Scientist,Yes
+1664,11297,Life Sciences,3,11297,6842.0,No,11297,3.0,5,4,0.0,4,13,6.0,Research & Development,2,Healthcare Representative,No
+644,11327,Medical,3,11327,18200.0,No,11327,2.0,32,5,10.0,7,32,1.0,Human Resources,5,Manager,No
+405,11338,Life Sciences,3,11338,1420.0,No,11338,2.0,0,0,0.0,0,0,1.0,Research & Development,1,Laboratory Technician,Yes
+1779,11342,Life Sciences,3,11342,6029.0,No,11342,3.0,2,2,2.0,2,6,5.0,Sales,2,Sales Executive,No
+201,11344,Medical,3,11344,1483.0,No,11344,3.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,No
+297,11354,Technical Degree,3,11354,2657.0,Yes,11354,5.0,5,2,0.0,4,8,5.0,Research & Development,1,Research Scientist,Yes
+746,11361,Medical,3,11361,13770.0,Yes,11361,2.0,22,2,11.0,13,28,9.0,Sales,4,Sales Executive,No
+972,10551,Life Sciences,4,10551,4447.0,No,10551,5.0,9,7,0.0,8,9,1.0,Research & Development,2,Laboratory Technician,No
+523,10600,Marketing,4,10600,6538.0,No,10600,3.0,3,2,1.0,2,6,9.0,Sales,2,Sales Executive,No
+705,10601,Medical,4,10601,2819.0,No,10601,3.0,3,2,0.0,2,5,2.0,Research & Development,1,Research Scientist,No
+385,10686,Life Sciences,4,10686,19144.0,No,10686,4.0,10,4,1.0,6,28,3.0,Research & Development,5,Research Director,No
+129,10687,Medical,4,10687,4221.0,No,10687,3.0,5,4,0.0,4,5,1.0,Sales,2,Sales Executive,No
+830,10700,Life Sciences,4,10700,6162.0,No,10700,3.0,14,13,6.0,8,14,1.0,Research & Development,2,Manufacturing Director,No
+330,10702,Life Sciences,4,10702,3931.0,No,10702,5.0,4,3,1.0,2,6,2.0,Sales,1,Sales Representative,No
+1275,10717,Life Sciences,4,10717,2875.0,Yes,10717,2.0,8,5,2.0,2,8,1.0,Research & Development,1,Research Scientist,No
+53,10724,Other,4,10724,1951.0,No,10724,3.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,No
+1882,10756,Life Sciences,4,10756,9713.0,Yes,10756,3.0,5,3,1.0,0,9,2.0,Sales,3,Sales Executive,No
+1191,10773,Technical Degree,4,10773,19943.0,No,10773,2.0,5,2,4.0,2,28,4.0,Research & Development,5,Manager,No
+1501,10777,Life Sciences,4,10777,4035.0,Yes,10777,2.0,3,2,1.0,2,4,0.0,Research & Development,2,Healthcare Representative,No
+888,10803,Life Sciences,4,10803,3162.0,No,10803,2.0,5,2,3.0,4,6,0.0,Research & Development,1,Laboratory Technician,No
+1003,10813,Life Sciences,4,10813,4163.0,Yes,10813,0.0,9,0,0.0,7,9,1.0,Sales,2,Sales Executive,No
+933,10823,Life Sciences,4,10823,2318.0,No,10823,2.0,1,1,0.0,0,1,1.0,Research & Development,1,Research Scientist,No
+291,10829,Medical,4,10829,10400.0,No,10829,2.0,14,8,9.0,8,14,1.0,Sales,3,Sales Executive,Yes
+1815,10852,Marketing,4,10852,10447.0,Yes,10852,3.0,22,14,13.0,5,23,0.0,Sales,3,Sales Executive,No
+1081,10882,Life Sciences,4,10882,2461.0,Yes,10882,2.0,10,0,2.0,7,18,9.0,Research & Development,1,Research Scientist,Yes
+1762,10931,Technical Degree,4,10931,2109.0,No,10931,2.0,1,0,0.0,0,1,1.0,Research & Development,1,Research Scientist,No
+1435,10957,Life Sciences,4,10957,5810.0,No,10957,2.0,10,4,1.0,8,10,1.0,Research & Development,2,Laboratory Technician,No
+311,11006,Marketing,4,11006,2793.0,No,11006,2.0,9,8,5.0,8,13,4.0,Sales,1,Sales Representative,No
+240,11024,Life Sciences,4,11024,5006.0,Yes,11024,3.0,5,4,0.0,3,9,4.0,Sales,2,Sales Executive,No
+1171,11037,Marketing,4,11037,5155.0,No,11037,3.0,6,4,1.0,5,9,7.0,Sales,2,Sales Executive,No
+1633,11076,Medical,4,11076,5042.0,No,11076,2.0,9,2,3.0,8,10,0.0,Research & Development,2,Manufacturing Director,No
+2064,11096,Life Sciences,4,11096,6142.0,Yes,11096,0.0,6,2,0.0,3,6,1.0,Research & Development,2,Manufacturing Director,No
+1502,11114,Medical,4,11114,3838.0,No,11114,5.0,5,4,0.0,2,8,8.0,Research & Development,1,Laboratory Technician,No
+1259,11123,Life Sciences,4,11123,2517.0,No,11123,2.0,5,3,0.0,3,5,1.0,Research & Development,1,Research Scientist,No
+1445,11124,Medical,4,11124,4162.0,Yes,11124,3.0,5,4,0.0,3,5,1.0,Sales,2,Sales Executive,No
+1185,11133,Other,4,11133,2376.0,No,11133,2.0,2,2,2.0,2,2,1.0,Research & Development,1,Laboratory Technician,No
+215,11143,Marketing,4,11143,10855.0,No,11143,2.0,12,11,2.0,11,15,7.0,Sales,3,Sales Executive,No
+593,11152,Technical Degree,4,11152,3894.0,No,11152,3.0,2,2,1.0,2,4,5.0,Research & Development,1,Laboratory Technician,Yes
+1280,11173,Marketing,4,11173,18789.0,No,11173,2.0,11,4,0.0,8,26,2.0,Sales,5,Manager,No
+2025,11176,Life Sciences,4,11176,5131.0,No,11176,3.0,4,2,0.0,2,18,7.0,Research & Development,2,Manufacturing Director,No
+885,11178,Marketing,4,11178,4256.0,No,11178,1.0,5,2,0.0,3,5,1.0,Sales,2,Sales Executive,No
+305,11185,Medical,4,11185,2622.0,No,11185,3.0,3,2,1.0,1,7,6.0,Research & Development,1,Research Scientist,No
+514,11191,Technical Degree,4,11191,2285.0,Yes,11191,4.0,1,0,0.0,0,3,9.0,Research & Development,1,Research Scientist,Yes
+1644,11194,Medical,4,11194,15202.0,No,11194,3.0,2,2,2.0,2,23,2.0,Research & Development,4,Manager,No
+1735,11241,Medical,4,11241,3295.0,No,11241,3.0,3,2,1.0,2,3,1.0,Research & Development,1,Laboratory Technician,No
+1687,11256,Medical,4,11256,3306.0,No,11256,5.0,0,0,0.0,0,7,7.0,Research & Development,1,Laboratory Technician,No
+1100,11301,Technical Degree,4,11301,9582.0,Yes,11301,2.0,8,7,4.0,7,9,0.0,Sales,3,Sales Executive,Yes
+1394,11334,Life Sciences,4,11334,2996.0,Yes,11334,2.0,6,4,1.0,3,8,7.0,Research & Development,1,Research Scientist,No
+1827,11336,Life Sciences,4,11336,10333.0,Yes,11336,4.0,22,11,14.0,10,28,8.0,Research & Development,3,Manufacturing Director,No
+1293,11359,Marketing,4,11359,10231.0,No,11359,3.0,21,7,15.0,17,23,3.0,Sales,3,Sales Executive,No
+1363,11363,Life Sciences,4,11363,7898.0,No,11363,2.0,10,9,0.0,8,11,1.0,Research & Development,3,Manufacturing Director,No
+1448,10504,Medical,5,10504,2127.0,Yes,10504,5.0,4,2,0.0,3,7,2.0,Research & Development,1,Research Scientist,No
+1267,10523,Marketing,5,10523,18213.0,No,10523,5.0,22,9,3.0,10,26,7.0,Sales,5,Manager,No
+1966,10532,Life Sciences,5,10532,9679.0,No,10532,1.0,1,0,0.0,0,8,8.0,Research & Development,2,Manufacturing Director,No
+614,10546,Marketing,5,10546,1878.0,Yes,10546,3.0,0,0,0.0,0,0,1.0,Sales,1,Sales Representative,Yes
+21,10563,Life Sciences,5,10563,3298.0,Yes,10563,5.0,6,2,0.0,5,7,0.0,Research & Development,1,Research Scientist,No
+1469,10569,Medical,5,10569,8463.0,No,10569,4.0,5,4,1.0,3,6,0.0,Sales,2,Sales Executive,No
+1319,10572,Life Sciences,5,10572,8446.0,Yes,10572,2.0,8,7,7.0,7,10,9.0,Sales,3,Sales Executive,Yes
+2021,10619,Medical,5,10619,2380.0,Yes,10619,6.0,2,2,1.0,2,2,1.0,Sales,1,Sales Representative,No
+1669,10628,Medical,5,10628,4187.0,Yes,10628,3.0,10,0,0.0,9,10,1.0,Sales,2,Sales Executive,No
+1814,10651,Life Sciences,5,10651,6870.0,No,10651,3.0,3,2,1.0,2,11,3.0,Research & Development,2,Healthcare Representative,No
+197,10706,Technical Degree,5,10706,3204.0,No,10706,3.0,3,2,2.0,2,8,5.0,Research & Development,1,Research Scientist,No
+1029,10709,Marketing,5,10709,18303.0,No,10709,3.0,1,0,0.0,0,21,6.0,Sales,5,Manager,No
+284,10725,Life Sciences,5,10725,2328.0,Yes,10725,2.0,4,2,2.0,2,4,1.0,Research & Development,1,Research Scientist,No
+399,10754,Marketing,5,10754,2789.0,No,10754,5.0,2,2,2.0,2,2,1.0,Sales,1,Sales Representative,No
+142,10776,Marketing,5,10776,5744.0,Yes,10776,1.0,6,4,0.0,3,6,1.0,Sales,2,Sales Executive,Yes
+889,10798,Life Sciences,5,10798,6524.0,No,10798,3.0,10,8,5.0,3,10,1.0,Sales,2,Sales Executive,No
+861,10820,Life Sciences,5,10820,3761.0,No,10820,3.0,5,4,0.0,3,10,9.0,Research & Development,1,Research Scientist,No
+51,10838,Life Sciences,5,10838,3419.0,Yes,10838,3.0,1,1,0.0,0,6,9.0,Research & Development,1,Research Scientist,No
+1099,10840,Life Sciences,5,10840,7119.0,No,10840,2.0,3,2,1.0,2,9,4.0,Research & Development,3,Healthcare Representative,No
+447,10878,Life Sciences,5,10878,18300.0,No,10878,2.0,3,2,1.0,1,21,4.0,Research & Development,5,Research Director,No
+1651,10901,Life Sciences,5,10901,8008.0,No,10901,6.0,3,2,0.0,2,9,4.0,Research & Development,3,Healthcare Representative,No
+1673,10954,Life Sciences,5,10954,5476.0,No,10954,2.0,10,0,0.0,2,10,1.0,Sales,2,Sales Executive,No
+591,10958,Other,5,10958,2093.0,No,10958,4.0,2,2,2.0,0,8,4.0,Research & Development,1,Laboratory Technician,No
+62,10973,Marketing,5,10973,5772.0,Yes,10973,4.0,9,6,0.0,8,14,4.0,Sales,2,Sales Executive,No
+1555,11003,Life Sciences,5,11003,5878.0,No,11003,2.0,7,1,2.0,5,12,3.0,Research & Development,2,Research Scientist,No
+485,11004,Marketing,5,11004,2851.0,Yes,11004,,1,0,0.0,0,1,1.0,Sales,1,Sales Representative,Yes
+1471,11075,Life Sciences,5,11075,3162.0,No,11075,5.0,5,2,0.0,3,7,3.0,Research & Development,1,Laboratory Technician,No
+1696,11113,Medical,5,11113,3986.0,No,11113,3.0,15,10,4.0,13,15,1.0,Research & Development,2,Laboratory Technician,No
+1210,11142,Life Sciences,5,11142,2107.0,No,11142,2.0,1,0,0.0,0,5,6.0,Research & Development,1,Research Scientist,Yes
+304,11195,Life Sciences,5,11195,5914.0,No,11195,3.0,13,11,3.0,7,16,8.0,Research & Development,2,Laboratory Technician,No
+1473,11255,Technical Degree,5,11255,6651.0,No,11255,0.0,3,2,1.0,2,20,2.0,Research & Development,2,Healthcare Representative,No
+1611,11263,Medical,5,11263,5769.0,Yes,11263,3.0,10,7,1.0,4,10,1.0,Research & Development,2,Laboratory Technician,No
+1607,11318,Other,5,11318,3312.0,No,11318,3.0,3,2,0.0,2,6,3.0,Research & Development,1,Research Scientist,No
+1866,10508,Medical,6,10508,19392.0,No,10508,2.0,16,12,6.0,14,21,7.0,Research & Development,5,Manager,No
+691,10564,Life Sciences,6,10564,6646.0,No,10564,3.0,17,11,11.0,8,17,1.0,Research & Development,2,Research Scientist,No
+302,10576,Medical,6,10576,8865.0,No,10576,2.0,19,7,12.0,8,23,6.0,Sales,3,Sales Executive,No
+1997,10580,Life Sciences,6,10580,5321.0,No,10580,1.0,8,3,7.0,7,10,2.0,Research & Development,2,Manufacturing Director,No
+474,10581,Medical,6,10581,5974.0,Yes,10581,2.0,7,7,6.0,7,13,4.0,Research & Development,2,Research Scientist,No
+1154,10608,Life Sciences,6,10608,2703.0,Yes,10608,2.0,3,1,0.0,2,3,1.0,Research & Development,1,Research Scientist,No
+1402,10626,Medical,6,10626,4081.0,Yes,10626,3.0,20,7,1.0,8,20,1.0,Research & Development,2,Research Scientist,No
+932,10636,Medical,6,10636,2404.0,Yes,10636,2.0,2,2,2.0,2,8,7.0,Research & Development,1,Laboratory Technician,Yes
+378,10641,Medical,6,10641,6502.0,No,10641,5.0,5,4,0.0,1,7,4.0,Sales,2,Sales Executive,No
+630,10666,Technical Degree,6,10666,5577.0,Yes,10666,3.0,10,9,6.0,9,18,3.0,Research & Development,2,Research Scientist,No
+1525,10681,Life Sciences,6,10681,8376.0,No,10681,3.0,2,0,2.0,2,9,4.0,Research & Development,3,Manufacturing Director,No
+1661,10727,Life Sciences,6,10727,13966.0,Yes,10727,3.0,15,11,2.0,12,30,2.0,Research & Development,4,Healthcare Representative,No
+957,10779,Medical,6,10779,4721.0,Yes,10779,3.0,18,13,2.0,17,20,2.0,Research & Development,1,Laboratory Technician,No
+1550,10792,Medical,6,10792,16437.0,Yes,10792,2.0,21,7,7.0,7,21,1.0,Human Resources,4,Manager,No
+1911,10848,Medical,6,10848,13348.0,No,10848,3.0,13,7,5.0,7,18,9.0,Research & Development,3,Research Director,No
+164,10854,Other,6,10854,2368.0,No,10854,3.0,5,4,4.0,3,5,1.0,Research & Development,1,Research Scientist,No
+373,10857,Life Sciences,6,10857,3210.0,No,10857,4.0,15,13,10.0,11,16,0.0,Research & Development,1,Laboratory Technician,No
+532,10863,Life Sciences,6,10863,13212.0,No,10863,0.0,7,7,7.0,7,36,9.0,Sales,4,Sales Executive,No
+661,10903,Other,6,10903,16627.0,Yes,10903,3.0,1,0,0.0,0,21,4.0,Research & Development,4,Research Director,No
+1221,10905,Life Sciences,6,10905,2741.0,No,10905,4.0,7,7,1.0,7,7,1.0,Research & Development,1,Laboratory Technician,No
+1708,10909,Marketing,6,10909,9241.0,No,10909,3.0,10,8,8.0,7,10,1.0,Sales,3,Sales Executive,No
+555,10912,Marketing,6,10912,2351.0,No,10912,3.0,2,2,1.0,0,3,0.0,Sales,1,Sales Representative,Yes
+163,10920,Life Sciences,6,10920,6172.0,Yes,10920,3.0,7,7,7.0,7,12,,Sales,2,Sales Executive,Yes
+97,10965,Life Sciences,6,10965,3038.0,No,10965,3.0,1,0,0.0,0,5,3.0,Research & Development,1,Laboratory Technician,No
+101,10970,Other,6,10970,13245.0,Yes,10970,3.0,0,0,0.0,0,17,4.0,Research & Development,3,Research Director,No
+1311,11016,Technical Degree,6,11016,4627.0,No,11016,6.0,9,2,6.0,7,10,0.0,Research & Development,2,Laboratory Technician,No
+107,11084,Medical,6,11084,5329.0,Yes,11084,3.0,13,11,1.0,9,17,7.0,Research & Development,2,Research Scientist,No
+1192,11101,Medical,6,11101,3131.0,No,11101,5.0,10,8,0.0,8,10,1.0,Research & Development,1,Laboratory Technician,No
+2062,11116,Medical,6,11116,9991.0,No,11116,5.0,7,7,1.0,7,9,4.0,Research & Development,3,Healthcare Representative,No
+137,11118,Life Sciences,6,11118,2926.0,Yes,11118,5.0,1,0,1.0,0,1,1.0,Research & Development,1,Laboratory Technician,Yes
+466,11156,Medical,6,11156,6032.0,Yes,11156,3.0,5,4,1.0,2,8,6.0,Research & Development,2,Manufacturing Director,No
+1865,11198,Medical,6,11198,2804.0,No,11198,3.0,1,0,0.0,0,1,1.0,Human Resources,1,Human Resources,No
+321,11202,Medical,6,11202,2267.0,No,11202,2.0,2,2,2.0,2,7,8.0,Human Resources,1,Human Resources,No
+1782,11206,Other,6,11206,3702.0,No,11206,3.0,5,4,0.0,4,5,1.0,Research & Development,1,Laboratory Technician,No
+1918,11347,Other,6,11347,2544.0,No,11347,3.0,7,7,7.0,7,8,0.0,Research & Development,1,Laboratory Technician,No
+1297,11358,Medical,6,11358,2838.0,No,11358,6.0,7,0,7.0,7,8,0.0,Research & Development,1,Laboratory Technician,No
+845,10510,Other,7,10510,10221.0,No,10510,3.0,8,5,1.0,6,17,3.0,Research & Development,3,Manufacturing Director,No
+487,10515,Medical,7,10515,5258.0,No,10515,2.0,1,0,0.0,0,7,2.0,Research & Development,2,Manufacturing Director,No
+359,10533,Life Sciences,7,10533,2794.0,No,10533,3.0,5,1,0.0,3,5,1.0,Research & Development,1,Laboratory Technician,No
+1118,10610,Life Sciences,7,10610,10445.0,No,10610,4.0,8,6,4.0,0,18,7.0,Research & Development,3,Healthcare Representative,No
+709,10621,Marketing,7,10621,4028.0,No,10621,2.0,7,7,0.0,5,8,0.0,Sales,2,Sales Executive,No
+1962,10623,Life Sciences,7,10623,5204.0,Yes,10623,2.0,10,8,0.0,9,10,1.0,Sales,2,Sales Executive,No
+1007,10640,Medical,7,10640,10845.0,_,10640,3.0,8,7,0.0,7,13,6.0,Research & Development,3,Manufacturing Director,No
+420,10650,Life Sciences,7,10650,5484.0,No,10650,3.0,13,8,4.0,8,13,1.0,Sales,2,Sales Executive,No
+1833,10689,Marketing,7,10689,9637.0,_,10689,3.0,3,2,2.0,2,9,2.0,Sales,3,Sales Executive,No
+36,10696,Medical,7,10696,10248.0,No,10696,4.0,22,6,5.0,17,24,3.0,Research & Development,3,Healthcare Representative,No
+912,10743,Medical,7,10743,2532.0,No,10743,5.0,4,3,0.0,3,8,6.0,Research & Development,1,Laboratory Technician,No
+462,10744,Medical,7,10744,7143.0,Yes,10744,2.0,11,9,4.0,10,11,1.0,Research & Development,3,Manufacturing Director,No
+1428,10755,Marketing,7,10755,4779.0,No,10755,3.0,3,2,0.0,2,8,7.0,Sales,2,Sales Executive,No
+1970,10766,Life Sciences,7,10766,5968.0,No,10766,2.0,9,7,2.0,8,9,1.0,Research & Development,2,Healthcare Representative,No
+438,10781,Marketing,7,10781,7547.0,No,10781,3.0,7,7,1.0,7,13,4.0,Sales,2,Sales Executive,No
+1878,10784,Life Sciences,7,10784,2472.0,Yes,10784,2.0,1,0,0.0,0,1,1.0,Research & Development,1,Research Scientist,Yes
+147,10795,Life Sciences,7,10795,6074.0,Yes,10795,3.0,9,7,0.0,6,9,1.0,Research & Development,2,Laboratory Technician,Yes
+211,10811,Medical,7,10811,6132.0,No,10811,2.0,1,0,0.0,0,10,2.0,Research & Development,2,Manufacturing Director,No
+1608,10824,Medical,7,10824,19049.0,Yes,10824,4.0,22,7,1.0,10,23,0.0,Research & Development,5,Research Director,No
+416,10849,Technical Degree,7,10849,6929.0,No,10849,3.0,8,7,7.0,7,10,4.0,Sales,2,Sales Executive,No
+425,10870,Life Sciences,7,10870,5210.0,No,10870,2.0,24,9,9.0,11,24,1.0,Research & Development,3,Laboratory Technician,No
+1466,10880,Marketing,7,10880,5486.0,No,10880,3.0,2,2,2.0,2,15,4.0,Sales,2,Sales Executive,No
+1482,10924,Technical Degree,7,10924,1274.0,No,10924,2.0,1,0,0.0,0,1,1.0,Research & Development,1,Research Scientist,No
+1740,10953,Medical,7,10953,19833.0,No,10953,3.0,21,8,12.0,8,21,1.0,Sales,5,Manager,No
+1659,10959,Life Sciences,7,10959,2013.0,No,10959,4.0,4,3,1.0,3,15,2.0,Research & Development,1,Laboratory Technician,No
+1360,10998,Medical,7,10998,10008.0,Yes,10998,0.0,10,9,5.0,9,31,7.0,Research & Development,3,Manufacturing Director,Yes
+1691,11000,Medical,7,11000,2655.0,Yes,11000,3.0,9,7,7.0,7,19,2.0,Sales,1,Sales Representative,Yes
+86,11020,Life Sciences,7,11020,9724.0,No,11020,2.0,1,0,0.0,0,25,2.0,Research & Development,3,Research Scientist,No
+262,11033,Medical,7,11033,2089.0,No,11033,3.0,5,4,2.0,2,7,4.0,Research & Development,1,Research Scientist,No
+1224,11038,Life Sciences,7,11038,3491.0,No,11038,4.0,10,7,8.0,9,10,1.0,Research & Development,2,Laboratory Technician,No
+1260,11077,Life Sciences,7,11077,6623.0,Yes,11077,2.0,6,0,1.0,0,6,1.0,Research & Development,2,Healthcare Representative,No
+730,11103,Life Sciences,7,11103,14814.0,No,11103,3.0,5,1,1.0,3,32,3.0,Research & Development,4,Research Director,No
+382,11105,Medical,7,11105,5605.0,Yes,11105,3.0,8,0,7.0,7,8,1.0,Sales,2,Sales Executive,No
+1417,11106,Other,7,11106,3578.0,No,11106,2.0,7,7,0.0,7,8,0.0,Research & Development,1,Laboratory Technician,No
+451,11132,Life Sciences,7,11132,9985.0,No,11132,1.0,1,0,0.0,0,10,8.0,Research & Development,3,Healthcare Representative,No
+1649,11147,Life Sciences,7,11147,2166.0,Yes,11147,3.0,4,2,0.0,3,10,3.0,Research & Development,1,Laboratory Technician,Yes
+1233,11149,Marketing,7,11149,5220.0,Yes,11149,3.0,11,7,1.0,9,12,0.0,Sales,2,Sales Executive,No
+1309,11166,Life Sciences,7,11166,4883.0,No,11166,3.0,10,4,1.0,1,10,1.0,Research & Development,2,Laboratory Technician,Yes
+102,11168,Medical,7,11168,13664.0,No,11168,3.0,5,2,0.0,2,16,4.0,Research & Development,3,Research Director,No
+1507,11170,Life Sciences,7,11170,4898.0,No,11170,5.0,4,2,1.0,3,5,0.0,Sales,2,Sales Executive,No
+941,11177,Life Sciences,7,11177,2329.0,No,11177,2.0,7,7,5.0,2,13,3.0,Sales,1,Sales Representative,No
+1830,11204,Medical,7,11204,6854.0,No,11204,2.0,7,1,1.0,7,14,4.0,Research & Development,2,Research Scientist,No
+1577,11232,Medical,7,11232,2972.0,No,11232,4.0,1,0,0.0,0,1,1.0,Research & Development,1,Research Scientist,No
+613,11239,Life Sciences,7,11239,11557.0,No,11239,3.0,5,4,0.0,1,10,9.0,Sales,3,Manager,No
+1085,11264,Technical Degree,7,11264,3376.0,No,11264,3.0,10,6,0.0,8,10,1.0,Research & Development,1,Research Scientist,No
+1693,11276,Medical,7,11276,2570.0,No,11276,5.0,7,7,5.0,7,7,1.0,Research & Development,1,Laboratory Technician,No
+817,11315,Medical,7,11315,11691.0,No,11315,3.0,13,9,3.0,7,14,0.0,Research & Development,3,Research Director,No
+1492,11353,Life Sciences,7,11353,2404.0,No,11353,3.0,1,0,0.0,0,1,1.0,Sales,1,Sales Representative,No
+442,11355,Life Sciences,7,11355,8943.0,No,11355,2.0,10,9,8.0,9,10,1.0,Research & Development,3,Manufacturing Director,No
+1195,11366,Medical,7,11366,4477.0,Yes,11366,2.0,3,2,0.0,2,7,4.0,Research & Development,1,Research Scientist,No
+1338,10536,Life Sciences,8,10536,19717.0,No,10536,4.0,7,3,7.0,7,36,6.0,Human Resources,5,Manager,No
+98,10552,Life Sciences,8,10552,4424.0,No,10552,2.0,11,7,1.0,8,11,1.0,Research & Development,2,Manufacturing Director,No
+56,10586,Life Sciences,8,10586,8726.0,No,10586,0.0,9,8,1.0,7,9,1.0,Sales,3,Sales Executive,No
+1453,10599,Life Sciences,8,10599,10793.0,No,10599,5.0,13,7,9.0,9,13,1.0,Sales,3,Sales Executive,No
+742,10618,Life Sciences,8,10618,11713.0,No,10618,2.0,8,7,0.0,5,10,9.0,Research & Development,3,Research Director,No
+1560,10645,Life Sciences,8,10645,6392.0,No,10645,6.0,2,2,2.0,2,8,2.0,Sales,2,Sales Executive,No
+677,10660,Marketing,8,10660,7104.0,No,10660,3.0,5,0,1.0,2,6,0.0,Sales,2,Sales Executive,No
+207,10676,Marketing,8,10676,8998.0,No,10676,2.0,9,8,3.0,7,9,1.0,Sales,3,Sales Executive,No
+602,10682,Life Sciences,8,10682,3755.0,No,10682,3.0,8,3,0.0,7,8,1.0,Research & Development,1,Laboratory Technician,No
+1138,10695,Technical Degree,8,10695,13120.0,No,10695,3.0,9,8,2.0,3,22,6.0,Sales,4,Sales Executive,No
+1150,10742,Medical,8,10742,5056.0,Yes,10742,2.0,10,7,1.0,2,10,1.0,Research & Development,2,Manufacturing Director,No
+990,10749,Technical Degree,8,10749,5079.0,No,10749,3.0,7,7,0.0,7,12,4.0,Sales,2,Sales Executive,No
+1468,10752,Medical,8,10752,13757.0,No,10752,5.0,9,8,4.0,8,16,2.0,Research & Development,3,Research Director,No
+805,10787,Life Sciences,8,10787,2572.0,No,10787,1.0,3,2,0.0,2,3,1.0,Sales,1,Sales Representative,No
+707,10807,Life Sciences,8,10807,4851.0,No,10807,4.0,3,2,1.0,2,4,0.0,Sales,2,Sales Executive,No
+1080,10821,Life Sciences,8,10821,4615.0,Yes,10821,2.0,16,13,1.0,7,19,8.0,Research & Development,2,Research Scientist,No
+1937,10826,Medical,8,10826,2133.0,Yes,10826,3.0,20,11,0.0,7,20,1.0,Research & Development,2,Research Scientist,No
+1552,10851,Life Sciences,8,10851,4069.0,Yes,10851,2.0,2,2,2.0,2,8,3.0,Research & Development,2,Healthcare Representative,No
+808,10888,Life Sciences,8,10888,6500.0,No,10888,1.0,3,2,1.0,2,6,5.0,Sales,2,Sales Executive,No
+878,10908,Life Sciences,8,10908,2342.0,No,10908,3.0,5,4,0.0,3,6,0.0,Human Resources,1,Human Resources,No
+458,10933,Marketing,8,10933,6214.0,No,10933,3.0,8,7,0.0,7,8,1.0,Sales,2,Sales Executive,No
+1409,10976,Other,8,10976,2950.0,No,10976,2.0,5,4,0.0,4,12,9.0,Research & Development,1,Laboratory Technician,No
+241,10981,Life Sciences,8,10981,4257.0,Yes,10981,3.0,2,2,2.0,2,19,4.0,Research & Development,1,Research Scientist,No
+757,10987,Medical,8,10987,6142.0,No,10987,2.0,5,1,4.0,3,10,3.0,Research & Development,2,Healthcare Representative,No
+454,11032,Other,8,11032,2119.0,Yes,11032,4.0,7,7,0.0,7,7,1.0,Research & Development,1,Laboratory Technician,Yes
+1798,11039,Life Sciences,8,11039,3143.0,No,11039,1.0,10,8,7.0,6,14,6.0,Research & Development,1,Research Scientist,No
+944,11044,Other,8,11044,7403.0,No,11044,3.0,26,9,1.0,7,29,4.0,Research & Development,3,Laboratory Technician,No
+869,11049,Medical,8,11049,4936.0,No,11049,6.0,5,1,0.0,4,6,1.0,Human Resources,1,Human Resources,No
+578,11054,Life Sciences,8,11054,3780.0,No,11054,3.0,1,0,0.0,0,19,7.0,Research & Development,2,Laboratory Technician,No
+1909,11068,Marketing,8,11068,4393.0,No,11068,3.0,5,4,1.0,4,14,5.0,Sales,2,Sales Executive,No
+1823,11071,Technical Degree,8,11071,6799.0,No,11071,5.0,10,8,4.0,8,10,1.0,Sales,2,Sales Executive,No
+1015,11100,Life Sciences,8,11100,11416.0,Yes,11100,4.0,8,7,1.0,7,9,0.0,Research & Development,3,Research Director,No
+1044,11107,Life Sciences,8,11107,2342.0,No,11107,2.0,2,2,2.0,2,3,0.0,Sales,1,Sales Representative,No
+982,11112,Other,8,11112,7264.0,No,11112,2.0,8,4,7.0,7,10,5.0,Sales,3,Sales Executive,No
+1156,11144,Medical,8,11144,1904.0,No,11144,0.0,0,0,0.0,0,0,1.0,Research & Development,1,Laboratory Technician,Yes
+296,11154,Life Sciences,8,11154,12490.0,No,11154,5.0,10,9,4.0,7,16,5.0,Research & Development,3,Research Director,No
+1647,11172,Medical,8,11172,3517.0,No,11172,0.0,3,2,0.0,2,5,7.0,Research & Development,1,Research Scientist,No
+1243,11200,Marketing,8,11200,10377.0,Yes,11200,6.0,13,2,4.0,12,16,4.0,Sales,3,Sales Executive,No
+1461,11205,Medical,8,11205,2109.0,No,11205,3.0,3,2,0.0,2,8,9.0,Human Resources,1,Human Resources,No
+789,11212,Life Sciences,8,11212,7587.0,No,11212,1.0,10,7,0.0,9,10,1.0,Sales,3,Sales Executive,No
+1860,11222,Life Sciences,8,11222,3968.0,No,11222,3.0,0,0,0.0,0,8,4.0,Research & Development,1,Laboratory Technician,No
+920,11228,Life Sciences,8,11228,4765.0,No,11228,2.0,1,0,0.0,0,4,4.0,Research & Development,2,Manufacturing Director,No
+2018,11242,Other,8,11242,4907.0,Yes,11242,3.0,5,3,0.0,4,6,0.0,Sales,2,Sales Executive,No
+1430,11283,Life Sciences,8,11283,16422.0,No,11283,3.0,3,2,1.0,0,9,3.0,Research & Development,4,Research Director,No
+433,11285,Medical,8,11285,4941.0,No,11285,3.0,8,2,7.0,7,11,2.0,Research & Development,2,Research Scientist,Yes
+83,11291,Technical Degree,8,11291,10096.0,No,11291,2.0,17,14,12.0,8,17,1.0,Research & Development,3,Healthcare Representative,No
+1783,11295,Medical,8,11295,2398.0,Yes,11295,6.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,Yes
+1278,11332,Medical,8,11332,13577.0,Yes,11332,3.0,33,9,15.0,0,34,1.0,Research & Development,4,Healthcare Representative,No
+699,10518,Medical,9,10518,8847.0,Yes,10518,2.0,3,2,0.0,2,13,2.0,Research & Development,2,Manufacturing Director,No
+663,10520,Medical,9,10520,5679.0,Yes,10520,3.0,8,7,4.0,7,10,3.0,Research & Development,2,Laboratory Technician,No
+1157,10525,Marketing,9,10525,8224.0,Yes,10525,3.0,5,2,0.0,3,6,0.0,Sales,2,Sales Executive,Yes
+195,10528,Medical,9,10528,4668.0,No,10528,2.0,8,7,0.0,7,9,0.0,Sales,2,Sales Executive,No
+1595,10541,Other,9,10541,19613.0,No,10541,2.0,1,0,0.0,1,24,8.0,Research & Development,5,Manager,No
+1480,10543,Medical,9,10543,3673.0,No,10543,3.0,12,9,5.0,8,12,1.0,Research & Development,1,Laboratory Technician,No
+218,10547,Medical,9,10547,2024.0,No,10547,1.0,2,2,2.0,2,6,6.0,Research & Development,1,Research Scientist,No
+1772,10553,Life Sciences,9,10553,2289.0,_,10553,2.0,5,3,0.0,4,5,1.0,Research & Development,1,Laboratory Technician,No
+864,10620,Marketing,9,10620,10761.0,Yes,10620,2.0,5,4,0.0,2,18,4.0,Sales,3,Sales Executive,No
+377,10683,Medical,9,10683,2070.0,No,10683,3.0,5,2,0.0,4,5,1.0,Research & Development,1,Research Scientist,No
+116,10694,Life Sciences,9,10694,2075.0,No,10694,4.0,4,2,0.0,3,10,3.0,Research & Development,1,Laboratory Technician,No
+913,10703,Life Sciences,9,10703,2559.0,Yes,10703,0.0,8,7,7.0,1,8,1.0,Research & Development,1,Research Scientist,No
+1188,10704,Marketing,9,10704,5346.0,No,10704,2.0,4,3,1.0,3,7,8.0,Sales,2,Sales Executive,Yes
+176,10707,Life Sciences,9,10707,8189.0,Yes,10707,2.0,9,7,0.0,7,12,3.0,Sales,3,Sales Executive,No
+1940,10722,Life Sciences,9,10722,4771.0,No,10722,0.0,5,2,0.0,3,10,2.0,Research & Development,1,Research Scientist,No
+1716,10730,Life Sciences,9,10730,12936.0,No,10730,3.0,23,5,14.0,10,25,7.0,Sales,4,Sales Executive,Yes
+679,10735,Life Sciences,9,10735,6322.0,Yes,10735,2.0,6,4,0.0,5,6,1.0,Research & Development,2,Research Scientist,No
+1439,10741,Life Sciences,9,10741,4400.0,No,10741,2.0,3,2,2.0,2,6,3.0,Sales,1,Sales Representative,Yes
+1813,10753,Life Sciences,9,10753,2438.0,No,10753,2.0,3,2,1.0,2,7,4.0,Research & Development,1,Research Scientist,No
+260,10790,Medical,9,10790,2279.0,No,10790,2.0,7,7,0.0,3,7,1.0,Research & Development,1,Research Scientist,No
+991,10796,Medical,9,10796,2321.0,Yes,10796,0.0,3,2,1.0,2,4,0.0,Research & Development,1,Research Scientist,Yes
+2008,10801,Medical,9,10801,5098.0,No,10801,5.0,10,7,0.0,8,10,1.0,Research & Development,2,Research Scientist,No
+1030,10804,Life Sciences,9,10804,2380.0,No,10804,5.0,1,0,0.0,0,8,4.0,Research & Development,1,Laboratory Technician,No
+762,10847,Medical,9,10847,11103.0,No,10847,1.0,10,7,1.0,1,30,7.0,Research & Development,4,Healthcare Representative,No
+1548,10865,Medical,9,10865,5473.0,No,10865,5.0,8,4,7.0,1,9,0.0,Sales,2,Sales Executive,No
+1680,10872,Life Sciences,9,10872,2728.0,No,10872,3.0,2,2,0.0,2,2,1.0,Sales,1,Sales Representative,No
+1467,10895,Technical Degree,9,10895,2742.0,No,10895,0.0,2,2,2.0,2,2,1.0,Human Resources,1,Human Resources,Yes
+1856,10900,Life Sciences,9,10900,2105.0,No,10900,2.0,2,2,2.0,0,7,4.0,Research & Development,1,Laboratory Technician,No
+1709,10939,Medical,9,10939,2974.0,No,10939,2.0,5,3,1.0,2,9,9.0,Research & Development,1,Laboratory Technician,No
+1876,10984,Medical,9,10984,1081.0,No,10984,3.0,1,0,0.0,0,1,1.0,Sales,1,Sales Representative,Yes
+403,10995,Medical,9,10995,2326.0,Yes,10995,3.0,4,2,1.0,2,4,1.0,Research & Development,1,Research Scientist,No
+484,11012,Medical,9,11012,2610.0,No,11012,3.0,3,2,2.0,2,3,1.0,Sales,1,Sales Representative,No
+287,11052,Life Sciences,9,11052,4876.0,No,11052,5.0,3,2,0.0,2,5,9.0,Research & Development,2,Healthcare Representative,No
+27,11085,Life Sciences,9,11085,3407.0,No,11085,4.0,5,3,0.0,3,10,7.0,Sales,1,Sales Representative,Yes
+1752,11102,Marketing,9,11102,2760.0,No,11102,3.0,2,2,2.0,2,2,1.0,Sales,1,Sales Representative,Yes
+717,11127,Medical,9,11127,8621.0,No,11127,3.0,8,7,7.0,7,9,1.0,Research & Development,3,Healthcare Representative,No
+1166,11150,Medical,9,11150,13499.0,No,11150,3.0,18,7,2.0,13,20,9.0,Research & Development,3,Research Director,No
+581,11183,Life Sciences,9,11183,10648.0,No,11183,6.0,13,8,0.0,8,13,1.0,Research & Development,3,Manufacturing Director,No
+1163,11199,Life Sciences,9,11199,5714.0,No,11199,3.0,6,5,1.0,3,6,1.0,Sales,2,Sales Executive,No
+1077,11248,Marketing,9,11248,2323.0,Yes,11248,3.0,2,2,0.0,2,2,1.0,Sales,1,Sales Representative,Yes
+1117,11267,Life Sciences,9,11267,5593.0,No,11267,2.0,15,10,4.0,12,15,1.0,Sales,2,Sales Executive,No
+90,11271,Medical,9,11271,3388.0,Yes,11271,0.0,1,0,0.0,0,2,0.0,Research & Development,1,Research Scientist,Yes
+239,11308,Medical,9,11308,3072.0,No,11308,4.0,12,9,6.0,10,12,1.0,Research & Development,2,Laboratory Technician,No
+893,11312,Marketing,9,11312,2899.0,No,11312,3.0,2,2,1.0,2,3,0.0,Sales,1,Sales Representative,No
+1238,11313,Medical,9,11313,2781.0,No,11313,5.0,14,10,4.0,10,15,0.0,Research & Development,1,Research Scientist,No
+1193,11331,Life Sciences,9,11331,2552.0,No,11331,4.0,1,1,0.0,0,1,1.0,Research & Development,1,Research Scientist,No
+626,11333,Medical,9,11333,8834.0,No,11333,6.0,9,5,7.0,7,9,1.0,Sales,3,Sales Executive,No
+1344,11341,Life Sciences,9,11341,8500.0,No,11341,0.0,9,7,1.0,6,10,0.0,Research & Development,3,Healthcare Representative,No
+41,11349,Medical,9,11349,2206.0,No,11349,5.0,10,0,1.0,8,10,1.0,Research & Development,1,Laboratory Technician,No
+200,11356,Life Sciences,9,11356,2238.0,No,11356,2.0,5,0,1.0,4,7,2.0,Research & Development,1,Laboratory Technician,No
+733,10503,Life Sciences,10,10503,8793.0,No,10503,4.0,9,7,1.0,7,9,1.0,Research & Development,3,Manufacturing Director,No
+1105,10505,Life Sciences,10,10505,6694.0,Yes,10505,5.0,1,0,0.0,0,8,2.0,Sales,2,Sales Executive,No
+1055,10506,Life Sciences,10,10506,2220.0,Yes,10506,2.0,1,1,0.0,0,1,1.0,Sales,1,Sales Representative,No
+1597,10507,Technical Degree,10,10507,5063.0,No,10507,,8,2,7.0,7,8,1.0,Research & Development,2,Healthcare Representative,No
+1639,10534,Medical,10,10534,10306.0,No,10534,3.0,13,12,6.0,0,15,9.0,Sales,3,Sales Executive,Yes
+1119,10545,Marketing,10,10545,8740.0,Yes,10545,2.0,8,7,2.0,7,9,0.0,Sales,3,Sales Executive,No
+1312,10559,Technical Degree,10,10559,7094.0,No,10559,0.0,7,7,1.0,7,10,3.0,Research & Development,3,Healthcare Representative,No
+1587,10591,Medical,10,10591,6142.0,Yes,10591,4.0,5,2,0.0,4,10,3.0,Research & Development,2,Healthcare Representative,No
+1240,10614,Life Sciences,10,10614,4950.0,No,10614,4.0,4,3,1.0,1,5,0.0,Sales,2,Sales Executive,No
+448,10632,Life Sciences,10,10632,5257.0,No,10632,3.0,9,7,0.0,0,9,1.0,Research & Development,2,Laboratory Technician,No
+722,10649,Marketing,10,10649,5396.0,No,10649,2.0,10,7,0.0,8,10,1.0,Sales,2,Sales Executive,No
+934,10652,Life Sciences,10,10652,2008.0,No,10652,3.0,1,0,1.0,0,1,1.0,Research & Development,1,Laboratory Technician,No
+1268,10671,Marketing,10,10671,8380.0,Yes,10671,3.0,9,8,0.0,8,10,0.0,Sales,3,Sales Executive,No
+715,10710,Life Sciences,10,10710,4680.0,No,10710,2.0,1,0,0.0,0,4,3.0,Research & Development,1,Research Scientist,No
+634,10714,Medical,10,10714,9824.0,No,10714,4.0,1,0,0.0,0,18,3.0,Research & Development,2,Healthcare Representative,No
+430,10775,Life Sciences,10,10775,2455.0,No,10775,5.0,8,7,1.0,7,9,0.0,Research & Development,1,Laboratory Technician,No
+1408,10827,Human Resources,10,10827,16799.0,No,10827,5.0,20,7,0.0,9,21,0.0,Human Resources,4,Manager,No
+1592,10866,Technical Degree,10,10866,2073.0,No,10866,2.0,2,2,2.0,2,4,2.0,Research & Development,1,Research Scientist,No
+1640,10871,Medical,10,10871,3936.0,No,10871,2.0,8,4,7.0,7,8,1.0,Research & Development,1,Research Scientist,No
+1853,10911,Marketing,10,10911,4648.0,No,10911,2.0,0,0,0.0,0,4,8.0,Sales,2,Sales Executive,No
+954,10932,Marketing,10,10932,9705.0,No,10932,2.0,1,0,0.0,0,11,2.0,Sales,3,Sales Executive,No
+1924,10951,Marketing,10,10951,5487.0,No,10951,2.0,10,4,0.0,9,10,1.0,Sales,2,Sales Executive,No
+2017,10977,Life Sciences,10,10977,13744.0,Yes,10977,2.0,16,11,6.0,8,16,1.0,Research & Development,3,Research Director,No
+396,10988,Life Sciences,10,10988,18665.0,Yes,10988,4.0,3,2,1.0,2,22,9.0,Research & Development,5,Research Director,No
+1650,10990,Medical,10,10990,5869.0,No,10990,2.0,5,2,1.0,4,8,9.0,Sales,2,Sales Executive,No
+1880,10992,Technical Degree,10,10992,5673.0,Yes,10992,4.0,10,9,1.0,7,10,1.0,Sales,2,Sales Executive,No
+544,10994,Life Sciences,10,10994,2654.0,No,10994,3.0,2,2,0.0,2,8,3.0,Research & Development,1,Research Scientist,No
+2041,11008,Life Sciences,10,11008,5343.0,No,11008,1.0,10,7,1.0,9,10,1.0,Sales,2,Sales Executive,No
+1720,11010,Life Sciences,10,11010,3433.0,No,11010,3.0,5,2,1.0,3,10,6.0,Research & Development,1,Research Scientist,No
+1979,11061,Medical,10,11061,11031.0,No,11061,2.0,11,7,4.0,8,13,4.0,Research & Development,3,Research Director,No
+40,11082,Other,10,11082,6465.0,Yes,11082,5.0,4,2,1.0,3,9,2.0,Research & Development,2,Healthcare Representative,No
+1028,11161,Other,10,11161,3917.0,No,11161,4.0,3,2,1.0,2,3,1.0,Research & Development,1,Laboratory Technician,No
+584,11165,Medical,10,11165,3408.0,No,11165,2.0,4,3,1.0,3,8,7.0,Research & Development,1,Laboratory Technician,Yes
+1563,11188,Human Resources,10,11188,6077.0,No,11188,2.0,6,3,1.0,2,10,3.0,Human Resources,2,Human Resources,No
+599,11203,Life Sciences,10,11203,6230.0,No,11203,3.0,14,3,1.0,10,16,7.0,Sales,2,Sales Executive,No
+1179,11214,Marketing,10,11214,6578.0,No,11214,3.0,10,3,1.0,4,10,1.0,Sales,2,Sales Executive,No
+1097,11215,Other,10,11215,3660.0,No,11215,4.0,8,7,1.0,7,10,3.0,Research & Development,2,Research Scientist,No
+277,11225,Medical,10,11225,3815.0,Yes,11225,4.0,5,3,2.0,0,5,1.0,Research & Development,1,Research Scientist,No
+1869,11251,Life Sciences,10,11251,7314.0,No,11251,2.0,8,7,0.0,7,14,5.0,Sales,3,Sales Executive,Yes
+994,11258,Life Sciences,10,11258,2404.0,Yes,11258,5.0,0,0,0.0,0,3,6.0,Research & Development,1,Research Scientist,Yes
+1329,11260,Medical,10,11260,6151.0,No,11260,4.0,19,2,11.0,9,19,1.0,Sales,2,Sales Executive,No
+446,11268,Marketing,10,11268,4682.0,No,11268,6.0,7,7,0.0,1,9,3.0,Sales,2,Sales Executive,No
+784,11273,Medical,10,11273,3505.0,No,11273,3.0,2,2,0.0,2,2,1.0,Research & Development,1,Research Scientist,No
+1248,11296,Medical,10,11296,1859.0,Yes,11296,2.0,1,1,0.0,0,1,1.0,Research & Development,1,Research Scientist,Yes
+429,11300,Medical,10,11300,17068.0,Yes,11300,3.0,21,9,11.0,10,21,1.0,Research & Development,4,Manager,No
+1790,11303,Life Sciences,10,11303,8321.0,Yes,11303,1.0,12,8,5.0,7,15,7.0,Research & Development,3,Healthcare Representative,No
+507,11310,Marketing,10,11310,4260.0,Yes,11310,2.0,5,2,0.0,3,5,1.0,Sales,2,Sales Executive,No
+1867,11337,Life Sciences,10,11337,19665.0,No,11337,3.0,22,10,12.0,9,29,4.0,Research & Development,5,Research Director,No
+1033,10578,Medical,11,10578,4777.0,No,10578,2.0,1,0,0.0,0,15,5.0,Research & Development,2,Healthcare Representative,Yes
+226,10592,Life Sciences,11,10592,19926.0,No,10592,5.0,5,4,4.0,4,21,3.0,Research & Development,5,Manager,No
+1434,10598,Life Sciences,11,10598,2099.0,No,10598,3.0,5,0,1.0,4,6,0.0,Research & Development,1,Laboratory Technician,No
+1757,10629,Marketing,11,10629,4507.0,No,10629,1.0,5,1,0.0,4,8,3.0,Sales,2,Sales Executive,No
+511,10774,Medical,11,10774,2244.0,No,10774,1.0,2,1,1.0,2,2,1.0,Research & Development,1,Research Scientist,No
+154,10786,Technical Degree,11,10786,9738.0,No,10786,6.0,9,7,2.0,8,10,0.0,Sales,3,Sales Executive,No
+2003,10793,Medical,11,10793,2660.0,Yes,10793,3.0,2,2,2.0,2,5,7.0,Research & Development,1,Laboratory Technician,No
+1137,10834,Marketing,11,10834,4968.0,No,10834,3.0,5,2,0.0,2,5,1.0,Sales,2,Sales Executive,No
+895,10979,Life Sciences,11,10979,2356.0,Yes,10979,2.0,6,4,0.0,2,8,3.0,Research & Development,1,Research Scientist,No
+1251,11025,Medical,11,11025,6833.0,Yes,11025,2.0,6,5,0.0,1,6,1.0,Research & Development,2,Healthcare Representative,No
+1411,11086,Medical,11,11086,3629.0,No,11086,6.0,3,2,0.0,2,8,4.0,Research & Development,1,Laboratory Technician,No
+390,11153,Medical,11,11153,4741.0,Yes,11153,3.0,5,3,3.0,3,5,1.0,Research & Development,2,Healthcare Representative,No
+1520,11155,Medical,11,11155,16032.0,No,11155,2.0,14,9,1.0,12,26,3.0,Research & Development,4,Manager,No
+85,11157,Life Sciences,11,11157,6499.0,No,11157,3.0,6,5,0.0,3,6,1.0,Research & Development,2,Manufacturing Director,No
+1985,11175,Technical Degree,11,11175,6323.0,No,11175,2.0,10,9,9.0,4,10,1.0,Research & Development,2,Laboratory Technician,No
+631,11231,Other,11,11231,4707.0,No,11231,2.0,4,2,1.0,2,6,8.0,Sales,2,Sales Executive,Yes
+1982,10565,Other,12,10565,2647.0,No,10565,6.0,5,2,1.0,4,5,1.0,Research & Development,1,Laboratory Technician,No
+1158,10571,Life Sciences,12,10571,4766.0,Yes,10571,4.0,1,0,0.0,0,6,3.0,Research & Development,1,Laboratory Technician,No
+1654,10631,Medical,12,10631,5295.0,No,10631,3.0,5,4,1.0,0,7,4.0,Research & Development,2,Manufacturing Director,No
+1943,10875,Marketing,12,10875,5087.0,Yes,10875,4.0,0,0,0.0,0,14,3.0,Sales,2,Sales Executive,No
+174,10960,Marketing,12,10960,9208.0,No,10960,3.0,2,2,2.0,1,16,4.0,Sales,3,Sales Executive,No
+58,11007,Technical Degree,12,11007,19545.0,No,11007,0.0,22,15,15.0,8,23,1.0,Research & Development,5,Research Director,Yes
+1768,11015,Medical,12,11015,2766.0,No,11015,6.0,5,3,0.0,4,7,8.0,Research & Development,1,Laboratory Technician,No
+1829,11139,Life Sciences,12,11139,4448.0,No,11139,3.0,7,4,7.0,7,15,2.0,Research & Development,2,Healthcare Representative,No
+1667,11216,Other,12,11216,4581.0,Yes,11216,2.0,11,9,6.0,7,13,3.0,Sales,2,Sales Executive,Yes
+1073,11221,Medical,12,11221,8858.0,No,11221,2.0,14,8,7.0,8,15,0.0,Research & Development,3,Manufacturing Director,No
+1614,11322,Life Sciences,12,11322,4663.0,Yes,11322,2.0,3,2,1.0,1,7,9.0,Research & Development,2,Manufacturing Director,No
+859,10498,Life Sciences,13,10498,4403.0,No,10498,3.0,5,2,0.0,3,8,2.0,Sales,2,Sales Executive,No
+1733,10535,Marketing,13,10535,6134.0,Yes,10535,3.0,2,2,2.0,2,16,5.0,Sales,2,Sales Executive,Yes
+2053,10615,Other,13,10615,4025.0,Yes,10615,2.0,4,3,0.0,3,10,4.0,Research & Development,2,Laboratory Technician,No
+650,10648,Medical,13,10648,4233.0,No,10648,2.0,3,1,1.0,2,9,2.0,Sales,2,Sales Executive,Yes
+1803,10945,Medical,13,10945,5538.0,No,10945,2.0,0,0,0.0,0,10,5.0,Research & Development,2,Healthcare Representative,No
+250,10967,Medical,13,10967,4450.0,No,10967,3.0,4,2,1.0,3,5,1.0,Research & Development,2,Manufacturing Director,No
+1495,11098,Life Sciences,13,11098,2033.0,No,11098,2.0,1,0,0.0,0,1,1.0,Sales,1,Sales Representative,No
+1951,11135,Medical,13,11135,8628.0,No,11135,2.0,8,7,1.0,1,9,1.0,Sales,3,Sales Executive,No
+1543,11240,Medical,13,11240,4285.0,No,11240,2.0,10,8,3.0,7,10,1.0,Research & Development,2,Research Scientist,No
+1844,11244,Human Resources,13,11244,2335.0,Yes,11244,3.0,2,2,2.0,0,4,4.0,Human Resources,1,Human Resources,Yes
+1933,11317,Marketing,13,11317,9854.0,Yes,11317,0.0,2,0,2.0,2,6,3.0,Sales,2,Sales Executive,Yes
+1128,10499,Medical,14,10499,19626.0,No,10499,2.0,20,7,4.0,9,21,1.0,Research & Development,5,Research Director,No
+1582,10524,Life Sciences,14,10524,9924.0,No,10524,3.0,9,8,7.0,7,10,0.0,Sales,2,Sales Executive,No
+1839,10561,Medical,14,10561,1514.0,No,10561,4.0,0,0,0.0,0,0,1.0,Research & Development,1,Research Scientist,No
+728,10584,Marketing,14,10584,4960.0,No,10584,2.0,7,7,1.0,7,20,2.0,Sales,2,Sales Executive,No
+1010,10585,Other,14,10585,3743.0,Yes,10585,2.0,4,2,0.0,2,5,1.0,Research & Development,1,Laboratory Technician,Yes
+227,10616,Life Sciences,14,10616,2451.0,No,10616,2.0,9,8,1.0,8,13,4.0,Research & Development,1,Research Scientist,No
+252,10644,Medical,14,10644,2756.0,No,10644,5.0,8,7,1.0,6,8,1.0,Research & Development,1,Research Scientist,No
+1934,10669,Technical Degree,14,10669,5467.0,No,10669,4.0,8,7,1.0,7,16,8.0,Research & Development,2,Research Scientist,No
+325,10760,Medical,14,10760,2436.0,Yes,10760,2.0,5,4,0.0,4,8,5.0,Research & Development,1,Laboratory Technician,Yes
+254,10772,Medical,14,10772,18722.0,No,10772,3.0,24,15,2.0,15,36,8.0,Research & Development,5,Research Director,No
+843,10907,Life Sciences,14,10907,17159.0,No,10907,3.0,4,1,1.0,0,22,6.0,Research & Development,4,Research Director,No
+161,11027,Life Sciences,14,11027,4963.0,Yes,11027,2.0,5,4,4.0,3,7,9.0,Research & Development,1,Research Scientist,Yes
+936,11066,Medical,14,11066,6244.0,No,11066,6.0,5,4,0.0,3,10,7.0,Sales,2,Sales Executive,No
+1421,11184,Other,14,11184,7553.0,Yes,11184,1.0,8,7,7.0,7,9,0.0,Research & Development,3,Healthcare Representative,Yes
+1503,11365,Medical,14,11365,4591.0,Yes,11365,4.0,5,4,1.0,2,11,3.0,Sales,2,Sales Executive,No
+1485,10764,Medical,15,10764,17007.0,No,10764,3.0,14,8,6.0,9,16,7.0,Research & Development,4,Research Director,No
+1975,10843,Marketing,15,10843,13341.0,No,10843,3.0,20,8,11.0,10,21,0.0,Sales,4,Sales Executive,No
+1202,10876,Life Sciences,15,10876,2168.0,Yes,10876,2.0,5,4,1.0,3,6,0.0,Research & Development,1,Research Scientist,No
+2009,10948,Medical,15,10948,4878.0,Yes,10948,6.0,9,7,8.0,1,10,0.0,Research & Development,2,Healthcare Representative,No
+1102,10972,Life Sciences,15,10972,2207.0,No,10972,5.0,4,2,2.0,2,4,1.0,Research & Development,1,Laboratory Technician,No
+1955,11031,Medical,15,11031,6667.0,No,11031,6.0,5,1,1.0,2,9,5.0,Research & Development,2,Healthcare Representative,No
+1837,11059,Life Sciences,15,11059,15787.0,Yes,11059,3.0,2,2,2.0,2,23,2.0,Research & Development,4,Research Director,No
+1628,11092,Life Sciences,15,11092,10435.0,No,11092,2.0,18,15,14.0,12,18,1.0,Research & Development,3,Manufacturing Director,No
+461,11125,Life Sciences,15,11125,11510.0,Yes,11125,3.0,11,10,2.0,9,12,0.0,Research & Development,3,Research Director,No
+1217,11197,Life Sciences,15,11197,19081.0,No,11197,2.0,4,2,0.0,3,25,5.0,Research & Development,5,Research Director,No
+1160,11321,Medical,15,11321,2610.0,No,11321,5.0,2,2,2.0,2,2,1.0,Research & Development,1,Laboratory Technician,Yes
+15,11350,Life Sciences,15,11350,4193.0,Yes,11350,3.0,9,5,0.0,8,10,0.0,Research & Development,2,Laboratory Technician,No
+1295,11357,Medical,15,11357,7978.0,No,11357,2.0,10,7,0.0,5,10,1.0,Research & Development,3,Healthcare Representative,Yes
+1674,10540,Medical,16,10540,2587.0,Yes,10540,2.0,2,2,2.0,2,17,4.0,Research & Development,1,Laboratory Technician,No
+33,10624,Life Sciences,16,10624,3919.0,Yes,10624,5.0,10,2,6.0,7,10,1.0,Research & Development,1,Research Scientist,Yes
+406,10662,Marketing,16,10662,8020.0,No,10662,3.0,11,9,6.0,9,12,0.0,Sales,3,Sales Executive,No
+1681,10720,Life Sciences,16,10720,5368.0,Yes,10720,2.0,6,5,1.0,2,7,1.0,Sales,2,Sales Executive,No
+14,10763,Medical,16,10763,2426.0,No,10763,5.0,5,4,0.0,3,6,0.0,Research & Development,1,Laboratory Technician,No
+1436,10771,Marketing,16,10771,5647.0,No,10771,3.0,3,2,0.0,2,11,4.0,Sales,2,Sales Executive,No
+732,10812,Marketing,16,10812,5405.0,No,10812,1.0,2,2,2.0,2,10,8.0,Sales,2,Sales Executive,No
+1042,10874,Life Sciences,16,10874,2743.0,No,10874,1.0,17,13,15.0,14,18,1.0,Research & Development,1,Laboratory Technician,Yes
+1340,10929,Life Sciences,16,10929,3544.0,No,10929,0.0,4,2,0.0,0,6,9.0,Research & Development,1,Research Scientist,No
+868,10974,Marketing,16,10974,6334.0,No,10974,2.0,1,0,0.0,0,9,4.0,Sales,2,Sales Executive,No
+1529,10991,Life Sciences,16,10991,8606.0,No,10991,3.0,11,8,3.0,3,11,1.0,Research & Development,3,Healthcare Representative,No
+838,11018,Life Sciences,16,11018,2553.0,No,11018,3.0,5,2,1.0,3,6,1.0,Research & Development,1,Research Scientist,No
+832,11045,Medical,16,11045,5094.0,No,11045,6.0,1,0,0.0,0,10,6.0,Research & Development,2,Laboratory Technician,No
+1001,11060,Technical Degree,16,11060,2811.0,No,11060,2.0,2,2,2.0,2,4,9.0,Research & Development,1,Laboratory Technician,No
+987,11119,Medical,16,11119,5067.0,Yes,11119,3.0,19,10,2.0,7,20,1.0,Research & Development,2,Manufacturing Director,No
+1905,11141,Technical Degree,16,11141,2307.0,Yes,11141,2.0,5,2,3.0,0,5,1.0,Research & Development,1,Research Scientist,Yes
+1729,11306,Life Sciences,16,11306,2862.0,No,11306,2.0,10,0,0.0,8,10,1.0,Research & Development,1,Research Scientist,No
+1761,11324,Marketing,16,11324,8161.0,No,11324,2.0,1,0,0.0,0,10,2.0,Sales,3,Sales Executive,Yes
+412,11351,Medical,16,11351,5661.0,No,11351,2.0,8,3,0.0,7,9,0.0,Research & Development,2,Healthcare Representative,No
+1886,11352,Other,16,11352,4788.0,Yes,11352,2.0,3,2,0.0,2,4,0.0,Research & Development,2,Manufacturing Director,No
+1219,10562,Life Sciences,17,10562,2210.0,No,10562,3.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,Yes
+1218,10612,Life Sciences,17,10612,8966.0,Yes,10612,2.0,7,7,1.0,7,15,3.0,Sales,2,Sales Executive,No
+1013,10635,Technical Degree,17,10635,10739.0,No,10635,2.0,10,7,0.0,8,22,8.0,Research & Development,3,Manufacturing Director,No
+347,10661,Life Sciences,17,10661,6545.0,Yes,10661,1.0,3,2,0.0,2,10,3.0,Research & Development,2,Research Scientist,No
+643,10697,Other,17,10697,2127.0,No,10697,2.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,No
+1656,10737,Life Sciences,17,10737,13269.0,No,10737,3.0,14,11,1.0,11,19,5.0,Research & Development,3,Research Director,No
+1206,10846,Life Sciences,17,10846,2290.0,No,10846,3.0,0,0,0.0,0,6,2.0,Research & Development,1,Research Scientist,No
+1767,10962,Technical Degree,17,10962,2437.0,Yes,10962,4.0,1,0,0.0,0,6,9.0,Research & Development,1,Research Scientist,Yes
+1088,11028,Life Sciences,17,11028,8823.0,No,11028,4.0,19,9,1.0,9,20,0.0,Research & Development,3,Healthcare Representative,No
+1718,11145,Medical,17,11145,2305.0,No,11145,3.0,3,2,0.0,2,3,1.0,Research & Development,1,Laboratory Technician,No
+1321,11208,Medical,17,11208,11916.0,Yes,11208,2.0,9,1,0.0,8,9,1.0,Research & Development,3,Manager,No
+233,11307,Technical Degree,17,11307,3058.0,Yes,11307,3.0,5,2,1.0,1,6,0.0,Research & Development,1,Research Scientist,No
+1419,11339,Other,17,11339,7988.0,No,11339,3.0,10,9,0.0,9,10,1.0,Human Resources,3,Human Resources,No
+536,11343,Medical,17,11343,4558.0,No,11343,2.0,10,0,1.0,8,10,1.0,Research & Development,2,Laboratory Technician,No
+1412,10500,Life Sciences,18,10500,9362.0,No,10500,2.0,2,2,2.0,2,10,2.0,Research & Development,3,Manufacturing Director,No
+624,10670,Medical,18,10670,10527.0,No,10670,3.0,2,2,1.0,2,28,5.0,Research & Development,3,Healthcare Representative,No
+550,10690,Medical,18,10690,4810.0,No,10690,5.0,10,7,0.0,8,19,2.0,Research & Development,2,Manufacturing Director,No
+194,10716,Life Sciences,18,10716,2632.0,No,10716,4.0,5,4,0.0,4,5,1.0,Research & Development,1,Research Scientist,No
+1842,10751,Human Resources,18,10751,2956.0,No,10751,4.0,1,0,0.0,0,2,0.0,Human Resources,1,Human Resources,Yes
+150,10762,Life Sciences,18,10762,2774.0,No,10762,2.0,5,3,1.0,2,6,0.0,Research & Development,1,Laboratory Technician,No
+74,10799,Life Sciences,18,10799,9069.0,No,10799,3.0,9,8,1.0,8,9,1.0,Sales,3,Sales Executive,No
+1034,10806,Medical,18,10806,6385.0,Yes,10806,3.0,8,7,6.0,7,17,3.0,Research & Development,2,Healthcare Representative,No
+1998,10825,Life Sciences,18,10825,5410.0,Yes,10825,3.0,4,3,1.0,2,9,6.0,Research & Development,2,Research Scientist,No
+407,10915,Life Sciences,18,10915,3688.0,No,10915,2.0,1,0,0.0,0,4,4.0,Research & Development,1,Laboratory Technician,No
+638,11021,Life Sciences,18,11021,19502.0,Yes,11021,5.0,31,9,0.0,9,31,1.0,Research & Development,5,Research Director,No
+923,11069,Other,18,11069,2693.0,No,11069,3.0,1,0,0.0,0,1,1.0,Research & Development,1,Research Scientist,Yes
+1766,11080,Medical,18,11080,5811.0,Yes,11080,2.0,1,0,1.0,0,15,3.0,Research & Development,2,Healthcare Representative,No
+975,11236,Medical,18,11236,4601.0,No,11236,3.0,5,2,1.0,0,5,1.0,Sales,2,Sales Executive,No
+275,11292,Life Sciences,18,11292,6804.0,Yes,11292,0.0,7,7,1.0,7,7,1.0,Research & Development,2,Manufacturing Director,No
+1399,11304,Life Sciences,18,11304,6232.0,No,11304,3.0,3,2,1.0,2,6,2.0,Sales,2,Sales Executive,No
+791,10527,Medical,19,10527,4258.0,No,10527,3.0,4,3,1.0,2,5,0.0,Research & Development,1,Research Scientist,No
+752,10554,Medical,19,10554,2759.0,Yes,10554,2.0,2,2,2.0,2,7,6.0,Research & Development,1,Research Scientist,Yes
+904,10613,Medical,19,10613,7642.0,Yes,10613,2.0,10,0,0.0,9,10,1.0,Sales,3,Sales Executive,No
+18,10785,Medical,19,10785,2661.0,No,10785,2.0,2,2,1.0,2,3,0.0,Research & Development,1,Laboratory Technician,No
+1285,10864,Medical,19,10864,4444.0,No,10864,2.0,11,8,5.0,10,15,4.0,Research & Development,2,Laboratory Technician,No
+611,10885,Technical Degree,19,10885,4262.0,No,10885,2.0,3,2,1.0,2,8,4.0,Research & Development,2,Manufacturing Director,No
+61,10910,Life Sciences,19,10910,3022.0,No,10910,1.0,1,0,0.0,0,8,4.0,Research & Development,1,Research Scientist,No
+952,11014,Marketing,19,11014,2413.0,Yes,11014,2.0,1,0,0.0,0,1,1.0,Sales,1,Sales Representative,Yes
+1701,11043,Life Sciences,19,11043,2929.0,No,11043,3.0,10,9,8.0,7,10,1.0,Research & Development,1,Research Scientist,No
+1358,11078,Medical,19,11078,3669.0,No,11078,6.0,3,2,1.0,2,7,3.0,Research & Development,1,Laboratory Technician,No
+281,11083,Medical,19,11083,2741.0,Yes,11083,2.0,7,2,3.0,7,15,8.0,Research & Development,2,Laboratory Technician,No
+1631,11219,Life Sciences,19,11219,5768.0,No,11219,2.0,4,3,0.0,2,9,3.0,Research & Development,2,Manufacturing Director,No
+217,11305,Medical,19,11305,2323.0,No,11305,6.0,2,2,2.0,2,2,1.0,Research & Development,1,Research Scientist,No
+1216,11330,Medical,19,11330,3196.0,No,11330,2.0,6,5,3.0,3,6,1.0,Research & Development,1,Laboratory Technician,No
+502,11360,Marketing,19,11360,5304.0,Yes,11360,3.0,5,2,0.0,4,9,8.0,Sales,2,Sales Executive,Yes
+947,10513,Marketing,20,10513,6932.0,No,10513,2.0,9,8,0.0,0,9,1.0,Sales,2,Sales Executive,No
+1135,10537,Life Sciences,20,10537,2791.0,No,10537,4.0,2,2,2.0,2,3,0.0,Sales,1,Sales Representative,No
+974,10761,Technical Degree,20,10761,2157.0,No,10761,5.0,3,1,0.0,2,3,1.0,Sales,1,Sales Representative,No
+1475,10949,Life Sciences,20,10949,3420.0,No,10949,3.0,5,2,1.0,3,6,1.0,Research & Development,1,Research Scientist,No
+945,11051,Medical,20,11051,2259.0,No,11051,2.0,0,0,0.0,0,13,4.0,Research & Development,1,Research Scientist,No
+1818,11201,Medical,20,11201,2148.0,Yes,11201,3.0,5,1,1.0,4,6,0.0,Human Resources,1,Human Resources,Yes
+1606,11250,Medical,20,11250,11245.0,Yes,11250,3.0,30,8,12.0,13,32,2.0,Research & Development,4,Healthcare Representative,No
+248,11278,Marketing,20,11278,3140.0,Yes,11278,5.0,4,3,0.0,2,4,1.0,Sales,1,Sales Representative,Yes
+372,11294,Medical,20,11294,13496.0,Yes,11294,2.0,20,7,4.0,10,21,0.0,Research & Development,4,Healthcare Representative,No
+349,11319,Marketing,20,11319,6931.0,No,11319,2.0,3,2,0.0,2,10,2.0,Sales,2,Sales Executive,No
+175,11348,Life Sciences,20,11348,4559.0,Yes,11348,2.0,2,2,2.0,2,4,3.0,Sales,2,Sales Executive,Yes
+1698,10529,Medical,21,10529,2028.0,No,10529,6.0,14,11,2.0,13,14,1.0,Research & Development,1,Laboratory Technician,No
+1821,10606,Medical,21,10606,8926.0,No,10606,2.0,9,7,3.0,7,13,4.0,Research & Development,2,Healthcare Representative,Yes
+1390,10816,Life Sciences,21,10816,6120.0,Yes,10816,2.0,5,4,1.0,4,8,3.0,Sales,2,Sales Executive,No
+270,10899,Medical,21,10899,5265.0,No,10899,5.0,5,3,0.0,2,11,2.0,Research & Development,2,Manufacturing Director,No
+120,10955,Marketing,21,10955,5441.0,Yes,10955,2.0,10,7,1.0,0,11,0.0,Sales,2,Sales Executive,No
+1929,10997,Life Sciences,21,10997,5736.0,No,10997,1.0,3,2,1.0,2,10,6.0,Sales,2,Sales Executive,No
+20,11001,Life Sciences,21,11001,9980.0,No,11001,1.0,10,9,8.0,8,10,1.0,Research & Development,3,Manufacturing Director,No
+959,11111,Other,21,11111,2121.0,Yes,11111,3.0,1,0,0.0,0,1,1.0,Sales,1,Sales Representative,Yes
+525,11179,Medical,21,11179,2258.0,No,11179,1.0,3,2,1.0,2,8,7.0,Research & Development,1,Laboratory Technician,No
+221,11182,Medical,21,11182,2713.0,No,11182,2.0,5,2,0.0,2,5,1.0,Research & Development,1,Research Scientist,No
+900,11224,Medical,21,11224,2973.0,No,11224,3.0,5,4,0.0,0,10,5.0,Sales,1,Sales Representative,No
+1551,11243,Technical Degree,21,11243,2296.0,No,11243,3.0,1,1,0.0,0,2,0.0,Research & Development,1,Laboratory Technician,No
+942,11254,Life Sciences,21,11254,4014.0,Yes,11254,2.0,10,6,0.0,7,10,1.0,Research & Development,2,Healthcare Representative,No
+621,11335,Life Sciences,21,11335,5337.0,No,11335,3.0,10,7,5.0,7,10,1.0,Sales,2,Sales Executive,No
+1655,10664,Other,22,10664,16413.0,No,10664,2.0,4,2,1.0,2,27,3.0,Research & Development,4,Research Director,No
+1900,10715,Medical,22,10715,17174.0,No,10715,3.0,22,17,4.0,7,24,3.0,Research & Development,4,Manager,No
+1392,10746,Life Sciences,22,10746,5467.0,Yes,10746,4.0,6,2,3.0,3,12,3.0,Research & Development,2,Research Scientist,No
+1694,10800,Technical Degree,22,10800,3537.0,No,10800,1.0,4,2,1.0,2,8,5.0,Research & Development,1,Research Scientist,No
+567,10869,Other,22,10869,8412.0,No,10869,3.0,9,8,7.0,8,10,0.0,Sales,3,Sales Executive,No
+1539,10873,Medical,22,10873,14411.0,Yes,10873,2.0,32,6,13.0,9,32,1.0,Research & Development,4,Research Director,No
+1004,10877,Life Sciences,22,10877,2132.0,Yes,10877,2.0,5,2,0.0,1,7,4.0,Research & Development,1,Research Scientist,Yes
+1932,10980,Other,22,10980,5747.0,Yes,10980,3.0,15,10,6.0,11,16,1.0,Research & Development,2,Research Scientist,No
+1714,11213,Human Resources,22,11213,1555.0,No,11213,2.0,1,0,0.0,0,1,1.0,Human Resources,1,Human Resources,Yes
+1944,11230,Human Resources,22,11230,2863.0,No,11230,2.0,1,0,0.0,0,1,1.0,Human Resources,1,Human Resources,Yes
+167,11329,Marketing,22,11329,1675.0,Yes,11329,2.0,0,0,0.0,0,0,1.0,Sales,1,Sales Representative,Yes
+492,11346,Marketing,22,11346,6380.0,Yes,11346,6.0,6,4,1.0,0,8,2.0,Sales,2,Sales Executive,Yes
+261,10570,Life Sciences,23,10570,5916.0,Yes,10570,1.0,1,0,0.0,1,8,3.0,Research & Development,2,Manufacturing Director,Yes
+1165,10589,Life Sciences,23,10589,7336.0,No,10589,3.0,11,8,3.0,10,11,1.0,Sales,3,Sales Executive,Yes
+1373,10638,Life Sciences,23,10638,13402.0,Yes,10638,0.0,19,16,15.0,9,33,4.0,Research & Development,4,Manufacturing Director,No
+1308,10639,Life Sciences,23,10639,2372.0,No,10639,3.0,2,2,2.0,2,2,1.0,Research & Development,1,Research Scientist,No
+1864,10770,Medical,23,10770,3540.0,No,10770,5.0,9,8,5.0,8,9,1.0,Sales,2,Sales Representative,No
+72,10889,Marketing,23,10889,4157.0,Yes,10889,2.0,2,2,0.0,0,5,7.0,Sales,2,Sales Executive,No
+165,10982,Medical,23,10982,10312.0,No,10982,3.0,40,10,15.0,6,40,1.0,Research & Development,3,Healthcare Representative,Yes
+824,11030,Life Sciences,23,11030,2700.0,No,11030,3.0,10,7,0.0,7,10,1.0,Research & Development,1,Research Scientist,No
+468,11079,Life Sciences,23,11079,15992.0,No,11079,2.0,1,0,0.0,0,16,2.0,Research & Development,4,Research Director,No
+75,11087,Medical,23,11087,4014.0,Yes,11087,3.0,2,2,2.0,2,4,3.0,Research & Development,1,Laboratory Technician,No
+639,11136,Medical,23,11136,2725.0,Yes,11136,3.0,6,5,1.0,4,6,1.0,Research & Development,1,Research Scientist,No
+60,11162,Marketing,23,11162,4568.0,No,11162,2.0,9,5,8.0,7,10,0.0,Sales,2,Sales Executive,No
+132,11302,Medical,23,11302,2042.0,No,11302,3.0,3,2,1.0,2,17,4.0,Research & Development,2,Laboratory Technician,No
+1002,11328,Life Sciences,23,11328,3633.0,Yes,11328,2.0,9,8,0.0,8,9,1.0,Research & Development,2,Laboratory Technician,No
+1968,10526,Life Sciences,24,10526,10448.0,Yes,10526,2.0,2,2,2.0,2,15,6.0,Sales,3,Sales Executive,Yes
+1273,10557,Life Sciences,24,10557,1118.0,Yes,10557,4.0,1,0,1.0,0,1,1.0,Sales,1,Sales Representative,Yes
+1173,10646,Medical,24,10646,3597.0,No,10646,2.0,4,3,1.0,2,6,8.0,Research & Development,1,Laboratory Technician,No
+1082,10659,Technical Degree,24,10659,8722.0,No,10659,2.0,10,7,1.0,9,10,1.0,Research & Development,3,Healthcare Representative,Yes
+986,10698,Life Sciences,24,10698,13194.0,Yes,10698,2.0,1,0,0.0,0,22,4.0,Sales,4,Sales Executive,Yes
+605,10738,Medical,24,10738,7406.0,Yes,10738,5.0,10,9,5.0,8,10,1.0,Research & Development,3,Manufacturing Director,No
+419,10789,Life Sciences,24,10789,5674.0,No,10789,3.0,9,8,0.0,8,11,7.0,Research & Development,2,Laboratory Technician,No
+1928,10859,Technical Degree,24,10859,1091.0,No,10859,3.0,1,0,0.0,0,1,1.0,Sales,1,Sales Representative,Yes
+1736,10961,Technical Degree,24,10961,5238.0,No,10961,3.0,5,4,1.0,4,9,2.0,Research & Development,2,Manufacturing Director,No
+1868,10969,Life Sciences,24,10969,2439.0,Yes,10969,3.0,1,0,1.0,0,1,1.0,Research & Development,1,Research Scientist,Yes
+19,10999,Life Sciences,24,10999,2028.0,Yes,10999,4.0,4,2,0.0,3,6,5.0,Research & Development,1,Laboratory Technician,Yes
+1907,11017,Life Sciences,24,11017,2587.0,No,11017,3.0,4,2,1.0,0,5,1.0,Research & Development,1,Laboratory Technician,Yes
+1604,11019,Medical,24,11019,2408.0,Yes,11019,3.0,1,1,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,Yes
+1049,11047,Medical,24,11047,2177.0,No,11047,3.0,6,3,0.0,4,6,1.0,Human Resources,1,Human Resources,No
+1005,11067,Life Sciences,24,11067,13973.0,Yes,11067,2.0,12,11,1.0,5,22,3.0,Research & Development,4,Manufacturing Director,No
+1489,11089,Medical,24,11089,4599.0,Yes,11089,2.0,15,9,10.0,10,16,0.0,Sales,2,Sales Executive,Yes
+11,11138,Life Sciences,24,11138,2693.0,No,11138,2.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,No
+772,11158,Life Sciences,24,11158,5309.0,No,11158,2.0,10,8,4.0,7,10,1.0,Research & Development,2,Laboratory Technician,No
+223,11181,Life Sciences,24,11181,9439.0,Yes,11181,2.0,5,3,1.0,4,12,3.0,Research & Development,3,Healthcare Representative,No
+622,11226,Technical Degree,24,11226,2340.0,Yes,11226,3.0,1,0,0.0,0,1,1.0,Research & Development,1,Laboratory Technician,Yes
+2056,11234,Marketing,24,11234,12031.0,No,11234,2.0,20,9,9.0,6,21,0.0,Sales,4,Sales Executive,No
+744,11253,Medical,24,11253,3708.0,No,11253,5.0,5,2,1.0,4,9,2.0,Research & Development,1,Laboratory Technician,No
+1888,10625,Life Sciences,25,10625,5906.0,No,10625,2.0,9,8,3.0,8,10,0.0,Research & Development,2,Manufacturing Director,No
+475,10653,Technical Degree,25,10653,4736.0,Yes,10653,2.0,2,2,2.0,2,4,7.0,Sales,2,Sales Executive,No
+1306,10739,Medical,25,10739,18061.0,No,10739,4.0,0,0,0.0,0,22,3.0,Research & Development,5,Manager,No
+1269,10817,Life Sciences,25,10817,2994.0,Yes,10817,2.0,1,0,0.0,1,1,1.0,Research & Development,1,Research Scientist,No
+565,10855,Technical Degree,25,10855,2546.0,No,10855,2.0,2,2,1.0,1,6,5.0,Research & Development,1,Research Scientist,Yes
+177,10879,Life Sciences,25,10879,2942.0,No,10879,3.0,8,7,5.0,7,8,1.0,Human Resources,1,Human Resources,No
+529,10919,Medical,25,10919,4449.0,Yes,10919,2.0,13,11,10.0,7,15,3.0,Research & Development,2,Research Scientist,No
+1076,10923,Medical,25,10923,10798.0,No,10923,5.0,1,0,0.0,0,18,5.0,Sales,3,Sales Executive,No
+1397,11009,Life Sciences,25,11009,10920.0,No,11009,2.0,6,4,0.0,5,13,3.0,Research & Development,3,Healthcare Representative,No
+421,11046,Life Sciences,25,11046,12061.0,No,11046,2.0,10,8,0.0,1,19,3.0,Research & Development,3,Research Director,No
+1617,11091,Life Sciences,25,11091,3211.0,No,11091,3.0,9,6,1.0,4,10,1.0,Research & Development,1,Laboratory Technician,No
+899,11094,Technical Degree,25,11094,10903.0,No,11094,2.0,13,10,4.0,8,16,3.0,Research & Development,3,Manufacturing Director,No
+881,11171,Life Sciences,25,11171,2022.0,Yes,11171,3.0,10,2,7.0,8,10,1.0,Research & Development,1,Research Scientist,Yes
+652,11237,Other,25,11237,3681.0,No,11237,3.0,3,2,0.0,2,9,4.0,Research & Development,2,Laboratory Technician,No
+1220,11281,Medical,25,11281,4539.0,No,11281,3.0,10,7,0.0,1,10,1.0,Sales,2,Sales Executive,No
+867,11340,Medical,25,11340,13826.0,No,11340,3.0,9,8,0.0,0,31,3.0,Research & Development,4,Manufacturing Director,No
+1973,10605,Human Resources,26,10605,19636.0,Yes,10605,0.0,10,9,1.0,4,35,4.0,Human Resources,5,Manager,No
+1242,10657,Medical,26,10657,13191.0,Yes,10657,6.0,1,0,0.0,0,20,3.0,Research & Development,3,Research Director,No
+684,10719,Life Sciences,26,10719,4286.0,No,10719,4.0,1,1,0.0,0,5,2.0,Sales,2,Sales Executive,Yes
+158,10732,Life Sciences,26,10732,16959.0,Yes,10732,3.0,25,12,4.0,12,25,1.0,Sales,4,Manager,No
+1180,10850,Medical,26,10850,4422.0,Yes,10850,3.0,1,1,0.0,0,16,3.0,Research & Development,2,Research Scientist,No
+1387,10922,Life Sciences,26,10922,4724.0,No,10922,0.0,5,3,0.0,4,5,1.0,Sales,2,Sales Executive,No
+1612,10947,Marketing,26,10947,4385.0,No,10947,2.0,10,7,4.0,5,10,1.0,Sales,2,Sales Executive,No
+16,10985,Life Sciences,26,10985,2911.0,No,10985,1.0,5,2,4.0,3,5,1.0,Research & Development,1,Research Scientist,No
+851,10993,Marketing,26,10993,16307.0,No,10993,2.0,20,6,4.0,17,29,2.0,Sales,4,Manager,No
+1605,11088,Other,26,11088,2814.0,Yes,11088,2.0,4,2,1.0,3,4,1.0,Research & Development,1,Research Scientist,No
+2040,11121,Life Sciences,26,11121,8837.0,Yes,11121,2.0,9,0,1.0,7,9,1.0,Human Resources,3,Human Resources,No
+1682,11180,Life Sciences,26,11180,5347.0,No,11180,2.0,3,2,0.0,2,10,6.0,Research & Development,2,Healthcare Representative,No
+1625,11311,Life Sciences,26,11311,19658.0,No,11311,2.0,5,2,1.0,0,27,3.0,Human Resources,5,Manager,No
+333,11364,Marketing,26,11364,4465.0,No,11364,2.0,3,2,2.0,2,4,0.0,Sales,2,Sales Executive,No
+1728,10579,Life Sciences,27,10579,6883.0,No,10579,3.0,7,7,0.0,7,17,2.0,Research & Development,2,Manufacturing Director,No
+1622,10647,Medical,27,10647,4877.0,No,10647,5.0,5,3,0.0,0,6,0.0,Research & Development,2,Manufacturing Director,No
+1126,10656,Life Sciences,27,10656,10820.0,No,10656,1.0,8,7,0.0,1,18,8.0,Research & Development,3,Manufacturing Director,No
+747,10668,Marketing,27,10668,5304.0,No,10668,2.0,8,7,7.0,7,10,7.0,Sales,2,Sales Executive,No
+856,10902,Medical,27,10902,2559.0,No,10902,3.0,6,5,1.0,1,6,1.0,Research & Development,1,Research Scientist,No
+1797,10950,Life Sciences,27,10950,5813.0,Yes,10950,2.0,10,7,7.0,7,10,1.0,Sales,2,Sales Executive,Yes
+13,10996,Medical,27,10996,5237.0,No,10996,3.0,7,7,7.0,7,17,6.0,Research & Development,2,Healthcare Representative,No
+247,11289,Medical,27,11289,2311.0,No,11289,3.0,3,2,1.0,2,9,2.0,Research & Development,1,Research Scientist,No
+551,10630,Technical Degree,28,10630,4523.0,No,10630,4.0,6,5,0.0,4,7,0.0,Research & Development,2,Healthcare Representative,No
+1120,10667,Life Sciences,28,10667,2514.0,No,10667,1.0,7,5,1.0,7,11,4.0,Research & Development,1,Research Scientist,No
+171,10680,Medical,28,10680,4739.0,No,10680,2.0,3,2,1.0,2,18,4.0,Research & Development,1,Research Scientist,No
+441,10688,Medical,28,10688,5775.0,No,10688,2.0,10,8,1.0,9,11,1.0,Research & Development,2,Research Scientist,No
+2034,10708,Life Sciences,28,10708,13570.0,No,10708,3.0,20,7,0.0,10,21,0.0,Research & Development,4,Manufacturing Director,No
+1549,10783,Life Sciences,28,10783,5207.0,Yes,10783,3.0,15,14,5.0,7,15,1.0,Research & Development,2,Laboratory Technician,No
+573,10891,Marketing,28,10891,10266.0,No,10891,5.0,18,13,13.0,11,22,4.0,Sales,3,Sales Executive,No
+1420,10930,Life Sciences,28,10930,4284.0,No,10930,2.0,4,3,1.0,3,20,3.0,Research & Development,2,Laboratory Technician,Yes
+1317,10989,Life Sciences,28,10989,16880.0,Yes,10989,2.0,3,2,1.0,2,25,4.0,Research & Development,4,Research Director,No
+641,11072,Marketing,28,11072,6272.0,No,11072,5.0,5,3,1.0,4,6,1.0,Sales,2,Sales Executive,No
+183,11238,Life Sciences,28,11238,8639.0,No,11238,3.0,2,2,2.0,2,6,2.0,Sales,2,Sales Executive,No
+615,11265,Other,28,11265,10932.0,No,11265,2.0,1,0,0.0,1,20,3.0,Sales,3,Sales Executive,No
+2035,11320,Marketing,28,11320,6712.0,No,11320,2.0,8,7,1.0,7,8,1.0,Sales,2,Sales Executive,No
+282,10705,Medical,29,10705,6673.0,Yes,10705,2.0,1,0,0.0,0,17,7.0,Research & Development,2,Healthcare Representative,Yes
+1101,10833,Medical,29,10833,4508.0,No,10833,4.0,13,7,3.0,8,14,1.0,Research & Development,2,Research Scientist,Yes
+1211,10842,Life Sciences,29,10842,4115.0,No,10842,3.0,4,3,0.0,3,8,8.0,Sales,2,Sales Executive,No
+1784,10904,Marketing,29,10904,5468.0,No,10904,3.0,12,7,5.0,7,13,1.0,Sales,2,Sales Executive,No
+79,10946,Life Sciences,29,10946,2406.0,No,10946,2.0,10,3,9.0,9,10,1.0,Research & Development,2,Laboratory Technician,No
+1037,10966,Medical,29,10966,4969.0,No,10966,6.0,2,2,2.0,2,7,8.0,Sales,2,Sales Executive,Yes
+192,10971,Medical,29,10971,3452.0,No,10971,2.0,6,5,0.0,3,9,5.0,Research & Development,1,Research Scientist,No
+618,10975,Medical,29,10975,4306.0,No,10975,5.0,0,0,0.0,0,8,5.0,Sales,2,Sales Executive,No
+836,11056,Life Sciences,29,11056,4434.0,No,11056,3.0,9,8,7.0,8,10,1.0,Research & Development,2,Manufacturing Director,No
+473,11151,Medical,29,11151,12504.0,No,11151,3.0,0,0,0.0,0,15,3.0,Sales,3,Manager,No
+376,11189,Life Sciences,29,11189,11849.0,Yes,11189,2.0,10,7,9.0,9,10,1.0,Research & Development,3,Manager,Yes
+568,11209,Marketing,29,11209,14118.0,No,11209,3.0,1,0,0.0,0,32,3.0,Sales,4,Manager,No
+1725,11246,Medical,29,11246,3907.0,No,11246,2.0,6,2,1.0,2,6,1.0,Research & Development,1,Laboratory Technician,No
+1465,11362,Technical Degree,29,11362,9380.0,Yes,11362,4.0,3,1,1.0,2,10,4.0,Research & Development,3,Manufacturing Director,No
